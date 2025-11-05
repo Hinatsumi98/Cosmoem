@@ -1,8 +1,38 @@
-Cosmoem
-Visuals + outfits and all in NG
-Hinatsumi
-github/HinaHyugaHime
-Fallout 4
-SFW, Steam, DLC Required
-https://github.com/HinaHyugaHime/Cosmoem/blob/main/splash.png
-Discord: https://discord.gg/q2J2a4eF8A
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Cosmoem",
+    "description": "Visuals + outfits and all in NG",
+    "author": "Hinatsumi",
+    "maintainers": [
+      "github/HinaHyugaHime"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "SFW",
+      "Steam",
+      "DLC Required"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/HinaHyugaHime/Cosmoem/blob/main/splash.png",
+      "readme": "https://www.nexusmods.com/fallout4/mods/97648",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_f5338214-313c-4889-a651-d3d33c902508",
+      "machineURL": "Cosmoem",
+      "discordURL": "https://discord.gg/q2J2a4eF8A"
+    },
+    "download_metadata": {
+ "Hash":"0N6hZPT1nNo=",
+      "Size":4801209589,
+      "NumberOfArchives":1446,
+      "SizeOfArchives":178245551605,
+      "NumberOfInstalledFiles":69860,
+      "SizeOfInstalledFiles":240538895770,
+      "TotalSize":418784447375}
+  }
+]
+
+
