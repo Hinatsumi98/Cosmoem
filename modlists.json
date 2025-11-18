@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_cdc7a6ab-c54e-426f-93bd-23571cf67faf",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_6ebc380e-419d-4e72-b508-61cc837200e1",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/q2J2a4eF8A",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "EDQy4FJ4gVE=",
-      "Size": 135238444,
-      "NumberOfArchives": 1692,
-      "SizeOfArchives": 154861347106,
-      "NumberOfInstalledFiles": 75084,
-      "SizeOfInstalledFiles": 215289781164,
-      "TotalSize": 370151128270
+      "Hash": "FdPaSlPaTHs=",
+      "Size": 135804755,
+      "NumberOfArchives": 2010,
+      "SizeOfArchives": 172309622221,
+      "NumberOfInstalledFiles": 77475,
+      "SizeOfInstalledFiles": 256749386046,
+      "TotalSize": 429059008267
     },
-    "version": "1.5",
+    "version": "2.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-17T02:54:20.0978177Z",
+    "dateUpdated": "2025-11-18T19:56:21.9448037Z",
     "repositoryName": ""
   }
 ]
