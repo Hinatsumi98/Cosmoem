@@ -1,7 +1,7 @@
 [
   {
     "title": "Cosmoem",
-    "description": "Visuals \u002B outfits and all in NG",
+    "description": "Visit the Cosmos",
     "author": "Hinatsumi",
     "maintainers": [
       "github/HinaHyugaHime"
@@ -17,7 +17,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
@@ -40,4 +40,5 @@
     "dateUpdated": "2025-11-19T22:14:46.1014988Z",
     "repositoryName": ""
   }
+
 ]
