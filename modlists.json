@@ -17,13 +17,13 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
       "readme": "https://www.nexusmods.com/fallout4/mods/97648",
       "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_98f4275e-5fa0-413d-906f-392917f8e29c",
       "machineURL": "Cosmoem",
-      "discordURL": "https://discord.gg/q2J2a4eF8A",
+      "discordURL": "https://discord.gg/c3RFwyAFsG",
       "websiteURL": ""
     },
     "download_metadata": {
@@ -42,4 +42,5 @@
   }
 
 ]
+
 
