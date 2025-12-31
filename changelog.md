@@ -2,6 +2,95 @@
 
 - [2.4.1.1](#2411)
 - [2.4.1.2](#2412)
+- [2.4.2.1](#2421)
+
+## 2.4.2.1
+**Built at:** `12/31/2025 1:41:24 AM`
+
+**Download Changes:**
+
+- Added [Bethini Pie (Performance INI Editor) v4.10](https://www.nexusmods.com/site/mods/631)
+- Added [Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless) v1.0](https://www.nexusmods.com/fallout4/mods/87136)
+- Added [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Added [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Updated [Far Better Far Harbor - Exploration Expanded to v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Ponytail Hairstyles by Azar v2.5a to v2.5a](https://www.nexusmods.com/fallout4/mods/8126)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [DynDOLOD 3 Alpha vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [xEdit.4.1.5f.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Vault Girl Interface Continued mod v1.0](https://www.nexusmods.com/fallout4/mods/94329)
+- Removed [Vivid Fallout - LOD and Far Distant Detail v1.3](https://www.nexusmods.com/fallout4/mods/71745)
+- Removed [Black Pip-Girl Safe and Pervert Edition v0.05](https://www.nexusmods.com/fallout4/mods/64106)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Ponytail Hairstyles by Azar v2.5a v2.5a](https://www.nexusmods.com/fallout4/mods/8126)
+- Removed [Valkyr Female Face and Body Textures v2.1](https://www.nexusmods.com/fallout4/mods/3841)
+- Removed [Vivid Fallout - Landscapes - Complex Parallax Occlusion v1.6](https://www.nexusmods.com/fallout4/mods/67857)
+- Removed [xLODGen.132.7z](https://mega.nz/file/hNwjkYQI#vzHQoXn-Ugj81vRL-L82eSUBcXnqUpTkZsXDxfYqnYE)
+- Removed [The Eyes Of Beauty Fallout Edition v3.2](https://www.nexusmods.com/fallout4/mods/133)
+- Removed [FlaconOil's Complete Retexture Project vPart3-V1](https://www.nexusmods.com/fallout4/mods/3747)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Far Object LOD Improvement Project v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Removed [Vivid Fallout - Rocks - Complex Parallax Occlusion v1.5](https://www.nexusmods.com/fallout4/mods/67793)
+- Removed [FlaconOil's Complete Retexture Project vPart3-V1](https://www.nexusmods.com/fallout4/mods/3747)
+- Removed [FlaconOil's Complete Retexture Project vPart3-V1](https://www.nexusmods.com/fallout4/mods/3747)
+- Removed [Vault Girl Tutorial Text and Messages v1.0](https://www.nexusmods.com/fallout4/mods/94658)
+- Removed [Vaultmeat Pervert Pip-boy v2.0](https://www.nexusmods.com/fallout4/mods/7530)
+- Removed [Far Better Far Harbor - Exploration Expanded v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Removed [Vivid Fallout - All in One v1.9](https://www.nexusmods.com/fallout4/mods/25714)
+
+**Load Order Changes:**
+- Added HiPolyFacesCompanionPlugin.esl
+- Added HDRP AIO 2K0.esp
+- Added HDRP AIO 2K.esp
+- Added HDRP CC AIO 2K.esp
+- Added PureOpulence.esp
+- Added HiPolyFaces.esp
+- Removed FlaconOil_1K_Pipboy.esp
+- Removed FlaconOil_1K_0.esp
+- Removed 1K_The Patch_4.2.1.esp
+- Removed Vivid Fallout - Landscapes - Complex Parallax Occlusion.esp
+- Removed HDRP AIO 1K.esp
+- Removed HDRP AIO 1K0.esp
+- Removed HDRP CC AIO 1K.esp
+- Removed VividFallout - AiO - 1k.esp
+- Removed Vivid Fallout - Complex Parallax Rocks.esp
+- Removed FO4LODGen-DLCCoast-WindTurbines.esp
+- Removed FO4LODGen-DLCCoast.esp
+- Removed FO4LODGen-DLCNukaWorld.esp
+- Removed FO4LODGen-DLCWorkshop03.esp
+- Removed FO4LODGen-FullModelLOD.esp
+
+**Mod Changes:**
+- Added Bethini Pie
+- Added Cosmoem - xEdit
+- Added HDRP CC AIO 2K
+- Added HDRP AIO 2K
+- Added HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
+- Added Pure Opulence - 8K - For HiPoly Face REDUX
+- Removed Cosmoem - Aftergen
+- Removed Vivid Fallout - Rocks - Complex Parallax Occlusion
+- Removed Vivid Fallout - LOD and Far Distant Detail
+- Removed 1K The Patch
+- Removed 1K Pipboy
+- Removed Vivid Fallout - All in One
+- Removed Vivid Fallout - Landscapes - Complex Parallax Occlusion - BS2 archive - 2k-4k
+- Removed FlaconOil 1K BA2
+- Removed HDRP AIO 1K
+- Removed Valkyr Face Texture 1K Fair Skin
+- Removed Vault Girl Interface Continued mod
+- Removed Vault Girl Tutorial Text and Messages
+- Removed Vault Meat Pervert Pip-Boy NMM Installer
+- Removed Black Safe Edition PipBoy
+
 
 ## 2.4.1.2
 **Built at:** `12/30/2025 9:20:18 AM`
@@ -1545,4 +1634,5 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
