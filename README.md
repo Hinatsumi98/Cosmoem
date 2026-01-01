@@ -1,8 +1,7 @@
 # Cosmoem
-WJ Modlist
 Forked list from A Beautiful Commonwealth
-Updated everything to work with AE
+Added several mods to change things up and added a bunch of new content including settlements and a few custom story mods!
 Credits to tpartridge89 for the base of the list and his support making it my own.
-Support Server: https://discord.gg/q2J2a4eF8A
-Credits for the Red ranger patch by DiFone432
-Requires CK and full game! No longer requires AE CC!
+Support Server: https://discord.gg/c3RFwyAFsG
+Credits for the outfit patches by DiFone432
+Requires CK and full game! No longer requires all CC just NG CC updated! 
