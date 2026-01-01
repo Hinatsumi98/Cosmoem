@@ -3,6 +3,782 @@
 - [2.4.1.1](#2411)
 - [2.4.1.2](#2412)
 - [2.4.2.1](#2421)
+- [2.4.5](#245)
+
+## 2.4.5
+**Built at:** `1/1/2026 3:57:28 AM`
+
+**Download Changes:**
+
+- Added [Araki-style face paint v1](https://www.nexusmods.com/fallout4/mods/62520)
+- Added [Fourville v1.13](https://www.nexusmods.com/fallout4/mods/43979)
+- Added [LooksMenu Body Tattoos (CBBE) (EVB or vanilla) v1.3.2](https://www.nexusmods.com/fallout4/mods/25000)
+- Added [Munitions - Ammo Expansion Project v1.2.3](https://www.nexusmods.com/fallout4/mods/66051)
+- Added [Optimization and Tweaks for Thuggysmurf's Quest Mods (Fusion City - Outcasts and Remnants - Depravity) v2.1.6](https://www.nexusmods.com/fallout4/mods/56876)
+- Added [Phase 4 An Institute Expansion v1.2](https://www.nexusmods.com/fallout4/mods/42647)
+- Added [Tattoos Collection by Dreivor 1922 COMPLETE EDITION v1922](https://www.nexusmods.com/fallout4/mods/49177)
+- Added [Vintage Revolver - Smith and Wesson Schofield Model 3 v1.0.3](https://www.nexusmods.com/fallout4/mods/95859)
+- Added [Auto Marker Nearby Magazines and Weapons v2.1.6](https://www.nexusmods.com/fallout4/mods/89614)
+- Added [Fusion City Rising - Quest Mod Plus v1.0](https://www.nexusmods.com/fallout4/mods/16423)
+- Added [Outcasts and Remnants - Quest Mod Plus v1.51](https://www.nexusmods.com/fallout4/mods/21469)
+- Added [Pipe Carbine - Rat Runners Arsenal v1.6](https://www.nexusmods.com/fallout4/mods/83926)
+- Added [Furby's Face Paints and Scars v1](https://www.nexusmods.com/fallout4/mods/57407)
+- Added [Project Valkyrie v1.3](https://www.nexusmods.com/fallout4/mods/28085)
+- Added [Wasteland Goth - Standalone Looksmenu Makeup v1.0.0](https://www.nexusmods.com/fallout4/mods/91676)
+- Added [Desert Eagle - Standalone Handgun v2.1](https://www.nexusmods.com/fallout4/mods/10011)
+- Added [Anto Hair Pack v2.0](https://www.nexusmods.com/fallout4/mods/73092)
+- Added [Fourville - eXoPatch v1.5.5](https://www.nexusmods.com/fallout4/mods/61080)
+- Added [Rutah Tattoo Pack for LooksMenu (CBBE) v1.02](https://www.nexusmods.com/fallout4/mods/43661)
+- Added [The K Makeup v1.1](https://www.nexusmods.com/fallout4/mods/50678)
+- Added [12.7mm SMG - Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/96444)
+- Added [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Added [Emirals Viva Nuka-World Reborn Previs and UFO4P Patch v1.2](https://www.nexusmods.com/fallout4/mods/80489)
+- Added [LooksMenu Nail Salon CBBE - EVB -Vanilla v3.2](https://www.nexusmods.com/fallout4/mods/29291)
+- Added [Militia Carbine (Spitfire Carbine) v1.0.0](https://www.nexusmods.com/fallout4/mods/83884)
+- Added [Vendors Always Sell Player Weapons Ammo v1.0](https://www.nexusmods.com/fallout4/mods/99110)
+- Added [Security SMG  - A Unique 10mm Submachinegun v1.3](https://www.nexusmods.com/fallout4/mods/64256)
+- Added [OaR - Keep Your Items v1.01](https://www.nexusmods.com/fallout4/mods/41126)
+- Added [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Added [The 9mm Pistol (Browning Hi-Power) Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/93471)
+- Added [Optimization and Tweaks for Thuggysmurf's Quest Mods (Fusion City - Outcasts and Remnants - Depravity) v2.1.6](https://www.nexusmods.com/fallout4/mods/56876)
+- Added [Fourville - eXoPatch v1.5.5](https://www.nexusmods.com/fallout4/mods/61080)
+- Added [Hunter's Knife v1](https://www.nexusmods.com/fallout4/mods/82917)
+- Added [The Marine Shotgun - Prototype SW Burst Shotgun v1.0.3Reup](https://www.nexusmods.com/fallout4/mods/97161)
+- Added [EoW - Makeup Colors v1.0](https://www.nexusmods.com/fallout4/mods/15379)
+- Added [Emirals Viva Nuka-World Reborn Previs and UFO4P Patch v1.2](https://www.nexusmods.com/fallout4/mods/80489)
+- Added [Weapon Wall Racks (WWR) v1.1](https://www.nexusmods.com/fallout4/mods/53394)
+- Added [Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader) v1.3](https://www.nexusmods.com/fallout4/mods/62347)
+- Added [Pistol Grip Combat Rifle v1.1](https://www.nexusmods.com/fallout4/mods/55719)
+- Added [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Added [Falcon Arms MP4 Spectre SMG v1.03](https://www.nexusmods.com/fallout4/mods/93987)
+- Added [Winchester 5mm Range Rifle v1.1](https://www.nexusmods.com/fallout4/mods/53570)
+- Added [European Assault Rifle - FN FNC - Another Another Millenia v1.0](https://www.nexusmods.com/fallout4/mods/70995)
+- Added [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Added [PBW - The Chinese Assault Rifle v1.0](https://www.nexusmods.com/fallout4/mods/76233)
+- Added [Falcon Arms MP4 Spectre SMG v1.03](https://www.nexusmods.com/fallout4/mods/93987)
+- Added [Bullpup Sniper Rifle - Walther WA2000 v1.0.1](https://www.nexusmods.com/fallout4/mods/95542)
+- Added [The Bush Knife - Kukri v1.0.0](https://www.nexusmods.com/fallout4/mods/96060)
+- Added [Fusion City Rising - Quest Mod Plus v1.0](https://www.nexusmods.com/fallout4/mods/16423)
+- Updated [Eli's Armour Compendium to v1.5](https://www.nexusmods.com/fallout4/mods/22431)
+- Updated [Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless) to v1.0](https://www.nexusmods.com/fallout4/mods/87136)
+- Updated [Difone432's Patches to v0.1](https://www.nexusmods.com/fallout4/mods/98915)
+- Removed [Far Better Far Harbor - Exploration Expanded v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Removed [All Weapons HD (A.W.H.D.) v1.5](https://www.nexusmods.com/fallout4/mods/8556)
+- Removed [Children of Atom Power Armor v1.0.5](https://www.nexusmods.com/fallout4/mods/47586)
+- Removed [Fallout 4 Particle Patch - No More Glowing Objects v1.2](https://www.nexusmods.com/fallout4/mods/68599)
+- Removed [HighPoly NukaGirl RocketSuit v1.0](https://www.nexusmods.com/fallout4/mods/56181)
+- Removed [Human Grab Attacks v1.2.0](https://www.nexusmods.com/fallout4/mods/53689)
+- Removed [Institute Power Armor Redux v1.0](https://www.nexusmods.com/fallout4/mods/58918)
+- Removed [K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat v1.1](https://www.nexusmods.com/fallout4/mods/17686)
+- Removed [LC's UHD Mutant Hound v1](https://www.nexusmods.com/fallout4/mods/59838)
+- Removed [Lush Ambience - A Green Soundscape v2.2](https://www.nexusmods.com/fallout4/mods/38609)
+- Removed [More Prefabs v1.0000001](https://www.nexusmods.com/fallout4/mods/54506)
+- Removed [Nuka Gear v1.2](https://www.nexusmods.com/fallout4/mods/11798)
+- Removed [Nuka-World Settlements Pack - Tenhats' Collection v1.00.3](https://www.nexusmods.com/fallout4/mods/88056)
+- Removed [Nuka-World Settlements Pack - Tenhats' Collection v1.00.3](https://www.nexusmods.com/fallout4/mods/88056)
+- Removed [Radiant Birds vv0.5](https://www.nexusmods.com/fallout4/mods/2397)
+- Removed [Spiral Garden - Pra's Plot-A-Palooza 3 Entry v1.0](https://www.nexusmods.com/fallout4/mods/91882)
+- Removed [SS2 Radiant Municipal Power v2](https://www.nexusmods.com/fallout4/mods/59724)
+- Removed [Take Your Cores v102](https://www.nexusmods.com/fallout4/mods/14773)
+- Removed [The Eyes Of Beauty Fallout Edition v3.2](https://www.nexusmods.com/fallout4/mods/133)
+- Removed [The Nuka Project v1](https://www.nexusmods.com/fallout4/mods/53789)
+- Removed [Traders' Paradise - SS2 Addon v1.0.1](https://www.nexusmods.com/fallout4/mods/82848)
+- Removed [True Storms - Wasteland Edition (Thunder-Rain-Weather Redone) v1.4.2](https://www.nexusmods.com/fallout4/mods/4472)
+- Removed [Ultracite Power Armor v1.3](https://www.nexusmods.com/fallout4/mods/44804)
+- Removed [Very Zen Trash Piles v1.0](https://www.nexusmods.com/fallout4/mods/65537)
+- Removed [Wagon Tails Pet Shop - A Plot-A-Palooza 4 Entry v1](https://www.nexusmods.com/fallout4/mods/96313)
+- Removed [Dogmeat Helmets and Hats v1.1](https://www.nexusmods.com/fallout4/mods/27059)
+- Removed [Clarity - A Visual Overhaul v4.2](https://www.nexusmods.com/fallout4/mods/31991)
+- Removed [Enhanced Blood Textures v1.01](https://www.nexusmods.com/fallout4/mods/212)
+- Removed [Fallout 4 - Hot Coffee v1.0](https://www.nexusmods.com/fallout4/mods/57521)
+- Removed [GavMan's Milky SS2 Plotapalooza 3 AddOn v0.2](https://www.nexusmods.com/fallout4/mods/91918)
+- Removed [Jolly Item Sounds v1.10.0](https://www.nexusmods.com/fallout4/mods/53833)
+- Removed [Lighting Series  - All In One v2](https://www.nexusmods.com/fallout4/mods/20531)
+- Removed [SavrenX Organic Gore v1.00](https://www.nexusmods.com/fallout4/mods/40351)
+- Removed [SavrenX Synth HD v1.00](https://www.nexusmods.com/fallout4/mods/40386)
+- Removed [Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer v1.1](https://www.nexusmods.com/fallout4/mods/32224)
+- Removed [Ultimate Window Overhaul Redone v1.4.4](https://www.nexusmods.com/fallout4/mods/43458)
+- Removed [Workbench Replacer HD v1.0](https://www.nexusmods.com/fallout4/mods/64518)
+- Removed [ZP's Fire and Smoke v01](https://www.nexusmods.com/fallout4/mods/88430)
+- Removed [ZP's Fire and Smoke v01](https://www.nexusmods.com/fallout4/mods/88430)
+- Removed [ZP's Frost and Shock v01](https://www.nexusmods.com/fallout4/mods/88525)
+- Removed [Better Quarry Sites vv2.2](https://www.nexusmods.com/fallout4/mods/1366)
+- Removed [Better Quarry Sites vv2.2](https://www.nexusmods.com/fallout4/mods/1366)
+- Removed [Better Workshop Street Oil Lamps vv1.62](https://www.nexusmods.com/fallout4/mods/22576)
+- Removed [Classy Chassis Outfits - Eli's Armour Replacer v1.1](https://www.nexusmods.com/fallout4/mods/52851)
+- Removed [Deathclaws HD remastered v1](https://www.nexusmods.com/fallout4/mods/51694)
+- Removed [DX Star Trek TOS Uniform v1.0](https://www.nexusmods.com/fallout4/mods/67034)
+- Removed [Eyewear and mask retexture v1.6](https://www.nexusmods.com/fallout4/mods/5021)
+- Removed [GavMan's Buildings - SS2 Add-on v0.2](https://www.nexusmods.com/fallout4/mods/79539)
+- Removed [HD Chems Project_Jet and Xcell v1](https://www.nexusmods.com/fallout4/mods/67888)
+- Removed [LC's UHD Bloatfly Meat v1](https://www.nexusmods.com/fallout4/mods/60803)
+- Removed [LC's UHD Fungus Brain v2](https://www.nexusmods.com/fallout4/mods/59576)
+- Removed [MM69's Ghoul Hunter v1.0.0](https://www.nexusmods.com/fallout4/mods/97220)
+- Removed [Nuka Gear v1.2](https://www.nexusmods.com/fallout4/mods/11798)
+- Removed [Perfect landscape by Pfuscher v1.0](https://www.nexusmods.com/fallout4/mods/48403)
+- Removed [Protectron HD - 2K and 4K v0.2](https://www.nexusmods.com/fallout4/mods/15038)
+- Removed [Savrenx Dogmeat HD V2 v1.00](https://www.nexusmods.com/fallout4/mods/68460)
+- Removed [Sexy Sports Lingerie - CBBE - BodySlide v1.02](https://www.nexusmods.com/fallout4/mods/53871)
+- Removed [Targeted Textures - Vanilla textures upscaled fixed and sized v2.2](https://www.nexusmods.com/fallout4/mods/62958)
+- Removed [TES-51 Power Armor -Skyrim Inspired- v1.2](https://www.nexusmods.com/fallout4/mods/17956)
+- Removed [Ultra Exterior Lighting v1.04](https://www.nexusmods.com/fallout4/mods/41625)
+- Removed [Vault-Tec Workshop Overhaul Redux (VTWOR) v2.2.2](https://www.nexusmods.com/fallout4/mods/43643)
+- Removed [Vintage Summer CBBE v1.1](https://www.nexusmods.com/fallout4/mods/53654)
+- Removed [Vtaw 2022 Xmas - CBBE - BodySlide v1.1](https://www.nexusmods.com/fallout4/mods/67175)
+- Removed [Vtaw Gothic Dress - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/74390)
+- Removed [3D Super Mutant Chains v1](https://www.nexusmods.com/fallout4/mods/78521)
+- Removed [Anime Eyes - Standalone v1.0](https://www.nexusmods.com/fallout4/mods/13160)
+- Removed [Sexy Sports Lingerie - CBBE NeverNude Replacer v1.0.0](https://www.nexusmods.com/fallout4/mods/65585)
+- Removed [Commonwealth Gunfire Overhaul - realistic weapon sounds v2.4.1](https://www.nexusmods.com/fallout4/mods/36511)
+- Removed [Diving Power Armor v1.2.2.4](https://www.nexusmods.com/fallout4/mods/91493)
+- Removed [Gipsy Danger Power Armor v1.4](https://www.nexusmods.com/fallout4/mods/18424)
+- Removed [Liberty Power Armor v2.2](https://www.nexusmods.com/fallout4/mods/16305)
+- Removed [Midwestern Power Armor v1.5.1](https://www.nexusmods.com/fallout4/mods/15021)
+- Removed [Much Better 3rd Person Animations Tactics - MoreLikeVicky's Edition vassault-rifles-1.8](https://www.nexusmods.com/fallout4/mods/57642)
+- Removed [Nuka World - Lighting - Cyberpunk 2077 v1a](https://www.nexusmods.com/fallout4/mods/21565)
+- Removed [Rebuild Sanctuary SS2 Addon Pack v1.1](https://www.nexusmods.com/fallout4/mods/91270)
+- Removed [Tumbajamba's Combat Power Armor v1.6.1](https://www.nexusmods.com/fallout4/mods/7841)
+- Removed [T51c AirForce Power Armor v1.1](https://www.nexusmods.com/fallout4/mods/17941)
+- Removed [Tumbajamba's Synth Power Armor v1.3](https://www.nexusmods.com/fallout4/mods/67969)
+- Removed [Vault Tec Power Armor v1.1](https://www.nexusmods.com/fallout4/mods/25263)
+- Removed [Vtaw Summer Mini Dress - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/56581)
+- Removed [War Machine v1.1](https://www.nexusmods.com/fallout4/mods/21029)
+- Removed [Appealing Moles v2.01](https://www.nexusmods.com/fallout4/mods/3802)
+- Removed [Commonwealth Explosion Overhaul v1.5](https://www.nexusmods.com/fallout4/mods/37010)
+- Removed [Looks Menu Customization Compendium vv10](https://www.nexusmods.com/fallout4/mods/24830)
+- Removed [Human Grab Attacks v1.2.0](https://www.nexusmods.com/fallout4/mods/53689)
+- Removed [Looks Menu Customization Compendium vv10](https://www.nexusmods.com/fallout4/mods/24830)
+- Removed [Monsterum -DeathClaw Sounds Rework- v1.2](https://www.nexusmods.com/fallout4/mods/52771)
+- Removed [Pure Opulence Skin (8k - 4K) (CBBE - TWB - 3BBB Seamless) v1.0](https://www.nexusmods.com/fallout4/mods/87136)
+- Removed [Tumbajamba's Spartan Battle Suit v1.1](https://www.nexusmods.com/fallout4/mods/9912)
+- Removed [Tumbajamba's Raider Power Armor v1.5](https://www.nexusmods.com/fallout4/mods/68602)
+- Removed [Bandanas fit K9 Harness v1.0.0](https://www.nexusmods.com/fallout4/mods/45350)
+- Removed [Detailed Feral Ghouls v3.1](https://www.nexusmods.com/fallout4/mods/20555)
+- Removed [GavMan's Church SS2 Plotapalooza AddOn v0.1](https://www.nexusmods.com/fallout4/mods/88573)
+- Removed [illuminated AIO - Let there be light edition v1.1](https://www.nexusmods.com/fallout4/mods/70447)
+- Removed [Settlement Menu Manager Patches (SMM) v2.0](https://www.nexusmods.com/fallout4/mods/72254)
+- Removed [Shadow Wastelands SS2 World Repopulation Cells Starter Pack vv1](https://www.nexusmods.com/fallout4/mods/69507)
+- Removed [ZP's Fire and Smoke v01](https://www.nexusmods.com/fallout4/mods/88430)
+- Removed [Shack Floors Re-Done 4K v1.2](https://www.nexusmods.com/fallout4/mods/2174)
+- Removed [Fabulous Fire Extinguisher (Replacer) v1.0](https://www.nexusmods.com/fallout4/mods/70706)
+- Removed [LC's UHD Mirelurk Eggs v1](https://www.nexusmods.com/fallout4/mods/60085)
+- Removed [Hit Those Explosives v1.3.0](https://www.nexusmods.com/fallout4/mods/82592)
+- Removed [Evil Institute HD v1.4](https://www.nexusmods.com/fallout4/mods/9537)
+- Removed [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Removed [LC's UHD Bloatfly v2](https://www.nexusmods.com/fallout4/mods/59897)
+- Removed [LC's UHD Pickman's Paintings v2](https://www.nexusmods.com/fallout4/mods/60618)
+- Removed [Nuka Girl - Detachable Helmet v1.0.0](https://www.nexusmods.com/fallout4/mods/70708)
+- Removed [SavrenX Power Armor HD DLC v1.01](https://www.nexusmods.com/fallout4/mods/40373)
+- Removed [Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth v1.0](https://www.nexusmods.com/fallout4/mods/89592)
+- Removed [Canary Save File Monitor v1.0.0](https://www.nexusmods.com/fallout4/mods/44949)
+- Removed [The Fungal Forest - Radsoaked v1.0.0](https://www.nexusmods.com/fallout4/mods/89795)
+- Removed [MeanMachineEyes ( Standalone ) v1](https://www.nexusmods.com/fallout4/mods/7339)
+- Removed [Hellcat Power Armor v1.2](https://www.nexusmods.com/fallout4/mods/55128)
+- Removed [LC's UHD Feral Ghoul Apparel v3](https://www.nexusmods.com/fallout4/mods/59549)
+- Removed [Reverb and Ambiance Overhaul v1.6e](https://www.nexusmods.com/fallout4/mods/10189)
+- Removed [Shadows for hostile spotlights and searchlights vv2](https://www.nexusmods.com/fallout4/mods/11364)
+- Removed [T 65 Power Armor v1.0](https://www.nexusmods.com/fallout4/mods/49922)
+- Removed [illuminated AIO - Let there be light edition v1.1](https://www.nexusmods.com/fallout4/mods/70447)
+- Removed [LC's UHD Brahmin Remains v1](https://www.nexusmods.com/fallout4/mods/60340)
+- Removed [Cinematic Lensflares v1.1](https://www.nexusmods.com/fallout4/mods/28200)
+- Removed [HD Chems Project_Psycho and MedX v3](https://www.nexusmods.com/fallout4/mods/68261)
+- Removed [I've got Wood too - The Sanctuary Texture REDUX v1.1](https://www.nexusmods.com/fallout4/mods/70763)
+- Removed [Project Black Bird v1.1](https://www.nexusmods.com/fallout4/mods/99271)
+- Removed [Reverb and Ambiance Overhaul v1.6e](https://www.nexusmods.com/fallout4/mods/10189)
+- Removed [SS2 Blood Moon Raiders - A Sim Settlements 2 Addon Pack v1.0](https://www.nexusmods.com/fallout4/mods/59399)
+- Removed [The Eyes Of Beauty Fallout Edition v3.2](https://www.nexusmods.com/fallout4/mods/133)
+- Removed [SS2 Superstructures - A Sim Settlements 2 Addon Pack v2.13](https://www.nexusmods.com/fallout4/mods/47848)
+- Removed [Better Leaf Piles v1.01](https://www.nexusmods.com/fallout4/mods/34849)
+- Removed [HD Prewar Money v1](https://www.nexusmods.com/fallout4/mods/59016)
+- Removed [SS2 - Interior Snap Points Adjustments v1.0](https://www.nexusmods.com/fallout4/mods/85906)
+- Removed [Baseline Plots Brotherhood - An SS2 Add-On v1.0](https://www.nexusmods.com/fallout4/mods/85787)
+- Removed [Diamond City Ambience v1.12](https://www.nexusmods.com/fallout4/mods/39267)
+- Removed [Excavator Power Armor valpha-v3.3](https://www.nexusmods.com/fallout4/mods/41884)
+- Removed [FaceGen Repository vv1](https://www.nexusmods.com/fallout4/mods/94048)
+- Removed [First-Person Swimming Animations v1.0](https://www.nexusmods.com/fallout4/mods/62123)
+- Removed [Forest Fungus De-Lit v1.0](https://www.nexusmods.com/fallout4/mods/67206)
+- Removed [Immersive Candles v.91](https://www.nexusmods.com/fallout4/mods/58396)
+- Removed [LC's UHD Radroach v2](https://www.nexusmods.com/fallout4/mods/59609)
+- Removed [Nuka-World Settlements Pack - Tenhats' Collection v1.00.3](https://www.nexusmods.com/fallout4/mods/88056)
+- Removed [SavrenX Synth HD v1.00](https://www.nexusmods.com/fallout4/mods/40386)
+- Removed [True Grass v0.3](https://www.nexusmods.com/fallout4/mods/23469)
+- Removed [Ultra Interior Lighting v2.3](https://www.nexusmods.com/fallout4/mods/22101)
+- Removed [LC's UHD Commemorative Mural v1](https://www.nexusmods.com/fallout4/mods/60445)
+- Removed [Alternative Female Cinematic Intro v1](https://www.nexusmods.com/fallout4/mods/37738)
+- Removed [LC's UHD Bloodrage Mirelurk v2](https://www.nexusmods.com/fallout4/mods/59782)
+- Removed [Reverb and Ambiance Overhaul - Vault Reverb Patch v0.1](https://www.nexusmods.com/fallout4/mods/22424)
+- Removed [Simple Attack Reactions - Limb-Specific Animations v2b](https://www.nexusmods.com/fallout4/mods/70629)
+- Removed [Tumbajamba's Power Armor for Strong v1.1.1](https://www.nexusmods.com/fallout4/mods/10887)
+- Removed [True Storms - Wasteland Edition (Thunder-Rain-Weather Redone) v1.4.2](https://www.nexusmods.com/fallout4/mods/4472)
+- Removed [CaptainLaserbeam's Assorted SS2 Patches - Munitions DLC and more v1.0.0](https://www.nexusmods.com/fallout4/mods/84661)
+- Removed [Doc Drumlin by SKK v002](https://www.nexusmods.com/fallout4/mods/29977)
+- Removed [Gloomy Glass - All transparent materials revised v1.1](https://www.nexusmods.com/fallout4/mods/62518)
+- Removed [Hellcat Power Armor v1.2](https://www.nexusmods.com/fallout4/mods/55128)
+- Removed [Horseman of the Apocalypse - War v1.0](https://www.nexusmods.com/fallout4/mods/64855)
+- Removed [Midwest Power Armor Evolution v1.2](https://www.nexusmods.com/fallout4/mods/33121)
+- Removed [Plain Plans by MsB - SS2 Add-On Pack v1.1](https://www.nexusmods.com/fallout4/mods/62383)
+- Removed [Ravenswift's Rec Booths Addon Pack for SS2 v1.0](https://www.nexusmods.com/fallout4/mods/93141)
+- Removed [SS2 Addon - Bare Essentials v1.1.0](https://www.nexusmods.com/fallout4/mods/50362)
+- Removed [SS2 Caravan Supplies Plus v1](https://www.nexusmods.com/fallout4/mods/59147)
+- Removed [T-47R Power Armor v1.1](https://www.nexusmods.com/fallout4/mods/71103)
+- Removed [Workbench Replacer HD v1.0](https://www.nexusmods.com/fallout4/mods/64518)
+- Removed [LC's UHD Deathclaw Egg v2](https://www.nexusmods.com/fallout4/mods/59561)
+- Removed [Kirs freckles v1.0](https://www.nexusmods.com/fallout4/mods/9556)
+- Removed [Bad Boys - Civil Servant Power Armor Klaxons and Paint v.9](https://www.nexusmods.com/fallout4/mods/60608)
+- Removed [Better Landscape Grass v3.1](https://www.nexusmods.com/fallout4/mods/38360)
+- Removed [Diamond City Supplements v1.2](https://www.nexusmods.com/fallout4/mods/75054)
+- Removed [Enclave Power Armor v1.0](https://www.nexusmods.com/fallout4/mods/59228)
+- Removed [Ghouls Revamped v1.1](https://www.nexusmods.com/fallout4/mods/33666)
+- Removed [I've got Wood too - The Sanctuary Texture REDUX v1.1](https://www.nexusmods.com/fallout4/mods/70763)
+- Removed [LC's UHD Skeleton Wardrobe v1](https://www.nexusmods.com/fallout4/mods/59670)
+- Removed [SE-01 Power Armor v1.0.2](https://www.nexusmods.com/fallout4/mods/66456)
+- Removed [Space Marine v1.1](https://www.nexusmods.com/fallout4/mods/93462)
+- Removed [The Fungal Forest v0.2](https://www.nexusmods.com/fallout4/mods/39905)
+- Removed [Simple Attack Reaction Speed (Fix) v1](https://www.nexusmods.com/fallout4/mods/70754)
+- Removed [Buildable Power Armor Frames v1.35](https://www.nexusmods.com/fallout4/mods/6698)
+- Removed [CaptainLaserbeam's Assorted SS2 Patches - Munitions DLC and more v1.0.0](https://www.nexusmods.com/fallout4/mods/84661)
+- Removed [LC's UHD Brahmin v1](https://www.nexusmods.com/fallout4/mods/60569)
+- Removed [LC's UHD Mirelurk King v1](https://www.nexusmods.com/fallout4/mods/60220)
+- Removed [NMC's Texture Bundle v1.0](https://www.nexusmods.com/fallout4/mods/31814)
+- Removed [Settler Vigilante Power Armor v1.0](https://www.nexusmods.com/fallout4/mods/53830)
+- Removed [TES-51 Power Armor -Skyrim Inspired- v1.2](https://www.nexusmods.com/fallout4/mods/17956)
+- Removed [ZP's Frost and Shock v01](https://www.nexusmods.com/fallout4/mods/88525)
+- Removed [LC's UHD Deathclaw Gauntlet v2](https://www.nexusmods.com/fallout4/mods/59875)
+- Removed [HiPoly Faces REDUX (Seamless Kit - CBBE - TWB - FG - AB) v1.5](https://www.nexusmods.com/fallout4/mods/58950)
+- Removed [Bastion - Soviet Power Armor - community choice v1.0](https://www.nexusmods.com/fallout4/mods/69566)
+- Removed [Difone432's Patches v0.1](https://www.nexusmods.com/fallout4/mods/98915)
+- Removed [Eli's Armour Compendium v1.5](https://www.nexusmods.com/fallout4/mods/22431)
+- Removed [Hellfire X-03 Power Armor v0.21](https://www.nexusmods.com/fallout4/mods/26251)
+- Removed [Hollywood Laser Bolts v2.3](https://www.nexusmods.com/fallout4/mods/37559)
+- Removed [Inner City Ambience - An Urban Soundscape v1.4](https://www.nexusmods.com/fallout4/mods/38666)
+- Removed [Sunlight Alignment Tweak - Better Dawn and Dusk v2.1](https://www.nexusmods.com/fallout4/mods/49613)
+- Removed [Proper Flyers and Posters v2.0](https://www.nexusmods.com/fallout4/mods/21477)
+- Removed [T-47R Power Armor v1.1](https://www.nexusmods.com/fallout4/mods/71103)
+- Removed [LC's UHD Skeletons v3](https://www.nexusmods.com/fallout4/mods/59600)
+- Removed [MidWest Power Armor Revolution v1.0](https://www.nexusmods.com/fallout4/mods/79341)
+- Removed [SS2 Addon - MS More Storage Containers v1.1.0](https://www.nexusmods.com/fallout4/mods/94330)
+- Removed [SS2 Industrial Revolution of the Wasteland (Add-on Pack) vv5.0](https://www.nexusmods.com/fallout4/mods/65545)
+- Removed [SS2 Support Structures of the Wasteland (Add-on Pack) vv2.5](https://www.nexusmods.com/fallout4/mods/67522)
+- Removed [T-49 - Armor of the Storyteller v1.1](https://www.nexusmods.com/fallout4/mods/14581)
+- Removed [Tesla X01 - Automatron Style and Full suit v1.2](https://www.nexusmods.com/fallout4/mods/14515)
+- Removed [Grass Reworked v1.1](https://www.nexusmods.com/fallout4/mods/37891)
+- Removed [TV Show Accurate Aesthetics v1.0.10](https://www.nexusmods.com/fallout4/mods/89342)
+- Removed [Ultracite Power Armor v1.3](https://www.nexusmods.com/fallout4/mods/44804)
+- Removed [Visual Reload v1.9a](https://www.nexusmods.com/fallout4/mods/15118)
+- Removed [Wasteland Defense - SS2 Addon v1.1](https://www.nexusmods.com/fallout4/mods/73949)
+- Removed [LC's UHD Flaregun v1](https://www.nexusmods.com/fallout4/mods/59879)
+- Removed [Better Spotlights v1.0](https://www.nexusmods.com/fallout4/mods/38843)
+- Removed [Clarity - True Storms v1.0.0](https://www.nexusmods.com/fallout4/mods/65462)
+- Removed [Difone432's Patches v0.1](https://www.nexusmods.com/fallout4/mods/98915)
+- Removed [Enclave X-02 Power Armor v0.401](https://www.nexusmods.com/fallout4/mods/11017)
+- Removed [Equalizer PA v1.0](https://www.nexusmods.com/fallout4/mods/90881)
+- Removed [LC's UHD Mirelurk Queen v2](https://www.nexusmods.com/fallout4/mods/59639)
+- Removed [Red Shift Power Armor v1.0](https://www.nexusmods.com/fallout4/mods/46589)
+- Removed [Sell Paint to Abbot v1.0.0](https://www.nexusmods.com/fallout4/mods/43897)
+- Removed [The Eyes Of Beauty Fallout Edition v3.2](https://www.nexusmods.com/fallout4/mods/133)
+- Removed [Vapor Trails and Tracers v1.0](https://www.nexusmods.com/fallout4/mods/16463)
+- Removed [Clarity - A Visual Overhaul v4.2](https://www.nexusmods.com/fallout4/mods/31991)
+- Removed [Dogmeat's Backpack v2.0](https://www.nexusmods.com/fallout4/mods/10111)
+- Removed [LC's UHD Brahmin Skull v1](https://www.nexusmods.com/fallout4/mods/60767)
+- Removed [SS2 Addon - Shazbot's Cots v0.0.24](https://www.nexusmods.com/fallout4/mods/73794)
+- Removed [The Fungal Forest Retextures v.03](https://www.nexusmods.com/fallout4/mods/57258)
+- Removed [True Grass Crash Fix v1.0](https://www.nexusmods.com/fallout4/mods/70702)
+- Removed [LC's UHD Stingwing v1](https://www.nexusmods.com/fallout4/mods/60925)
+- Removed [Melee Impact Overhaul v1.2.1](https://www.nexusmods.com/fallout4/mods/65093)
+- Removed [Simple Offence Suppression F4 v1.0](https://www.nexusmods.com/fallout4/mods/75292)
+
+**Load Order Changes:**
+- Added TCDeyes.esp
+- Added LMNSOverlays.esl
+- Added Munitions - An Ammo Expansion.esl
+- Added OHPWeaponBehavior.esm
+- Added Vault4.esp
+- Added Vault4-eXoPatch.esp
+- Added Wasteland Goth.esp
+- Added TCD.esp
+- Added TCDM.esp
+- Added TCDOverlays.esp
+- Added LMBTOverlays.esp
+- Added EoW_MakeupColors.esp
+- Added FurbyFaceTints.esp
+- Added RB_ArakiStyle.esp
+- Added RutahTattooPack_FO4.esp
+- Added IAM_MagWeaponAutoMarker.esp
+- Added CWServRifle.esp
+- Added CWServRifleMunitionsPatch.esp
+- Added DOOMDesertEagle.esp
+- Added RussianAssaultPack.esp
+- Added Phase4DLC.esp
+- Added OutcastsAndRemnants.esp
+- Added AA FusionCityRising.esp
+- Added ProjectValkyrie.esp
+- Added FunctionalDisplays-Collectibles.esp
+- Added T6M_Spectre.esp
+- Added Spadey's Pipe Carbine.esp
+- Added PBW-TheChineseAssaultRifle.esp
+- Added VanBuren_223.esp
+- Added NV_LMG.esp
+- Added XR92_Rifle.esp
+- Added PistolGripCR.esp
+- Added WeaponWallRacks.esp
+- Added RangeRifle.esp
+- Added PigFNC.esp
+- Added VltSec10mmSmg.esp
+- Added CW127MMSMG.esp
+- Added CWBurstShotgun.esp
+- Added CWSchofeild.esp
+- Added CWBushKnife.esp
+- Added CWWA2000.esp
+- Added CW9mmPistol.esp
+- Added DakSpitfire.esp
+- Added HunterKnife.esp
+- Added TBOS-AntoHairPack.esp
+- Added Thuggysmurf_Optimization.esp
+- Added Vault4-PreVis.esp
+- Added Em_VivaNWReborn_Previs.esp
+- Added Em_VivaNWReborn_UFO4P_Patch.esp
+- Added FULLOutfits-ArmorRating - patch 2.4.5.esp
+- Added OutfitWorkbench-clothing - patch 2.4.5.esp
+- Removed HellcatPA.esl
+- Removed RedShiftPowerArmor.esl
+- Removed EqualizerPowerArmor.esl
+- Removed dppsychoandmedx.esl
+- Removed dpjetandxcell.esl
+- Removed SelectPowerArmor.esl
+- Removed UltracitePA.esl
+- Removed T65PA.esl
+- Removed MidwestPARevolution.esl
+- Removed OCsNWAIO_Master.esp
+- Removed OCsShovelMuseum.esp
+- Removed OCsWindTower.esp
+- Removed OCsNukaIsland.esp
+- Removed OCsDRGEmployeeArea.esp
+- Removed OCsHubologistCamp.esp
+- Removed OCsNorthpointDam.esp
+- Removed nukaproject.esl
+- Removed EnclavePack.esl
+- Removed NukaGirlNoHelmet.esl
+- Removed CanarySaveFileMonitor.esl
+- Removed DiamondCityAmbience.esl
+- Removed SSTForestFungusDelit.esl
+- Removed TrueStormsFO4.esm
+- Removed SwimmingAnims.esl
+- Removed MorePrefabs.esl
+- Removed Diamond City Supplements.esm
+- Removed SettlerGearPack.esl
+- Removed HiPolyFacesCompanionPlugin.esl
+- Removed LC's UHD Pickman's Paintings.esp
+- Removed LC's UHD Bloodrage Mirelurk.esp
+- Removed LC's UHD Stingwing.esp
+- Removed LC's UHD Brahmin Skull.esp
+- Removed LC's UHD Mutant Hound.esp
+- Removed LC's UHD Skeletons.esp
+- Removed LC's UHD Bloatfly.esp
+- Removed LC's UHD Mirelurk Queen.esp
+- Removed LC's UHD Brahmin.esp
+- Removed LC's UHD Mirelurk King.esp
+- Removed LC's UHD Radroach.esp
+- Removed LC's UHD Feral Ghoul Apparel.esp
+- Removed ZenTrash_Clean_2k.esp
+- Removed AWHD2KFull.esp
+- Removed EvilInstituteHD1K.esp
+- Removed TrueGrass.esp
+- Removed SSTFungalForest.esp
+- Removed SavrenXHdDlcPowerArmor.esp
+- Removed UltraInteriorLighting.esp
+- Removed Clarity.esp
+- Removed SunLightAlignment.esp
+- Removed NMC Bundle MEDIUM.esp
+- Removed dD-Enhanced Blood Basic.esp
+- Removed dD - Small Splatter Size.esp
+- Removed LushAmbience.esp
+- Removed illuminated AIO.esp
+- Removed The Fungal Forest Retextures.esp
+- Removed Better Workshop Street Oil Lamps - Shadows.esp
+- Removed UltraExteriorLighting.esp
+- Removed WoodReduxHD-BFTDTC-Patch.esp
+- Removed WoodReduxHD.esp
+- Removed detailedferalghouls.esp
+- Removed Better Landscape Grass.esp
+- Removed Reverb and Ambiance Overhaul.esp
+- Removed FO4ParticlePatch.esp
+- Removed WoodReduxHD-InvertedTile-OptionalPatch.esp
+- Removed SavrenXSynthHD.esp
+- Removed AnimatedCandles.esp
+- Removed Larger Spotlight.esp
+- Removed CityAmbience.esp
+- Removed T47R_PA.esp
+- Removed UltracitePA.esp
+- Removed Vault-Tec Power Armor by NewerMind43 & Captain-Ultima.esp
+- Removed RedShiftPowerArmor.esp
+- Removed strong_PA.esp
+- Removed tumbajamba Advanced Engineering.esp
+- Removed strong_PA - tAE.esp
+- Removed eXoNukaGirlOutfit.esp
+- Removed MeanMachineEyes.esp
+- Removed SovietPowerArmor.esp
+- Removed WAR_PA.esp
+- Removed TGF_TrueGrassFix.esp
+- Removed ChrisAnimeEyes.esp
+- Removed Hollywood Lasers.esp
+- Removed MSTP_InstitutePowerArmor.esp
+- Removed SKI_MAKO_DivingPA.esp
+- Removed ExcavatorPA.esp
+- Removed Buildable_PAFrames.esp
+- Removed Buildable_PAFrames_Recipe.esp
+- Removed SynthPA.esp
+- Removed combat_PA.esp
+- Removed combat_PA - tAE.esp
+- Removed T-51C Power Armor.esp
+- Removed Midwest Power Armor Evolution.esp
+- Removed CagebreakerPowerArmor.esp
+- Removed BadBoys-PowerArmorCivilServants.esp
+- Removed CoAPowerArmor.esp
+- Removed MidWest PA.esp
+- Removed ss2radiantpower.esp
+- Removed [SS2 Addon] BloodMoonRaiders.esp
+- Removed GavMan_SS2AddOn_Milk.esp
+- Removed SS2_STRA_Buildings_and_Skins.esp
+- Removed SS2_CLB_DLCSuppliesPatch.esp
+- Removed SS2_MsB_PlainPlans.esp
+- Removed SS2Addon_MS_MoreStorageContainers.esp
+- Removed [SS2 Addon] SimSettlements SuperStructures.esp
+- Removed SS2_STRA_Support_Buildings.esp
+- Removed SS2_Addon_Aurie_Sanctuary.esp
+- Removed SS2_Addon_TradersParadise.esp
+- Removed SS2PeskyRebirth.esp
+- Removed GavManChurch.esp
+- Removed SS2Addon_MS_BareEssentials.esp
+- Removed GavM_SS2Addon_Buildings.esp
+- Removed SS2_Addon_ShazbotsCots.esp
+- Removed SS2_WastelandDefense.esp
+- Removed Shadow Wastelands SS2 World Repopulation Cells.esp
+- Removed SimpleAttackReactions.esp
+- Removed RSI_Booths.esp
+- Removed PPL3_PraSpiralGarden.esp
+- Removed dcc-palock.esp
+- Removed SpotlightShadows.esp
+- Removed Dogmeat's Backpack.esp
+- Removed Vault-Tec Workshop Overhaul Redux.esp
+- Removed R&AO Reduced Vault Reverb Patch.esp
+- Removed UnknownZombie_bandanaFitsK9Harness.esp
+- Removed deus-ex-tweakina.esp
+- Removed Ghouls Revamped.esp
+- Removed PD_VisualReload.esp
+- Removed Sell Abbot Paint.esp
+- Removed Eli_NukaStuff.esp
+- Removed Nuka-World Reborn-FaceGen.esp
+- Removed CGOsoundsplugin.esp
+- Removed DX_Vintage_Summer.esp
+- Removed BaselinePlotsBrotherhood.esp
+- Removed VtawGothicDressNe.esp
+- Removed VtawSummerMiniDress.esp
+- Removed MM69's Ghoul Hunter.esp
+- Removed LaurensPetShopOfHorrors.esp
+- Removed NewerMind_Space_Marine_PA.esp
+- Removed FBFH_EE_Acadia_Cleanup.esp
+- Removed LC's UHD Skeleton Wardrobe.esp
+- Removed Gloomy Glass.esp
+- Removed K9TacticalHarness.esp
+- Removed Vapor-Trails.esp
+- Removed ss2_caravanshipment.esp
+- Removed Elzee Human Grab Attacks.esp
+- Removed TrueStormsFO4-EarlierSunsets.esp
+- Removed TrueStormsFO4-EarlierSunsetsNW.esp
+- Removed TrueStormsFO4-FarHarbor-NukaWorld-Patch.esp
+- Removed TrueStorms_Clarity.esp
+- Removed TrueStormsFO4-FarHarbor.esp
+- Removed RAO - True Storms patch.esp
+- Removed TrueStormsFO4-EarlierSunsetsFH.esp
+- Removed TrueStormsFO4-NukaWorld-FH-Compat.esp
+- Removed TrueStormsFO4-NukaWorld.esp
+- Removed Cinematic Lensflares.esp
+- Removed Elzee Human Grab Attacks - Bad guys can't grab.esp
+- Removed RadiantBirdsv05.esp
+- Removed DX_StarTrek_TOS_Uniform.esp
+- Removed WarMachine.esp
+- Removed Melee Impact Overhaul.esp
+- Removed PureOpulence.esp
+- Removed DogmeatHelmetsAndHats.esp
+- Removed OutfitWorkbench-clothing - patch 2.3.1a.esp
+- Removed FULLOutfits-ArmorRating - patch 2.3.1a.esp
+- Removed Gipsy_PA.esp
+- Removed HiPolyFaces.esp
+- Removed Sexy Sports Lingerie.esp
+- Removed BlackBirdElitePA.esp
+- Removed SkyrimInspiredPowerArmor.esp
+- Removed EnclaveX02.esp
+- Removed Tesla X01.esp
+- Removed powerarmort49.esp
+- Removed Liberty_PA.esp
+- Removed Hellfirenew.esp
+- Removed tank_PA.esp
+- Removed tank_PA - tAE.esp
+- Removed Elzee Jolly Item Sounds.esp
+- Removed MorePrefabs SMM.esp
+- Removed DXVintageSummer SMM.esp
+- Removed KetarosTreasures SMM.esp
+- Removed VtawSummerMiniDress Previews.esp
+- Removed VtawGothicDressNe Previews.esp
+- Removed DocDrumlin.esp
+- Removed OCsNWAIO_Previs.esp
+
+**Mod Changes:**
+- Added Cosmoem Outfit Patches
+- Added Optimization and Tweaks for Thuggysmurf's Quest Mods
+- Added Fourville - eXoPatch
+- Added OaR - Keep Your Items
+- Added Munitions - Ammo Expansion Project
+- Added Auto Marker Nearby Magazines and Weapons
+- Added Vendors Always Sell Player Weapons Ammo
+- Added Weapon Wall Racks (WWR)
+- Added Hunter's Knife
+- Added Militia Carbine (Spitfire Carbine)
+- Added The 9mm Pistol (Browning Hi-Power) Fallout New Vegas
+- Added Bullpup Sniper Rifle - Walther WA2000
+- Added The Bush Knife - Kukri
+- Added The Marine Shotgun - Prototype SW Burst Shotgun
+- Added Vintage Revolver - Smith and Wesson Schofield Model 3
+- Added 12.7mm SMG - Fallout New Vegas
+- Added Security SMG - A Unique 10mm Submachinegun
+- Added European Assault Rifle - FN FNC - Another Another Millenia
+- Added Winchester 5mm Range Rifle
+- Added Pistol Grip Combat Rifle - Rifle Rounds
+- Added Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader)
+- Added Chinese Assault Rifle - Fallout 3 Recreation
+- Added Pipe Carbine - Rat Runners Arsenal
+- Added Falcon Arms MP4 Spectre SMG
+- Added Russian Assault Pack - 1.0
+- Added Desert Eagle - Standalone Handgun
+- Added CW Service Rifle and Assault Carbine
+- Added Araki-style face paint
+- Added Rutah Tattoo Pack for LooksMenu (CBBE)
+- Added Furby's Face Paints and Scars
+- Added EoW - Makeup Colors
+- Added LooksMenu Nail Salon Overlays
+- Added LooksMenu Body Tattoos (CBBE) (EVB or vanilla)
+- Added Tattoos Collection by Dreivor 22X
+- Added Wasteland Goth - Standalone Looksmenu Makeup
+- Added deLuxe Mask
+- Added The K Makeup
+- Added Anto Hair Pack
+- Added Vanilla Opulence - 8K
+- Added Fourville - PreVis
+- Added Fourville
+- Added Project Valkyrie
+- Added Fusion City Rising - Quest Mod Plus
+- Added Outcasts and Remnants - Quest Mod Plus
+- Added Phase 4 An Institute Expansion
+- Added Viva Nuka-World Reborn UFO4P Patch
+- Added Viva Nuka-World Reborn Previs Patch
+- Removed Ultracite Power Armor FIX
+- Removed Workbench Replacer - Rain Fix
+- Removed Hellcat Power Armor FIX
+- Removed HOTFIX 06.06.2024
+- Removed HD DLC fix
+- Removed True Grass Crash Fix
+- Removed Doc Drumlin by SKK
+- Removed More Active AI
+- Removed Canary Save File Monitor
+- Removed Alternative Female Cinematic Intro
+- Removed Sell Paint to Abbot
+- Removed Hit Those Explosives
+- Removed Take Your Cores
+- Removed Difone432's Patches
+- Removed Better Landscape Grass
+- Removed Jolly Item Sounds
+- Removed Diamond City Supplements
+- Removed Inner City Ambience - An Urban Soundscape
+- Removed Fallout 4 - Hot Coffee
+- Removed Better Spotlights
+- Removed SavrenX Organic Gore
+- Removed Savrenx Dogmeat HD V2
+- Removed Immersive Candles
+- Removed Fabulous Fire Extinguisher (Replacer)
+- Removed Fallout 4 Particle Patch - No More Glowing Objects
+- Removed SavrenX Synth HD
+- Removed Better Leaf Piles
+- Removed Detailed Feral Ghouls
+- Removed I've got Wood TOO - The Sanctuary Texture REDUX
+- Removed Sweet Roll 5000 - Xtreme Sweetroll Mesh and Texture Replacer
+- Removed First-Person Swimming Animations
+- Removed Melee Impact Overhaul
+- Removed Nuka World - Lighting - Cyberpunk 2077
+- Removed War Machine
+- Removed Radiant Birds
+- Removed Ultra Exterior Lighting
+- Removed Cinematic Lensflares
+- Removed Human Grab Attacks
+- Removed Monsterum -DeathClaw Sounds Rework-
+- Removed Vapor Trails and Tracers
+- Removed Better Workshop Street Oil Lamps
+- Removed Gloomy Glass - All transparent materials revised
+- Removed Forest Fungus De-Lit
+- Removed Better Quarry Sites
+- Removed The Fungal Forest Retextures
+- Removed Diamond City Ambience
+- Removed Targeted Textures - Vanilla textures upscaled fixed and sized
+- Removed Lush Ambience - A Green Soundscape
+- Removed Proper Flyers And Posters
+- Removed Commonwealth Gunfire Overhaul - realistic weapon sounds
+- Removed Reverb and Ambiance Overhaul
+- Removed True Storms - Wasteland Edition (Thunder-Rain-Weather Redone)
+- Removed Visual Reload
+- Removed Clarity 4.3 BETA
+- Removed TV Show Accurate Aesthetics
+- Removed Reverb and Ambiance Overhaul - Vault Reverb Patch
+- Removed Vault-Tec Workshop Overhaul Redux (VTWOR)
+- Removed The Fungal Forest - Radsoaked
+- Removed Shadows for hostile spotlights and searchlights
+- Removed True Grass
+- Removed Ultimate Window Overhaul
+- Removed Perfect landscape by Pfuscher
+- Removed Enhanced Blood Textures
+- Removed NMC's Texture Bundle
+- Removed Clarity - A Visual Overhaul
+- Removed Sunlight Alignment Tweak - Better Dawn and Dusk
+- Removed Acadia Interior Cleanup and Additions REDUX NG
+- Removed Ultra Interior Lighting
+- Removed The Nuka Project
+- Removed Simple Attack Reactions - Limb-Specific Animations
+- Removed Simple Attack Reaction Speed (Fix)
+- Removed Simple Offence Suppression F4
+- Removed SavrenX Power Armor HD DLC
+- Removed The Fungal Forest
+- Removed ZP's Frost and Shock
+- Removed ZP's Fire and Smoke
+- Removed Hollywood Laser Bolts
+- Removed Much Better 3rd Person Animations - MLVic's Edition
+- Removed illuminated AIO - Let there be light edition
+- Removed True Grass - Vanilla
+- Removed Lighting Series - All In One
+- Removed Clarity - True Storms
+- Removed CEO - Commonwealth Explosion Overhaul
+- Removed Bright 2K 1.2
+- Removed Evil Institute HD
+- Removed Workbench Replacer - LOW
+- Removed All Weapons HD (A.W.H.D.)
+- Removed HD Prewar Money
+- Removed 3D Super Mutant Chains
+- Removed Protectron HD 4K
+- Removed Deathclaws HD remastered
+- Removed Very Zen Trash Piles
+- Removed LC's UHD Skeleton Wardrobe
+- Removed LC's UHD Flaregun
+- Removed LC's UHD Commemorative Mural
+- Removed LC's UHD Feral Ghoul Apparel
+- Removed HD Chems Project_Jet and Xcell
+- Removed HD Chems Project_Psycho and MedX
+- Removed LC's UHD Radroach
+- Removed LC's UHD Mirelurk King
+- Removed LC's UHD Brahmin
+- Removed LC's UHD Mirelurk Queen
+- Removed LC's UHD Bloatfly
+- Removed LC's UHD Deathclaw Gauntlet
+- Removed LC's UHD Mirelurk Eggs
+- Removed LC's UHD Skeletons
+- Removed LC's UHD Deathclaw Egg
+- Removed LC's UHD Mutant Hound
+- Removed LC's UHD Brahmin Remains
+- Removed LC's UHD Stingwing
+- Removed LC's UHD Brahmin Skull
+- Removed LC's UHD Bloatfly Meat
+- Removed LC's UHD Bloodrage Mirelurk
+- Removed LC's UHD Pickman's Paintings
+- Removed LC's UHD Fungus Brain - 1k - 2.0
+- Removed SS2 Caravan Supplies Plus
+- Removed Wagon Tails Pet Shop - A Plot-A-Palooza 4 Entry
+- Removed Baseline Plots Brotherhood - An SS2 Add-On
+- Removed Spiral Garden - Pra's Plot-A-Palooza 3 Entry
+- Removed SS2 - Interior Snap Points Adjustments
+- Removed Ravenswift's Rec Booths Addon Pack for SS2
+- Removed Shadow Wastelands SS2 World Repopulation Cells Starter Pack
+- Removed Wasteland Defense - SS2 Addon
+- Removed SS2 Addon - Shazbot's Cots
+- Removed GavMan's Buildings - SS2 Add-on
+- Removed SS2 Addon - Bare Essentials
+- Removed GavMan's Church SS2 Plotapalooza AddOn
+- Removed Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth
+- Removed Traders' Paradise - SS2 Addon
+- Removed Rebuild Sanctuary SS2 Addon Pack
+- Removed SS2 Support Structures of the Wasteland (Add-on Pack)
+- Removed SS2 Superstructures - A Sim Settlements 2 Addon Pack
+- Removed Plain Plans by MsB - SS2 Add-On Pack
+- Removed SS2 Addon - MS More Storage Containers
+- Removed CaptainLaserbeam's Assorted SS2 Patches - DLC Munitions Raider Overhaul and More
+- Removed SS2 Industrial Revolution of the Wasteland (Add-on Pack)
+- Removed GavMan's Milky SS2 Plotapalooza 3 AddOn
+- Removed SS2 Blood Moon Raiders - A Sim Settlements 2 Addon Pack
+- Removed SS2 Radiant Municipal Power
+- Removed Dogmeat Helmets and Hats
+- Removed DX Star Trek TOS Uniform
+- Removed K-9 Harness -- Tactical Body Armor and Backpack for Dogmeat
+- Removed MM69's Ghoul Hunter
+- Removed Vintage Summer CBBE
+- Removed Nuka Gear
+- Removed HighPoly NukaGirl RocketSuit
+- Removed Dogmeat's Backpack
+- Removed Classy Chassis Outfits - Eli's Armour Replacer
+- Removed Nuka Girl - Detachable Helmet
+- Removed Vtaw Summer Mini Dress - CBBE - BodySlide
+- Removed Vtaw Gothic Dress - CBBE - BodySlide
+- Removed Vtaw 2022 Xmas - CBBE - BodySlide
+- Removed Settlement Menu Manager Patches (SMM)
+- Removed More Prefabs
+- Removed Nuka-World Settlements - Viva Nuka World
+- Removed Nuka-World Settlements - Tenhat's Collection
+- Removed Nuka-World Settlements Pack - Tenhats' Collection
+- Removed Tesla X01 - Automatron Style and Full suit
+- Removed T-49 - Armor of the Storyteller
+- Removed Liberty Power Armor
+- Removed Hellfire X-03 Power Armor
+- Removed Enclave X-02 Power Armor
+- Removed TES-51 Power Armor -Skyrim Inspired-
+- Removed Project Black Bird
+- Removed Settler Vigilante Power Armor
+- Removed Gipsy Danger Power Armor
+- Removed Spartan Power Armor
+- Removed Space Marine PA
+- Removed Enclave Power Armor
+- Removed MidWest Power Armor Revolution
+- Removed T 65 Power Armor
+- Removed Midwestern Power Armor
+- Removed Children of Atom Power Armor
+- Removed Tumbajamba's Raider Power Armor
+- Removed Bad Boys - Civil Servant Power Armor Klaxons and Paint
+- Removed T51c AirForce Power Armor
+- Removed Midwest Power Armor Evolution
+- Removed Combat Power Armor
+- Removed Tumbajamba's Synth Power Armor
+- Removed Excavator Power Armor
+- Removed T-47R Power Armor
+- Removed Diving Power Armor
+- Removed Ultracite Power Armor
+- Removed Institute Power Armor Redux
+- Removed Hellcat Power Armor
+- Removed Horseman of the Apocalypse - War
+- Removed SE-01 Power Armor
+- Removed Bastion - Soviet Power Armor
+- Removed Equalizer PA
+- Removed Strong Power Armor
+- Removed Red Shift Power Armor
+- Removed Vault Tec Power Armor
+- Removed Buildable Power Armor Frames
+- Removed Sexy Sports Lingerie - CBBE - BodySlide
+- Removed Eyewear and mask retexture
+- Removed LMCC 2k Face Textures
+- Removed Appealing Moles
+- Removed Eye Liner Masks
+- Removed deLuxe Makeup
+- Removed FaceGen Repository
+- Removed Ghouls Revamped
+- Removed Bandanas fit K9 Harness
+- Removed Kirs freckles
+- Removed Anime Eyes - Standalone
+- Removed MeanMachineEyes ( Standalone )
+- Removed HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)
+- Removed Pure Opulence - 8K - For HiPoly Face REDUX
+
 
 ## 2.4.2.1
 **Built at:** `12/31/2025 1:41:24 AM`
@@ -1634,5 +2410,6 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
