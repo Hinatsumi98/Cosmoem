@@ -4,6 +4,809 @@
 - [2.4.1.2](#2412)
 - [2.4.2.1](#2421)
 - [2.4.5](#245)
+- [2.5](#25)
+
+## 2.5
+**Built at:** `1/2/2026 4:11:35 PM`
+
+**Info:**
+- Download size change: 9.3GB (Total: 102.9GB)
+- Install size change: 15.5GB (Total: 142.1GB)
+
+**Download Changes:**
+
+- Added [Data_ccacxfo4001-vsuit - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4005-bluecamo.esl](about:blank)
+- Added [Data_ccbgsfo4012-pipboy(red) - main.ba2](about:blank)
+- Added [Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4023-powerarmorskin(camo02).esl](about:blank)
+- Added [Data_ccbgsfo4030-powerarmorskinpurple - main.ba2](about:blank)
+- Added [Data_ccbgsfo4036-trnsdg - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4053-dggoldr - main.ba2](about:blank)
+- Added [Data_ccbgsfo4058-dglabc - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4063-papat.esl](about:blank)
+- Added [Data_ccbgsfo4075-pipshroud - main.ba2](about:blank)
+- Added [Data_ccbgsfo4080-pippop - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4085-piphawaii.esl](about:blank)
+- Added [Data_ccbgsfo4120-poweramorskin(pittraider) - textures.ba2](about:blank)
+- Added [Data_cceejfo4001-decorationpack.esl](about:blank)
+- Added [Data_ccFSVFO4002-MidCenturyModern - Textures.ba2](about:blank)
+- Added [Data_cckgjfo4001-bastion - main.ba2](about:blank)
+- Added [Data_ccrzrfo4004-pipinst - textures.ba2](about:blank)
+- Added [Data_ccswkfo4001-astronautpowerarmor.esm](about:blank)
+- Added [Data_ccygpfo4001-pipcruiser - main.ba2](about:blank)
+- Added [Improved Institute v1.0](https://www.nexusmods.com/fallout4/mods/76757)
+- Added [Improved Nuka Raiders v1.1.0](https://www.nexusmods.com/fallout4/mods/77616)
+- Added [xEdit.4.1.5f.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
+- Added [Collective Modding Toolkit v0.3.2](https://www.nexusmods.com/fallout4/mods/87907)
+- Added [DynDOLOD 3 Alpha vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Added [xLODGen.132.7z](https://mega.nz/file/hNwjkYQI#vzHQoXn-Ugj81vRL-L82eSUBcXnqUpTkZsXDxfYqnYE)
+- Added [LooksMenu.v1-7-0-3.zip](https://github.com/user-attachments/files/24198428/LooksMenu.v1-7-0-3.zip)
+- Added [X-Cell Fallout 4 v1.2-b2](https://www.nexusmods.com/fallout4/mods/84214)
+- Added [Improved Brotherhood of Steel v1.0](https://www.nexusmods.com/fallout4/mods/76756)
+- Added [Improved Guards v1.2.3](https://www.nexusmods.com/fallout4/mods/77115)
+- Added [Improved Hostile Factions v1.3.7](https://www.nexusmods.com/fallout4/mods/77916)
+- Added [Improved Minutemen v1.0](https://www.nexusmods.com/fallout4/mods/76755)
+- Added [Improved Railroad v1.0](https://www.nexusmods.com/fallout4/mods/76749)
+- Added [Data_ccacxfo4001-vsuit.esl](about:blank)
+- Added [Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4012-pipboy(red) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4018-gaussrifleprototype.esl](about:blank)
+- Added [Data_ccbgsfo4024-pacamo03 - main.ba2](about:blank)
+- Added [Data_ccbgsfo4030-powerarmorskinpurple - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4036-trnsdg.esl](about:blank)
+- Added [Data_ccbgsfo4047-qthund - main.ba2](about:blank)
+- Added [Data_ccbgsfo4053-dggoldr - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4058-dglabc.esl](about:blank)
+- Added [Data_ccbgsfo4070-pipabra - main.ba2](about:blank)
+- Added [Data_ccbgsfo4075-pipshroud - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4080-pippop.esl](about:blank)
+- Added [Data_ccbgsfo4086-pipadventure - main.ba2](about:blank)
+- Added [Data_ccbgsfo4120-poweramorskin(pittraider).esl](about:blank)
+- Added [Data_cceejfo4002-nuka - main.ba2](about:blank)
+- Added [Data_ccfsvfo4002-midcenturymodern.esl](about:blank)
+- Added [Data_ccgcafo4024-instituteplasmaweapons - main.ba2](about:blank)
+- Added [Data_cckgjfo4001-bastion - textures.ba2](about:blank)
+- Added [Data_ccrzrfo4004-pipinst.esl](about:blank)
+- Added [Data_ccswkfo4002-pipnuka - main.ba2](about:blank)
+- Added [Data_ccygpfo4001-pipcruiser - textures.ba2](about:blank)
+- Added [Data_ccBGSFO4001-PipBoy(Black) - Main.ba2](about:blank)
+- Added [Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4012-pipboy(red).esl](about:blank)
+- Added [Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4024-pacamo03 - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4030-powerarmorskinpurple.esl](about:blank)
+- Added [Data_ccBGSFO4038-HorseArmor - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4047-qthund - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4053-dggoldr.esl](about:blank)
+- Added [Data_ccbgsfo4059-dgpit - main.ba2](about:blank)
+- Added [Data_ccbgsfo4070-pipabra - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4075-pipshroud.esl](about:blank)
+- Added [Data_ccbgsfo4081-pipphenolresin - main.ba2](about:blank)
+- Added [Data_ccbgsfo4086-pipadventure - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4121-poweramorskin(airforce) - main.ba2](about:blank)
+- Added [Data_cceejfo4002-nuka - textures.ba2](about:blank)
+- Added [Data_ccfsvfo4003-slocum - main.ba2](about:blank)
+- Added [Data_ccgcafo4024-instituteplasmaweapons - textures.ba2](about:blank)
+- Added [Data_cckgjfo4001-bastion.esl](about:blank)
+- Added [Data_ccsbjfo4001-solarflare - main.ba2](about:blank)
+- Added [Data_ccswkfo4002-pipnuka - textures.ba2](about:blank)
+- Added [Data_ccygpfo4001-pipcruiser.esl](about:blank)
+- Added [ToggleEquip AE (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/99113)
+- Added [Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4006-pipboy(chrome).esl](about:blank)
+- Added [Data_ccbgsfo4013-piptan - main.ba2](about:blank)
+- Added [Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4024-pacamo03.esl](about:blank)
+- Added [Data_ccbgsfo4031-powerarmorskinred - main.ba2](about:blank)
+- Added [Data_ccBGSFO4038-HorseArmor - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4047-qthund.esl](about:blank)
+- Added [Data_ccbgsfo4054-dggreatd - main.ba2](about:blank)
+- Added [Data_ccbgsfo4059-dgpit - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4070-pipabra.esl](about:blank)
+- Added [Data_ccbgsfo4076-pipmystery - main.ba2](about:blank)
+- Added [Data_ccbgsfo4081-pipphenolresin - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4086-pipadventure.esl](about:blank)
+- Added [Data_ccbgsfo4121-poweramorskin(airforce) - textures.ba2](about:blank)
+- Added [Data_cceejfo4002-nuka.esl](about:blank)
+- Added [Data_ccfsvfo4003-slocum - textures.ba2](about:blank)
+- Added [Data_ccgcafo4024-instituteplasmaweapons.esl](about:blank)
+- Added [Data_ccsbjfo4001-solarflare - textures.ba2](about:blank)
+- Added [Data_ccswkfo4002-pipnuka.esl](about:blank)
+- Added [Data_cczsef04001-bhouse - main.ba2](about:blank)
+- Added [Data_ccbgsfo4001-pipboy(black).esl](about:blank)
+- Added [Data_ccbgsfo4008-pipgrn - main.ba2](about:blank)
+- Added [Data_ccbgsfo4013-piptan - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4019-chinesestealtharmor.esl](about:blank)
+- Added [Data_ccbgsfo4025-powerarmorskin(chrome) - main.ba2](about:blank)
+- Added [Data_ccbgsfo4031-powerarmorskinred - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4038-horsearmor.esl](about:blank)
+- Added [Data_ccbgsfo4049-brahminarmor - main.ba2](about:blank)
+- Added [Data_ccbgsfo4054-dggreatd - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4059-dgpit.esl](about:blank)
+- Added [Data_ccbgsfo4071-piparc - main.ba2](about:blank)
+- Added [Data_ccbgsfo4076-pipmystery - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4081-pipphenolresin.esl](about:blank)
+- Added [Data_ccbgsfo4087-piphaida - main.ba2](about:blank)
+- Added [Data_ccbgsfo4121-poweramorskin(airforce).esl](about:blank)
+- Added [Data_ccFRSFO4001-HandmadeShotgun - Main.ba2](about:blank)
+- Added [Data_ccfsvfo4003-slocum.esl](about:blank)
+- Added [Data_ccgcafo4025-pagunmm - main.ba2](about:blank)
+- Added [Data_ccsbjfo4001-solarflare.esl](about:blank)
+- Added [Data_ccswkfo4003-pipquan - main.ba2](about:blank)
+- Added [Data_cczsef04001-bhouse - textures.ba2](about:blank)
+- Added [Settlement Menu Manager Patches (SMM) v2.0](https://www.nexusmods.com/fallout4/mods/72254)
+- Added [Baka MaxPapyrusOps v1.1.0](https://www.nexusmods.com/fallout4/mods/73774)
+- Added [Data_ccbgsfo4002-pipboy(blue) - main.ba2](about:blank)
+- Added [Data_ccbgsfo4008-pipgrn - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4013-piptan.esl](about:blank)
+- Added [Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4025-powerarmorskin(chrome) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4031-powerarmorskinred.esl](about:blank)
+- Added [Data_ccbgsfo4040-vrworkshop01 - main.ba2](about:blank)
+- Added [Data_ccbgsfo4049-brahminarmor - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4054-dggreatd.esl](about:blank)
+- Added [Data_ccbgsfo4060-dgrot - main.ba2](about:blank)
+- Added [Data_ccbgsfo4071-piparc - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4076-pipmystery.esl](about:blank)
+- Added [Data_ccbgsfo4082-pipprc - main.ba2](about:blank)
+- Added [Data_ccbgsfo4087-piphaida - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4122-poweramorskin(scorchedsierra) - main.ba2](about:blank)
+- Added [Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2](about:blank)
+- Added [Data_ccfsvfo4004-vrworkshopgnrplaza - main.ba2](about:blank)
+- Added [Data_ccgcafo4025-pagunmm - textures.ba2](about:blank)
+- Added [Data_ccsbjfo4002_manwellrifle - main.ba2](about:blank)
+- Added [Data_ccswkfo4003-pipquan - textures.ba2](about:blank)
+- Added [Data_cczsef04001-bhouse.esm](about:blank)
+- Added [Data_ccbgsfo4002-pipboy(blue) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4008-pipgrn.esl](about:blank)
+- Added [Data_ccbgsfo4014-pipboy(white) - main.ba2](about:blank)
+- Added [Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4025-powerarmorskin(chrome).esl](about:blank)
+- Added [Data_ccbgsfo4032-powerarmorskintan - main.ba2](about:blank)
+- Added [Data_ccbgsfo4040-vrworkshop01 - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4049-brahminarmor.esl](about:blank)
+- Added [Data_ccbgsfo4055-dghusk - main.ba2](about:blank)
+- Added [Data_ccbgsfo4060-dgrot - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4071-piparc.esl](about:blank)
+- Added [Data_ccbgsfo4077-piprocket - main.ba2](about:blank)
+- Added [Data_ccbgsfo4082-pipprc - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4087-piphaida.esl](about:blank)
+- Added [Data_ccbgsfo4122-poweramorskin(scorchedsierra) - textures.ba2](about:blank)
+- Added [Data_ccfrsfo4001-handmadeshotgun.esl](about:blank)
+- Added [Data_ccfsvfo4004-vrworkshopgnrplaza - textures.ba2](about:blank)
+- Added [Data_ccgcafo4025-pagunmm.esl](about:blank)
+- Added [Data_ccqdrfo4001_powerarmorai - main.ba2](about:blank)
+- Added [Data_ccsbjfo4002_manwellrifle - textures.ba2](about:blank)
+- Added [Data_ccswkfo4003-pipquan.esl](about:blank)
+- Added [Data_cczsefo4002-smanor - main.ba2](about:blank)
+- Added [Data_ccbgsfo4002-pipboy(blue).esl](about:blank)
+- Added [Data_ccbgsfo4009-piporan - main.ba2](about:blank)
+- Added [Data_ccbgsfo4014-pipboy(white) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4020-powerarmorskin(black).esl](about:blank)
+- Added [Data_ccbgsfo4027-powerarmorskingreen - main.ba2](about:blank)
+- Added [Data_ccbgsfo4032-powerarmorskintan - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4040-vrworkshop01.esl](about:blank)
+- Added [Data_ccbgsfo4050-dgbcoll - main.ba2](about:blank)
+- Added [Data_ccbgsfo4055-dghusk - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4060-dgrot.esl](about:blank)
+- Added [Data_ccbgsfo4072-pipgrog - main.ba2](about:blank)
+- Added [Data_ccbgsfo4077-piprocket - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4082-pipprc.esl](about:blank)
+- Added [Data_ccbgsfo4089-pipsynthwave - main.ba2](about:blank)
+- Added [Data_ccbgsfo4122-poweramorskin(scorchedsierra).esl](about:blank)
+- Added [Data_ccfrsfo4002-antimaterielrifle - main.ba2](about:blank)
+- Added [Data_ccfsvfo4004-vrworkshopgnrplaza.esl](about:blank)
+- Added [Data_ccgrcfo4001-pipgreytort - main.ba2](about:blank)
+- Added [Data_ccqdrfo4001_powerarmorai - textures.ba2](about:blank)
+- Added [Data_ccsbjfo4002_manwellrifle.esl](about:blank)
+- Added [Data_cctosfo4001-neosky - main.ba2](about:blank)
+- Added [Data_cczsefo4002-smanor - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4003-pipboy(camo01) - main.ba2](about:blank)
+- Added [Data_ccbgsfo4009-piporan - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4014-pipboy(white).esl](about:blank)
+- Added [Data_ccbgsfo4021-powerarmorskinblue - main.ba2](about:blank)
+- Added [Data_ccbgsfo4027-powerarmorskingreen - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4032-powerarmorskintan.esl](about:blank)
+- Added [Data_ccbgsfo4050-dgbcoll - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4055-dghusk.esl](about:blank)
+- Added [Data_ccbgsfo4061-dgshiinu - main.ba2](about:blank)
+- Added [Data_ccbgsfo4072-pipgrog - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4077-piprocket.esl](about:blank)
+- Added [Data_ccbgsfo4083-pipartdeco - main.ba2](about:blank)
+- Added [Data_ccbgsfo4089-pipsynthwave - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4123-poweramorskin(inferno) - main.ba2](about:blank)
+- Added [Data_ccfrsfo4002-antimaterielrifle - textures.ba2](about:blank)
+- Added [Data_ccfsvfo4005-vrdesertisland - main.ba2](about:blank)
+- Added [Data_ccgrcfo4001-pipgreytort - textures.ba2](about:blank)
+- Added [Data_ccqdrfo4001_powerarmorai.esl](about:blank)
+- Added [Data_cctosfo4001-neosky - textures.ba2](about:blank)
+- Added [Data_cczsefo4002-smanor.esm](about:blank)
+- Added [Data_ccbgsfo4003-pipboy(camo01) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4009-piporan.esl](about:blank)
+- Added [Data_ccbgsfo4015-pipyell - main.ba2](about:blank)
+- Added [Data_ccbgsfo4021-powerarmorskinblue - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4027-powerarmorskingreen.esl](about:blank)
+- Added [Data_ccbgsfo4033-powerarmorskinwhite - main.ba2](about:blank)
+- Added [Data_ccbgsfo4050-dgbcoll.esl](about:blank)
+- Added [Data_ccbgsfo4056-dglabb - main.ba2](about:blank)
+- Added [Data_ccbgsfo4061-dgshiinu - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4072-pipgrog.esl](about:blank)
+- Added [Data_ccbgsfo4078-pipreily - main.ba2](about:blank)
+- Added [Data_ccbgsfo4083-pipartdeco - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4089-pipsynthwave.esl](about:blank)
+- Added [Data_ccbgsfo4117-capmerc - main.ba2](about:blank)
+- Added [Data_ccbgsfo4123-poweramorskin(inferno) - textures.ba2](about:blank)
+- Added [Data_ccfrsfo4002-antimaterielrifle.esl](about:blank)
+- Added [Data_ccfsvfo4005-vrdesertisland - textures.ba2](about:blank)
+- Added [Data_ccgrcfo4001-pipgreytort.esl](about:blank)
+- Added [Data_ccrzrfo4002-disintegrate - main.ba2](about:blank)
+- Added [Data_cctosfo4001-neosky.esm](about:blank)
+- Added [Data_ccbgsfo4003-pipboy(camo01).esl](about:blank)
+- Added [Data_ccbgsfo4010-pippnk - main.ba2](about:blank)
+- Added [Data_ccbgsfo4015-pipyell - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4021-powerarmorskinblue.esl](about:blank)
+- Added [Data_ccbgsfo4028-powerarmorskinorange - main.ba2](about:blank)
+- Added [Data_ccbgsfo4033-powerarmorskinwhite - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4051-dgbox - main.ba2](about:blank)
+- Added [Data_ccbgsfo4056-dglabb - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4061-dgshiinu.esl](about:blank)
+- Added [Data_ccbgsfo4073-pipmman - main.ba2](about:blank)
+- Added [Data_ccbgsfo4078-pipreily - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4083-pipartdeco.esl](about:blank)
+- Added [Data_ccbgsfo4090-piptribal - main.ba2](about:blank)
+- Added [Data_ccbgsfo4117-capmerc - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4123-poweramorskin(inferno).esl](about:blank)
+- Added [Data_ccfrsfo4003-cr75l - main.ba2](about:blank)
+- Added [Data_ccfsvfo4005-vrdesertisland.esl](about:blank)
+- Added [Data_ccgrcfo4002-pipgreenvim - main.ba2](about:blank)
+- Added [Data_ccrzrfo4002-disintegrate - textures.ba2](about:blank)
+- Added [Data_cctosfo4002_neonflats - main.ba2](about:blank)
+- Added [Nameplates.v1-1-15.zip](https://github.com/user-attachments/files/24203681/Nameplates.v1-1-15.zip)
+- Added [Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4010-pippnk - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4015-pipyell.esl](about:blank)
+- Added [Data_ccbgsfo4022-powerarmorskin(camo01) - main.ba2](about:blank)
+- Added [Data_ccbgsfo4028-powerarmorskinorange - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4033-powerarmorskinwhite.esl](about:blank)
+- Added [Data_ccbgsfo4045-advarccab - main.ba2](about:blank)
+- Added [Data_ccbgsfo4051-dgbox - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4056-dglabb.esl](about:blank)
+- Added [Data_ccbgsfo4062-pippat - main.ba2](about:blank)
+- Added [Data_ccbgsfo4073-pipmman - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4078-pipreily.esl](about:blank)
+- Added [Data_ccbgsfo4084-pipretro - main.ba2](about:blank)
+- Added [Data_ccbgsfo4090-piptribal - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4117-capmerc.esl](about:blank)
+- Added [Data_cccrsfo4001-pipcoa - main.ba2](about:blank)
+- Added [Data_ccfrsfo4003-cr75l - textures.ba2](about:blank)
+- Added [Data_ccfsvfo4006-vrwasteland - main.ba2](about:blank)
+- Added [Data_ccgrcfo4002-pipgreenvim - textures.ba2](about:blank)
+- Added [Data_ccrzrfo4002-disintegrate.esl](about:blank)
+- Added [Data_ccsbjfo4004-ion - main.ba2](about:blank)
+- Added [Data_cctosfo4002_neonflats - textures.ba2](about:blank)
+- Added [CompanionStimpak v1.01](https://www.nexusmods.com/fallout4/mods/99667)
+- Added [Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4010-pippnk.esl](about:blank)
+- Added [Data_ccBGSFO4016-Prey - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4022-powerarmorskin(camo01) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4028-powerarmorskinorange.esl](about:blank)
+- Added [Data_ccbgsfo4034-powerarmorskinyellow - main.ba2](about:blank)
+- Added [Data_ccbgsfo4045-advarccab - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4051-dgbox.esl](about:blank)
+- Added [Data_ccbgsfo4057-dglaby - main.ba2](about:blank)
+- Added [Data_ccbgsfo4062-pippat - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4073-pipmman.esl](about:blank)
+- Added [Data_ccbgsfo4079-pipvim - main.ba2](about:blank)
+- Added [Data_ccbgsfo4084-pipretro - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4090-piptribal.esl](about:blank)
+- Added [Data_ccbgsfo4119-cyberdog - main.ba2](about:blank)
+- Added [Data_cccrsfo4001-pipcoa - textures.ba2](about:blank)
+- Added [Data_ccfrsfo4003-cr75l.esl](about:blank)
+- Added [Data_ccfsvfo4006-vrwasteland - textures.ba2](about:blank)
+- Added [Data_ccgrcfo4002-pipgreenvim.esl](about:blank)
+- Added [Data_ccrzrfo4003-pipover - main.ba2](about:blank)
+- Added [Data_ccsbjfo4004-ion - textures.ba2](about:blank)
+- Added [Data_cctosfo4002_neonflats.esm](about:blank)
+- Added [Disable Companion Collision AE (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/99213)
+- Added [Data_ccbgsfo4004-pipboy(camo02).esl](about:blank)
+- Added [Data_ccbgsfo4011-pippurp - main.ba2](about:blank)
+- Added [Data_ccBGSFO4016-Prey - Textures.ba2](about:blank)
+- Added [Data_ccbgsfo4022-powerarmorskin(camo01).esl](about:blank)
+- Added [Data_ccbgsfo4029-powerarmorskinpink - main.ba2](about:blank)
+- Added [Data_ccbgsfo4034-powerarmorskinyellow - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4045-advarccab.esl](about:blank)
+- Added [Data_ccbgsfo4052-dgdal - main.ba2](about:blank)
+- Added [Data_ccbgsfo4057-dglaby - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4062-pippat.esl](about:blank)
+- Added [Data_ccbgsfo4074-pipinspect - main.ba2](about:blank)
+- Added [Data_ccbgsfo4079-pipvim - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4084-pipretro.esl](about:blank)
+- Added [Data_ccbgsfo4119-cyberdog - textures.ba2](about:blank)
+- Added [Data_cccrsfo4001-pipcoa.esl](about:blank)
+- Added [Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2](about:blank)
+- Added [Data_ccfsvfo4006-vrwasteland.esl](about:blank)
+- Added [Data_ccjvdfo4001-holiday - main.ba2](about:blank)
+- Added [Data_ccrzrfo4003-pipover - textures.ba2](about:blank)
+- Added [Data_ccsbjfo4004-ion.esl](about:blank)
+- Added [Data_ccvltfo4001-homes - main.ba2](about:blank)
+- Added [Data_ccbgsfo4005-bluecamo - main.ba2](about:blank)
+- Added [Data_ccbgsfo4011-pippurp - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4016-prey.esl](about:blank)
+- Added [Data_ccbgsfo4023-powerarmorskin(camo02) - main.ba2](about:blank)
+- Added [Data_ccbgsfo4029-powerarmorskinpink - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4034-powerarmorskinyellow.esl](about:blank)
+- Added [Data_ccbgsfo4052-dgdal - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4057-dglaby.esl](about:blank)
+- Added [Data_ccbgsfo4063-papat - main.ba2](about:blank)
+- Added [Data_ccbgsfo4074-pipinspect - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4079-pipvim.esl](about:blank)
+- Added [Data_ccbgsfo4085-piphawaii - main.ba2](about:blank)
+- Added [Data_ccbgsfo4119-cyberdog.esl](about:blank)
+- Added [Data_cceejfo4001-decorationpack - main.ba2](about:blank)
+- Added [Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2](about:blank)
+- Added [Data_ccjvdfo4001-holiday - textures.ba2](about:blank)
+- Added [Data_ccrzrfo4003-pipover.esl](about:blank)
+- Added [Data_ccswkfo4001-astronautpowerarmor - main.ba2](about:blank)
+- Added [Data_ccvltfo4001-homes - textures.ba2](about:blank)
+- Added [Power Armor Collection System - Allows you to store Power Armor in your inventory v1](https://www.nexusmods.com/fallout4/mods/36290)
+- Added [Data_ccacxfo4001-vsuit - main.ba2](about:blank)
+- Added [Data_ccbgsfo4005-bluecamo - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4011-pippurp.esl](about:blank)
+- Added [Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2](about:blank)
+- Added [Data_ccbgsfo4023-powerarmorskin(camo02) - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4029-powerarmorskinpink.esl](about:blank)
+- Added [Data_ccbgsfo4036-trnsdg - main.ba2](about:blank)
+- Added [Data_ccbgsfo4052-dgdal.esl](about:blank)
+- Added [Data_ccbgsfo4058-dglabc - main.ba2](about:blank)
+- Added [Data_ccbgsfo4063-papat - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4074-pipinspect.esl](about:blank)
+- Added [Data_ccbgsfo4080-pippop - main.ba2](about:blank)
+- Added [Data_ccbgsfo4085-piphawaii - textures.ba2](about:blank)
+- Added [Data_ccbgsfo4120-poweramorskin(pittraider) - main.ba2](about:blank)
+- Added [Data_cceejfo4001-decorationpack - textures.ba2](about:blank)
+- Added [Data_ccFSVFO4002-MidCenturyModern - Main.ba2](about:blank)
+- Added [Data_ccjvdfo4001-holiday.esl](about:blank)
+- Added [Data_ccrzrfo4004-pipinst - main.ba2](about:blank)
+- Added [Data_ccswkfo4001-astronautpowerarmor - textures.ba2](about:blank)
+- Added [Data_ccvltfo4001-homes.esm](about:blank)
+- Updated [Diverse Wasteland - The Diverse Series All-in-One to v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Updated [Fallout 4 Script Extender (F4SE) to v0.6.23](https://www.nexusmods.com/fallout4/mods/42147)
+- Updated [Legendary Loot Expansion to v1.5.2](https://www.nexusmods.com/fallout4/mods/92247)
+- Updated [Active Quest HUD to v1.5](https://www.nexusmods.com/fallout4/mods/97698)
+- Updated [Baka Framework to v1.10.0](https://www.nexusmods.com/fallout4/mods/43627)
+- Updated [Garden of Eden Papyrus Script Extender to v13.5](https://www.nexusmods.com/fallout4/mods/74160)
+- Updated [RobCo Patcher to v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Updated [Diverse Wasteland - The Diverse Series All-in-One to v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Updated [Vendors Always Sell Player Weapons Ammo to v1.0](https://www.nexusmods.com/fallout4/mods/99110)
+- Updated [Bullet Counted Reload System (BCR) to v2.00](https://www.nexusmods.com/fallout4/mods/41178)
+- Updated [Baka Wait Anywhere to v1.4](https://www.nexusmods.com/fallout4/mods/52723)
+- Updated [Mod Configuration Menu to v1.39](https://www.nexusmods.com/fallout4/mods/21497)
+- Updated [Codsworth Likes Cleaning to v1.3](https://www.nexusmods.com/fallout4/mods/92397)
+- Updated [Far Better Far Harbor - Exploration Expanded to v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [Crafting Highlight Fix to v1.8.8](https://www.nexusmods.com/fallout4/mods/27479)
+- Updated [High FPS Physics Fix to v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Updated [Diverse Wasteland - The Diverse Series All-in-One to v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Updated [Weightless Items to v1.3](https://www.nexusmods.com/fallout4/mods/73640)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [Place Everywhere to v1.18.0.1163](https://www.nexusmods.com/fallout4/mods/9424)
+- Updated [Far Better Far Harbor - Exploration Expanded to v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Updated [Far Object LOD Improvement Project to v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Updated [Remove Ammo from Dropped Guns to v1.0.5](https://www.nexusmods.com/fallout4/mods/64426)
+- Updated [PerkPointsPerLevel NG (F4SE) to v1.1.0](https://www.nexusmods.com/fallout4/mods/95837)
+- Updated [Extended Dialogue Interface to v1.3.6](https://www.nexusmods.com/fallout4/mods/27216)
+- Updated [Base Object Swapper to v1.0](https://www.nexusmods.com/fallout4/mods/67528)
+- Updated [Fallout 4 High Heels System to v1.8.3](https://www.nexusmods.com/fallout4/mods/39850)
+- Updated [Moon Rotation Fix to v1.0.0](https://www.nexusmods.com/fallout4/mods/80005)
+- Updated [Weapon Debris Crash Fix to v1.2](https://www.nexusmods.com/fallout4/mods/48078)
+- Updated [Sprint Stuttering Fix to v1.2](https://www.nexusmods.com/fallout4/mods/47760)
+- Updated [Encounter Zone Recalculation (Continuous Level Scaling) to v1.0](https://www.nexusmods.com/fallout4/mods/45674)
+- Updated [Whose Quest Is It NG (F4SE) to v1.0.0](https://www.nexusmods.com/fallout4/mods/98351)
+- Removed [Sim Settlements 2 - Chapter 3 v3.0.3](https://www.nexusmods.com/fallout4/mods/73394)
+- Removed [Diverse Wasteland - The Diverse Series All-in-One v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Removed [Extended Dialogue Interface v1.3.6](https://www.nexusmods.com/fallout4/mods/27216)
+- Removed [Fourville v1.13](https://www.nexusmods.com/fallout4/mods/43979)
+- Removed [Munitions - Ammo Expansion Project v1.2.3](https://www.nexusmods.com/fallout4/mods/66051)
+- Removed [Optimization and Tweaks for Thuggysmurf's Quest Mods (Fusion City - Outcasts and Remnants - Depravity) v2.1.6](https://www.nexusmods.com/fallout4/mods/56876)
+- Removed [Settlement Populator v0.8](https://www.nexusmods.com/fallout4/mods/92073)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [Sim Settlements 2 - Chapter 3 v3.0.3](https://www.nexusmods.com/fallout4/mods/73394)
+- Removed [SS2 Addon - Unlock Vanilla Recruitable Vendors v1.0.1](https://www.nexusmods.com/fallout4/mods/59904)
+- Removed [The Castle Tunnels Restored And Full Settlement - Install Anytime v2.0](https://www.nexusmods.com/fallout4/mods/74092)
+- Removed [Vintage Revolver - Smith and Wesson Schofield Model 3 v1.0.3](https://www.nexusmods.com/fallout4/mods/95859)
+- Removed [Active Quest HUD v1.5](https://www.nexusmods.com/fallout4/mods/97698)
+- Removed [Fallout 4 Script Extender (F4SE) v0.7.2](https://www.nexusmods.com/fallout4/mods/42147)
+- Removed [Fusion City Rising - Quest Mod Plus v1.0](https://www.nexusmods.com/fallout4/mods/16423)
+- Removed [Mod Configuration Menu v1.39](https://www.nexusmods.com/fallout4/mods/21497)
+- Removed [Outcasts and Remnants - Quest Mod Plus v1.51](https://www.nexusmods.com/fallout4/mods/21469)
+- Removed [PipboyTabs v1.10.163.0](https://www.nexusmods.com/fallout4/mods/29568)
+- Removed [Active Effects on HUD v1.2.6](https://www.nexusmods.com/fallout4/mods/32735)
+- Removed [Legendary Loot Expansion v1.5.2](https://www.nexusmods.com/fallout4/mods/92247)
+- Removed [LevelUpMenuEx v1.10.163.0](https://www.nexusmods.com/fallout4/mods/28822)
+- Removed [Papyrus Common Library v1.2.0](https://www.nexusmods.com/fallout4/mods/86222)
+- Removed [Pipe Carbine - Rat Runners Arsenal v1.6](https://www.nexusmods.com/fallout4/mods/83926)
+- Removed [Remove Ammo from Dropped Guns v1.0.5](https://www.nexusmods.com/fallout4/mods/64426)
+- Removed [SS2 Settlers UI v0.3.4](https://www.nexusmods.com/fallout4/mods/71165)
+- Removed [Baka Wait Anywhere v1.4](https://www.nexusmods.com/fallout4/mods/52723)
+- Removed [Crafting Highlight Fix v1.8.8](https://www.nexusmods.com/fallout4/mods/27479)
+- Removed [Project Valkyrie v1.3](https://www.nexusmods.com/fallout4/mods/28085)
+- Removed [SS2 Recreational Training Progress v1.0.1](https://www.nexusmods.com/fallout4/mods/93874)
+- Removed [Throw Money At SS2 v1.0](https://www.nexusmods.com/fallout4/mods/71762)
+- Removed [Desert Eagle - Standalone Handgun v2.1](https://www.nexusmods.com/fallout4/mods/10011)
+- Removed [Fourville - eXoPatch v1.5.5](https://www.nexusmods.com/fallout4/mods/61080)
+- Removed [This Settlement Does Not Need Your Help - BS Defence Redone v3.2](https://www.nexusmods.com/fallout4/mods/63998)
+- Removed [We Are The Minutemen - eXoPatch v1.1.2](https://www.nexusmods.com/fallout4/mods/83776)
+- Removed [Hellfire Power Armor - Creation Club - Mesh Improvements v1.0.0](https://www.nexusmods.com/fallout4/mods/91689)
+- Removed [12.7mm SMG - Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/96444)
+- Removed [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Removed [Diverse Wasteland - The Diverse Series All-in-One v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Removed [Simple SS2 Shipments v1.0](https://www.nexusmods.com/fallout4/mods/92834)
+- Removed [SS2 FallUI Icons a CIS Plugin v1.6](https://www.nexusmods.com/fallout4/mods/68102)
+- Removed [Moon Rotation Fix v1.0.0](https://www.nexusmods.com/fallout4/mods/80005)
+- Removed [RobCo Patcher v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Removed [High FPS Physics Fix v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Removed [All Settlements Extended v2.0.2](https://www.nexusmods.com/fallout4/mods/25316)
+- Removed [Militia Carbine (Spitfire Carbine) v1.0.0](https://www.nexusmods.com/fallout4/mods/83884)
+- Removed [Place Everywhere v1.18.0.1163](https://www.nexusmods.com/fallout4/mods/9424)
+- Removed [Sprint Stuttering Fix v1.2](https://www.nexusmods.com/fallout4/mods/47760)
+- Removed [Vendors Always Sell Player Weapons Ammo v1.0](https://www.nexusmods.com/fallout4/mods/99110)
+- Removed [SS2 Settlers UI - MCM Hotkey v1.0](https://www.nexusmods.com/fallout4/mods/93562)
+- Removed [Diverse Wasteland - The Diverse Series All-in-One v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Removed [Mystic Rogues Den SS2 Add-On Pack v3.5.2](https://www.nexusmods.com/fallout4/mods/93083)
+- Removed [Security SMG  - A Unique 10mm Submachinegun v1.3](https://www.nexusmods.com/fallout4/mods/64256)
+- Removed [Who's The General - Minutemen Quest Cleanup v1.05](https://www.nexusmods.com/fallout4/mods/59019)
+- Removed [OaR - Keep Your Items v1.01](https://www.nexusmods.com/fallout4/mods/41126)
+- Removed [Buffout 4 NG with PDB support v1.31.0](https://www.nexusmods.com/fallout4/mods/64880)
+- Removed [Service Rifle and Assault Carbine - New Vegas Classics - M16A1 and CAR-15 v1.0.4](https://www.nexusmods.com/fallout4/mods/99170)
+- Removed [Diverse Wasteland - The Diverse Series All-in-One v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Removed [The 9mm Pistol (Browning Hi-Power) Fallout New Vegas v1.0.0](https://www.nexusmods.com/fallout4/mods/93471)
+- Removed [Better Console - F4SE vv1.4.0](https://www.nexusmods.com/fallout4/mods/26582)
+- Removed [Optimization and Tweaks for Thuggysmurf's Quest Mods (Fusion City - Outcasts and Remnants - Depravity) v2.1.6](https://www.nexusmods.com/fallout4/mods/56876)
+- Removed [Vault-Tec Tools - Sim Settlements 2 Addon Pack v1.1](https://www.nexusmods.com/fallout4/mods/48700)
+- Removed [Encounter Zone Recalculation (Continuous Level Scaling) v1.0](https://www.nexusmods.com/fallout4/mods/45674)
+- Removed [Garden of Eden Papyrus Script Extender v13.5](https://www.nexusmods.com/fallout4/mods/74160)
+- Removed [LooksMenu v1.6.20](https://www.nexusmods.com/fallout4/mods/12631)
+- Removed [Fourville - eXoPatch v1.5.5](https://www.nexusmods.com/fallout4/mods/61080)
+- Removed [Hunter's Knife v1](https://www.nexusmods.com/fallout4/mods/82917)
+- Removed [The Marine Shotgun - Prototype SW Burst Shotgun v1.0.3Reup](https://www.nexusmods.com/fallout4/mods/97161)
+- Removed [Who's The General - Minutemen Quest Cleanup v1.05](https://www.nexusmods.com/fallout4/mods/59019)
+- Removed [Baka Framework v1.10.0](https://www.nexusmods.com/fallout4/mods/43627)
+- Removed [Weapon Debris Crash Fix v1.2](https://www.nexusmods.com/fallout4/mods/48078)
+- Removed [PerkPointsPerLevel NG (F4SE) v1.1.0](https://www.nexusmods.com/fallout4/mods/95837)
+- Removed [Weightless Items v1.3](https://www.nexusmods.com/fallout4/mods/73640)
+- Removed [Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader) v1.3](https://www.nexusmods.com/fallout4/mods/62347)
+- Removed [Pistol Grip Combat Rifle v1.1](https://www.nexusmods.com/fallout4/mods/55719)
+- Removed [Training Day - An SS2 QoL Mod v1.0.0](https://www.nexusmods.com/fallout4/mods/98098)
+- Removed [Bullet Counted Reload System (BCR) v2.00](https://www.nexusmods.com/fallout4/mods/41178)
+- Removed [Buffout 4 NG with PDB support v1.31.0](https://www.nexusmods.com/fallout4/mods/64880)
+- Removed [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Removed [Falcon Arms MP4 Spectre SMG v1.03](https://www.nexusmods.com/fallout4/mods/93987)
+- Removed [We Are The Minutemen v7.7](https://www.nexusmods.com/fallout4/mods/6443)
+- Removed [Winchester 5mm Range Rifle v1.1](https://www.nexusmods.com/fallout4/mods/53570)
+- Removed [Base Object Swapper v1.0](https://www.nexusmods.com/fallout4/mods/67528)
+- Removed [Whose Quest Is It NG (F4SE) v1.0.0](https://www.nexusmods.com/fallout4/mods/98351)
+- Removed [European Assault Rifle - FN FNC - Another Another Millenia v1.0](https://www.nexusmods.com/fallout4/mods/70995)
+- Removed [Faster Upfront Settler Training SS2 v2.0](https://www.nexusmods.com/fallout4/mods/58441)
+- Removed [Russian Assault Pack - SVD Dragunov - Saiga 12 - PP-19 Bizon - Stechkin APS - MP412 REX v1.0.3](https://www.nexusmods.com/fallout4/mods/42283)
+- Removed [SS2 MCM Extra Hotkeys v1.0](https://www.nexusmods.com/fallout4/mods/93793)
+- Removed [PBW - The Chinese Assault Rifle v1.0](https://www.nexusmods.com/fallout4/mods/76233)
+- Removed [Less Annoying Water Rain Ripples v1.2](https://www.nexusmods.com/fallout4/mods/33245)
+- Removed [Bullpup Sniper Rifle - Walther WA2000 v1.0.1](https://www.nexusmods.com/fallout4/mods/95542)
+- Removed [The Bush Knife - Kukri v1.0.0](https://www.nexusmods.com/fallout4/mods/96060)
+- Removed [Less Annoying Water Rain Ripples v1.2](https://www.nexusmods.com/fallout4/mods/33245)
+- Removed [Engine Fixes - F4SE v1.0.5](https://www.nexusmods.com/fallout4/mods/91565)
+- Removed [Far Better Far Harbor - Exploration Expanded v1.2.1](https://www.nexusmods.com/fallout4/mods/60641)
+- Removed [SS2 - SGO Wasteland Expansion v1](https://www.nexusmods.com/fallout4/mods/82661)
+- Removed [Console Autocomplete v1.0.0](https://www.nexusmods.com/fallout4/mods/86290)
+- Removed [Remember Lockpick Angle NG v1.0.0](https://www.nexusmods.com/fallout4/mods/96130)
+- Removed [ToggleEquip v1.0.0](https://www.nexusmods.com/fallout4/mods/83024)
+- Removed [Diverse Wasteland - The Diverse Series All-in-One v3](https://www.nexusmods.com/fallout4/mods/86316)
+- Removed [Fusion City Rising - Quest Mod Plus v1.0](https://www.nexusmods.com/fallout4/mods/16423)
+
+**Load Order Changes:**
+- Added ccbgsfo4001-pipboy(black).esl
+- Added ccbgsfo4002-pipboy(blue).esl
+- Added ccbgsfo4003-pipboy(camo01).esl
+- Added ccbgsfo4004-pipboy(camo02).esl
+- Added ccbgsfo4006-pipboy(chrome).esl
+- Added ccbgsfo4012-pipboy(red).esl
+- Added ccbgsfo4014-pipboy(white).esl
+- Added ccbgsfo4005-bluecamo.esl
+- Added ccbgsfo4016-prey.esl
+- Added ccbgsfo4018-gaussrifleprototype.esl
+- Added ccbgsfo4019-chinesestealtharmor.esl
+- Added ccbgsfo4020-powerarmorskin(black).esl
+- Added ccbgsfo4022-powerarmorskin(camo01).esl
+- Added ccbgsfo4023-powerarmorskin(camo02).esl
+- Added ccbgsfo4025-powerarmorskin(chrome).esl
+- Added ccbgsfo4033-powerarmorskinwhite.esl
+- Added ccbgsfo4024-pacamo03.esl
+- Added ccbgsfo4038-horsearmor.esl
+- Added ccfsvfo4002-midcenturymodern.esl
+- Added ccfrsfo4001-handmadeshotgun.esl
+- Added cceejfo4001-decorationpack.esl
+- Added ccbgsfo4045-advarccab.esl
+- Added ccfsvfo4003-slocum.esl
+- Added ccswkfo4001-astronautpowerarmor.esm
+- Added ccswkfo4002-pipnuka.esl
+- Added ccswkfo4003-pipquan.esl
+- Added ccbgsfo4050-dgbcoll.esl
+- Added ccbgsfo4051-dgbox.esl
+- Added ccbgsfo4052-dgdal.esl
+- Added ccbgsfo4053-dggoldr.esl
+- Added ccbgsfo4054-dggreatd.esl
+- Added ccbgsfo4055-dghusk.esl
+- Added ccbgsfo4056-dglabb.esl
+- Added ccbgsfo4057-dglaby.esl
+- Added ccbgsfo4058-dglabc.esl
+- Added ccbgsfo4059-dgpit.esl
+- Added ccbgsfo4060-dgrot.esl
+- Added ccbgsfo4061-dgshiinu.esl
+- Added ccbgsfo4036-trnsdg.esl
+- Added ccrzrfo4004-pipinst.esl
+- Added ccbgsfo4062-pippat.esl
+- Added ccrzrfo4003-pipover.esl
+- Added ccfrsfo4002-antimaterielrifle.esl
+- Added cceejfo4002-nuka.esl
+- Added ccygpfo4001-pipcruiser.esl
+- Added ccbgsfo4072-pipgrog.esl
+- Added ccbgsfo4073-pipmman.esl
+- Added ccbgsfo4074-pipinspect.esl
+- Added ccbgsfo4075-pipshroud.esl
+- Added ccbgsfo4076-pipmystery.esl
+- Added ccbgsfo4071-piparc.esl
+- Added ccbgsfo4079-pipvim.esl
+- Added ccbgsfo4078-pipreily.esl
+- Added ccbgsfo4077-piprocket.esl
+- Added ccbgsfo4070-pipabra.esl
+- Added ccbgsfo4008-pipgrn.esl
+- Added ccbgsfo4015-pipyell.esl
+- Added ccbgsfo4009-piporan.esl
+- Added ccbgsfo4011-pippurp.esl
+- Added ccbgsfo4021-powerarmorskinblue.esl
+- Added ccbgsfo4027-powerarmorskingreen.esl
+- Added ccbgsfo4034-powerarmorskinyellow.esl
+- Added ccbgsfo4028-powerarmorskinorange.esl
+- Added ccbgsfo4031-powerarmorskinred.esl
+- Added ccbgsfo4030-powerarmorskinpurple.esl
+- Added ccbgsfo4032-powerarmorskintan.esl
+- Added ccbgsfo4029-powerarmorskinpink.esl
+- Added ccgrcfo4001-pipgreytort.esl
+- Added ccgrcfo4002-pipgreenvim.esl
+- Added ccbgsfo4013-piptan.esl
+- Added ccbgsfo4010-pippnk.esl
+- Added ccsbjfo4001-solarflare.esl
+- Added cczsef04001-bhouse.esm
+- Added cctosfo4001-neosky.esm
+- Added cckgjfo4001-bastion.esl
+- Added ccbgsfo4063-papat.esl
+- Added ccqdrfo4001_powerarmorai.esl
+- Added ccrzrfo4002-disintegrate.esl
+- Added ccbgsfo4090-piptribal.esl
+- Added ccbgsfo4089-pipsynthwave.esl
+- Added ccbgsfo4087-piphaida.esl
+- Added ccbgsfo4085-piphawaii.esl
+- Added ccbgsfo4084-pipretro.esl
+- Added ccbgsfo4083-pipartdeco.esl
+- Added ccbgsfo4082-pipprc.esl
+- Added ccbgsfo4081-pipphenolresin.esl
+- Added ccbgsfo4080-pippop.esl
+- Added ccbgsfo4086-pipadventure.esl
+- Added ccjvdfo4001-holiday.esl
+- Added ccbgsfo4047-qthund.esl
+- Added ccfrsfo4003-cr75l.esl
+- Added cczsefo4002-smanor.esm
+- Added ccacxfo4001-vsuit.esl
+- Added ccbgsfo4040-vrworkshop01.esl
+- Added ccfsvfo4005-vrdesertisland.esl
+- Added ccfsvfo4006-vrwasteland.esl
+- Added ccsbjfo4002_manwellrifle.esl
+- Added cctosfo4002_neonflats.esm
+- Added ccbgsfo4117-capmerc.esl
+- Added ccfsvfo4004-vrworkshopgnrplaza.esl
+- Added ccgcafo4024-instituteplasmaweapons.esl
+- Added ccgcafo4025-pagunmm.esl
+- Added cccrsfo4001-pipcoa.esl
+- Added ccbgsfo4119-cyberdog.esl
+- Added ccbgsfo4120-poweramorskin(pittraider).esl
+- Added ccbgsfo4121-poweramorskin(airforce).esl
+- Added ccbgsfo4122-poweramorskin(scorchedsierra).esl
+- Added ccbgsfo4123-poweramorskin(inferno).esl
+- Added ccbgsfo4049-brahminarmor.esl
+- Added ccsbjfo4004-ion.esl
+- Added ccvltfo4001-homes.esm
+- Added ppf-neonflats-cr.esm
+- Added ImprovedCaravanGuards.esp
+- Added ImprovedMinutemenEncounters.esp
+- Added ImprovedHostileFactions.esp
+- Added ImprovedHostileGunners.esp
+- Added ImprovedHostileFactionsEncounters.esp
+- Added ImprovedBoSTumbaBoSPatch.esp
+- Added CompanionStimpak.esp
+- Added ImprovedHostileCreatures.esp
+- Added ImprovedHostileCreatureUFO4P.esp
+- Added FBFH_EE_Acadia_Cleanup.esp
+- Added ImprovedMinutemenYAWA2Patch.esp
+- Added ImprovedBoS.esp
+- Added ImprovedBoSBoss.esp
+- Added ImprovedBoSEncounters.esp
+- Added ImprovedBoSVertibirdGunPA.esp
+- Added ImprovedGuardEncounters.esp
+- Added ImprovedGuards.esp
+- Added ImprovedHostileDLC01RaiderFaction.esp
+- Added ImprovedHostileFactionsEncountersFast.esp
+- Added ImprovedHostileForged.esp
+- Added ImprovedHostileGunnerBoss.esp
+- Added ImprovedHostileGunnerINNRFIS.esp
+- Added ImprovedHostileSuperMutants.esp
+- Added ImprovedInstitute.esp
+- Added ImprovedInstituteBoss.esp
+- Added ImprovedInstituteEncounters.esp
+- Added ImprovedMinutemen.esp
+- Added ImprovedMinutemenINNRFIS.esp
+- Added ImprovedMinutemenEncountersPatch.esp
+- Added ImprovedMinutemenGeneralPatch.esp
+- Added ImprovedMMTumbaMMPatch.esp
+- Added ImprovedNukaRaiders.esp
+- Added ImprovedNukaRaidersBeast.esp
+- Added ImprovedNukaRaidersBoss.esp
+- Added ImprovedNukaRaidersEncounters.esp
+- Added ImprovedNukaStatRaiders.esp
+- Added ImprovedRR.esp
+- Added ImprovedRRBoss.esp
+- Added ImprovedRREncounters.esp
+- Added ImprovedRREncountersPatch.esp
+- Added ImprovedRRStatAgents.esp
+- Added PowerArmorCollection.esp
+- Added ccfsvfo4007-halloweenSMM.esp
+- Added CodsworthLikesCleaning_Rebuild_previs.esp
+- Removed Populator.esm
+- Removed SS2.esm
+- Removed SS2_XPAC_Chapter2.esm
+- Removed SS2_XPAC_Chapter3.esm
+- Removed ThrowMoneyAtSS2.esl
+- Removed SS2Shipments.esl
+- Removed Munitions - An Ammo Expansion.esl
+- Removed OHPWeaponBehavior.esm
+- Removed SS2Extended.esp
+- Removed SS2UI.esp
+- Removed WmkActiveEffects.esp
+- Removed SS2_CLB_TrainingDay.esp
+- Removed Kumaga_SS2RP.esp
+- Removed MS SS2 Unlock Vanilla Recruitable Vendors.esp
+- Removed TheCastleTunnelsRestoredAndFullSettlement.esp
+- Removed Mystic_RoguesDen.esp
+- Removed AllSetsExtended.esp
+- Removed Faster Upfront Training SS2.esp
+- Removed SS2AOP_VaultTecTools.esp
+- Removed Better_Settlement_Defence.esp
+- Removed W.A.T.Minutemen.esp
+- Removed SGOWastelandExpansion.esp
+- Removed WhoIsTheGeneral.esp
+- Removed W.A.T.Minutemen-eXoPatch.esp
+- Removed WATM-DW-Compat.esp
+- Removed WATM-DW-DWIP-Compat.esp
+- Removed Vault4.esp
+- Removed Vault4-eXoPatch.esp
+- Removed CWServRifle.esp
+- Removed CWServRifleMunitionsPatch.esp
+- Removed DOOMDesertEagle.esp
+- Removed RussianAssaultPack.esp
+- Removed OutcastsAndRemnants.esp
+- Removed AA FusionCityRising.esp
+- Removed ProjectValkyrie.esp
+- Removed FunctionalDisplays-Collectibles.esp
+- Removed WTG - KRIC Patch.esp
+- Removed T6M_Spectre.esp
+- Removed Spadey's Pipe Carbine.esp
+- Removed PBW-TheChineseAssaultRifle.esp
+- Removed VanBuren_223.esp
+- Removed NV_LMG.esp
+- Removed XR92_Rifle.esp
+- Removed PistolGripCR.esp
+- Removed RangeRifle.esp
+- Removed PigFNC.esp
+- Removed VltSec10mmSmg.esp
+- Removed CW127MMSMG.esp
+- Removed CWBurstShotgun.esp
+- Removed CWSchofeild.esp
+- Removed CWBushKnife.esp
+- Removed CWWA2000.esp
+- Removed CW9mmPistol.esp
+- Removed DakSpitfire.esp
+- Removed HunterKnife.esp
+- Removed SS2_CustomizableFactionIdentity.esp
+- Removed Thuggysmurf_Optimization.esp
+- Removed Vault4-PreVis.esp
+
+**Mod Changes:**
+- Added Settlement Menu Manager Patches (SMM)
+- Added Codsworth Likes Cleaning - Rebuild AIO Previs
+- Added 1_Diverse Wasteland - Workshop Framework - Compat
+- Added Power Armor Collection
+- Added CompanionStimpak
+- Added ToggleEquip (F4SE)
+- Added Acadia Interior Cleanup and Additions REDUX AE
+- Added Far Better Far Harbor - Exploration Expanded AE
+- Added Diverse Wasteland
+- Added Nameplates
+- Added [Faction] Improved Railroad
+- Added [Faction] Improved BoS
+- Added [Faction] Improved Institute
+- Added [Faction] Improved Guards
+- Added [Faction] Improved Nuka Raiders
+- Added [Faction] Improved Minutemen
+- Added [Faction] Improved Hostile Factions
+- Added Disable Companion Collision AE (F4SE)
+- Added X-Cell
+- Added Baka MaxPapyrusOps
+- Added FO4HHS AE 1.11.191
+- Removed Optimization and Tweaks for Thuggysmurf's Quest Mods
+- Removed Fourville - eXoPatch
+- Removed OaR - Keep Your Items
+- Removed We Are The Minutemen - eXoPatch
+- Removed Munitions - Ammo Expansion Project
+- Removed ToggleEquip
+- Removed Who's The General - Minutemen Quest Cleanup
+- Removed We Are The Minutemen
+- Removed Remember Lockpick Angle NG
+- Removed Less Annoying Water Rain Ripples
+- Removed Hellfire Power Armor - Creation Club - Mesh Improvements
+- Removed Far Better Far Harbor - Exploration Expanded NG
+- Removed Diverse Wasteland - The Diverse Series All-in-One
+- Removed Customizable Faction Identity
+- Removed SS2 - SGO Wasteland Expansion
+- Removed Vault-Tec Tools - Sim Settlements 2 Addon Pack
+- Removed Faster Upfront Settler Training SS2
+- Removed Mystic Rogues Den SS2 Add-On Pack
+- Removed SS2 Addon - Unlock Vanilla Recruitable Vendors
+- Removed Throw Money At SS2
+- Removed SS2 Recreational Training Progress
+- Removed Training Day - An SS2 QoL Mod
+- Removed SS2 Settlers UI - MCM Hotkey
+- Removed Simple SS2 Shipments
+- Removed SS2 MCM Extra Hotkeys
+- Removed SS2 Settlers UI
+- Removed SS2 FallUI Icons a CS Plugin
+- Removed Sim Settlements 2 - All Chapters Pack
+- Removed This Settlement Does Not Need Your Help - BS Defence Redone
+- Removed Populator - Auto Spawns Outfits and Assigns Settlers
+- Removed The Castle Tunnels Restored And Full Settlement - Install Anytime
+- Removed All Settlements Extended
+- Removed Hunter's Knife
+- Removed Militia Carbine (Spitfire Carbine)
+- Removed The 9mm Pistol (Browning Hi-Power) Fallout New Vegas
+- Removed Bullpup Sniper Rifle - Walther WA2000
+- Removed The Bush Knife - Kukri
+- Removed The Marine Shotgun - Prototype SW Burst Shotgun
+- Removed Vintage Revolver - Smith and Wesson Schofield Model 3
+- Removed 12.7mm SMG - Fallout New Vegas
+- Removed Security SMG - A Unique 10mm Submachinegun
+- Removed European Assault Rifle - FN FNC - Another Another Millenia
+- Removed Winchester 5mm Range Rifle
+- Removed Pistol Grip Combat Rifle - Rifle Rounds
+- Removed Lore Friendly 5.56 Collection (New Vegas LMG - R91 - Van Buren .223 Autoloader)
+- Removed Chinese Assault Rifle - Fallout 3 Recreation
+- Removed Pipe Carbine - Rat Runners Arsenal
+- Removed Falcon Arms MP4 Spectre SMG
+- Removed Russian Assault Pack - 1.0
+- Removed Desert Eagle - Standalone Handgun
+- Removed CW Service Rifle and Assault Carbine
+- Removed PipboyTabs
+- Removed LevelUpMenuEx
+- Removed Active Effects on HUD
+- Removed Fourville - PreVis
+- Removed Fourville
+- Removed Project Valkyrie
+- Removed Fusion City Rising - Quest Mod Plus
+- Removed Outcasts and Remnants - Quest Mod Plus
+- Removed Buffout 4 NG with PDB support
+- Removed Papyrus Common Library
+- Removed Console Autocomplete
+- Removed Better Console - F4SE
+- Removed Mentats - F4SE
+
 
 ## 2.4.5
 **Built at:** `1/1/2026 3:57:28 AM`
@@ -2410,6 +3213,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
