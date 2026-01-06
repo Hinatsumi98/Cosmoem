@@ -6,6 +6,67 @@
 - [2.4.5](#245)
 - [2.5](#25)
 - [2.5.1](#251)
+- [2.5.1.1](#2511)
+
+## 2.5.1.1
+**Built at:** `1/5/2026 9:29:08 PM`
+
+**Info:**
+- Download size change: -1.4GB (Total: 110.2GB)
+- Install size change: -1.5GB (Total: 147.2GB)
+
+**Download Changes:**
+
+- Added [Misc Hairstyles - More Hairstyles - Beards by Atherisz - Hair Retexture 2K v1.0](https://www.nexusmods.com/fallout4/mods/84754)
+- Added [Equipment and Crafting Overhaul (ECO) - Redux v4.9.6](https://www.nexusmods.com/fallout4/mods/67679)
+- Added [M8r98a4f2's Complex Item Sorter v1.12.0](https://www.nexusmods.com/fallout4/mods/48826)
+- Added [FaceGen Repository vv1](https://www.nexusmods.com/fallout4/mods/94048)
+- Added [AS-12 Heavy Assault Shotgun v1.01](https://www.nexusmods.com/fallout4/mods/96043)
+- Updated [Extended Fake Interiors - Commonwealth buildings fixes to v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Tumbajamba's Combat Armor MK2 v1.0.2](https://www.nexusmods.com/fallout4/mods/99491)
+- Removed [Outfits Workbench v1.0.1](https://www.nexusmods.com/fallout4/mods/91934)
+- Removed [Extended Fake Interiors - Commonwealth buildings fixes v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Extended Fake Interiors - Commonwealth buildings fixes v1.6](https://www.nexusmods.com/fallout4/mods/82222)
+- Removed [Sanctuary Outfits Workbench v0.1](https://www.nexusmods.com/fallout4/mods/95197)
+- Removed [Baka MaxPapyrusOps v1.1.0](https://www.nexusmods.com/fallout4/mods/73774)
+
+**Load Order Changes:**
+- Added CreationClubAIO-FaceGen.esp
+- Added T6M_Abzats.esp
+- Added MiscHairstyle.esp
+- Added MoreBeards.esp
+- Added MoreHairstyles4Male.esp
+- Added MoreHairstyles4Female.esp
+- Added Dank_ECO.esp
+- Added Dank_ECO-INNR.esp
+- Added M8r Complex Sorter.esp
+- Removed OutfitWorkbench.esp
+- Removed Tumba_HeavyCombatArmor.esp
+- Removed Tumba_HeavyCombatArmor_GunnerBoss.esp
+- Removed Tumba_HeavyCombatArmor_CombatInjection.esp
+- Removed Tumba_HeavyCombatArmor_MacCreadyReplacer.esp
+- Removed Tumba_HeavyCombatArmor_CaravanGuards.esp
+- Removed Tumba_HeavyCombatArmor_ScavengerInjection.esp
+- Removed Tumba_HeavyCombatArmor_VendorInjection.esp
+- Removed Tumba_HeavyCombatArmor_WastelanderInjection.esp
+- Removed FIS-Naming-Weap-Armo-EN.esp
+- Removed SanctuaryOutfitsWorkbench.esp
+- Removed OutfitWorkbench-clothing - patch 2.4.5.esp
+- Removed FakeInterior_RebuildPatch.esp
+
+**Mod Changes:**
+- Added Equipment and Crafting Overhaul (ECO) - Redux
+- Added Creation Club-FaceGen
+- Added AS-12 Heavy Assault Shotgun
+- Added Extended Fake Interior
+- Added Misc Hairstyles1.6 by Atherisz 2K
+- Removed Extended Fake Interior Rebuild AIO patch
+- Removed Extended Fake Interior DLC
+- Removed Tumbajamba's Combat Armor MK II
+- Removed Sanctuary Outfits Workbench
+- Removed Outfits Workbench
+- Removed Baka MaxPapyrusOps
+
 
 ## 2.5.1
 **Built at:** `1/5/2026 7:08:16 AM`
@@ -3545,6 +3606,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
