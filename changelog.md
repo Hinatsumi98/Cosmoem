@@ -10,6 +10,36 @@
 - [2.5.1.5](#2515) (turtle/gun edition still available on nexus)
 - [2.5.2](#252)
 - [2.6](#26)
+- [2.6.2](#262)
+
+## 2.6.2
+**Built at:** `1/12/2026 7:08:11 PM`
+
+**Info:**
+- Download size change: -36.9MB (Total: 104.7GB)
+- Install size change: 590.4MB (Total: 143.8GB)
+
+**Download Changes:**
+
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Improved Institute to v1.0](https://www.nexusmods.com/fallout4/mods/76757)
+- Updated [Previsibines Repair Pack (PRP) Stable Branch to v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Improved Institute v1.0](https://www.nexusmods.com/fallout4/mods/76757)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+
+**Load Order Changes:**
+- Removed ppf-heavyflamer-cr.esm
+
+
 
 ## 2.6
 **Built at:** `1/10/2026 10:53:46 PM`
@@ -4162,6 +4192,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
