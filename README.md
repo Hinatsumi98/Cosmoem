@@ -57,7 +57,7 @@ These steps are only required for installing the modlist for the first time. Add
 ### Pagefile and Crash Prevention
 
 >[!WARNING]
->Larger Fallout 4 modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Apostasy's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
+>Larger Fallout 4 modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Cosmoem's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
 **To set up a Pagefile:**
 
@@ -143,7 +143,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 >[!CAUTION]
 >**A legal copy of Fallout 4 Anniversary Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, F4SE does not work with the cracked exes.  
 
-Downloading and installing Apostasy can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
+Downloading and installing Cosmoem can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
 
 To install Cosmoem, complete the following steps.
 
@@ -177,7 +177,7 @@ Either buy the game or re-read the [Pre-Installation](#pre-installation) section
 </Details>  
 
 <Details>
-<summary>Unable to download Fallout_Default.ini or FalloutPrefs.ini:</summary>
+<summary>Unable to download Fallout4_Default.ini or Fallout4Prefs.ini:</summary>
 
 This error means you failed to follow this Readme. Go back and follow the steps outlines in the [Changing the Game Language](#changing-the-game-language) section
 
@@ -242,7 +242,7 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 
 ## Game Folder
 
-Apostasy uses a Wabbajack feature called Stock Game to keep your Fallout 4 installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+Cosmoem uses a Wabbajack feature called Stock Game to keep your Fallout 4 installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ## Antivirus Exceptions
 
@@ -316,7 +316,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 # Removing the Modlist
 
-Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostasy.
+Simply delete the Cosmoem folder. Congratulations, you have uninstalled Cosmoem.
 
 # Issues
 
@@ -325,4 +325,4 @@ Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostas
 # Credits and Thanks
 
 - *YOU* for reading this.
-- [Apostasy] (https://github.com/Oghma-Infinium/Apostasy/blob/main/README.md) for the readme base
+- [Cosmoem] (https://github.com/Oghma-Infinium/Cosmoem/blob/main/README.md) for the readme base
