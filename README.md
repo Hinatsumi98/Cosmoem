@@ -320,8 +320,6 @@ Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostas
 
 # Issues
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Apostasy/blob/main/Documentation/FAQ.md) first if you have any issues.
-
 >[!TIP]
 >If you encounter any bugs or issues while playing the list, the [Cosmoem](https://discord.gg/c3RFwyAFsG) support server is preferred and will have the fastest turn around time for support.
 # Credits and Thanks
