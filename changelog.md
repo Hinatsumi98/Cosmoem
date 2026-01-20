@@ -12,6 +12,216 @@
 - [2.6](#26)
 - [2.6.2](#262)
 - [2.7](#27)
+- [2.9](#29)
+
+## 2.9
+**Built at:** `1/20/2026 12:18:34 AM`
+
+**Info:**
+- Download size change: 3.8GB (Total: 110.7GB)
+- Install size change: -2.4GB (Total: 169.6GB)
+
+**Download Changes:**
+
+- Added [Brotherhood Field Manual - New Magazines - BOS - Brotherhood of Steel v1.0](https://www.nexusmods.com/fallout4/mods/87843)
+- Added [Civil Defense Index - New Magazines v1.0](https://www.nexusmods.com/fallout4/mods/89093)
+- Added [New Fallout 4 Collectible Magazines v1.0](https://www.nexusmods.com/fallout4/mods/81356)
+- Added [Vault Dweller's Survival Guide - New Magazines v1.0](https://www.nexusmods.com/fallout4/mods/85105)
+- Added [I read it for the articles I swear - Fallout 2 Cat's Paw Magazine's in Fallout 4 v1.0](https://www.nexusmods.com/fallout4/mods/90849)
+- Added [Scrounger's Weekly magazine collection v1](https://www.nexusmods.com/fallout4/mods/13336)
+- Added [Rebuild Settlements PRP Rebuilt v1.0.0](https://www.nexusmods.com/fallout4/mods/85104)
+- Added [New Perk Magazines v.99](https://www.nexusmods.com/fallout4/mods/12849)
+- Added [Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More v1.04](https://www.nexusmods.com/fallout4/mods/83401)
+- Added [New Vegas skill magazines in the commonwealth v1.0](https://www.nexusmods.com/fallout4/mods/90999)
+- Added [West-Tek Power Armor Manual - New Magazines v1.01](https://www.nexusmods.com/fallout4/mods/91160)
+- Added [Robot Repair Manual - New Magazines - HH Tools - RobCo - General Atomics v1.01](https://www.nexusmods.com/fallout4/mods/94927)
+- Added [Red Rocket Sightseers Guide - New Magazines (Manual - Handbook) v1.0](https://www.nexusmods.com/fallout4/mods/98443)
+- Added [Red Rocket Sightseers Guide - New Magazines (Manual - Handbook) v1.0](https://www.nexusmods.com/fallout4/mods/98443)
+- Updated [Vtaw Wardrobe 1 - CBBE - BodySlide to v1.1](https://www.nexusmods.com/fallout4/mods/39599)
+- Updated [Vtaw Utility Pack - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/42971)
+- Updated [Vtaw Wardrobe 1 - CBBE - BodySlide to v1.1](https://www.nexusmods.com/fallout4/mods/39599)
+- Updated [Vtaw Wardrobe 2 - CBBE - BodySlide to v1.5](https://www.nexusmods.com/fallout4/mods/39780)
+- Updated [Vtaw Wardrobe 4 - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/42145)
+- Updated [Vtaw Wardrobe 5 - CBBE - BodySlide to v1.2](https://www.nexusmods.com/fallout4/mods/43844)
+- Updated [Vtaw Wardrobe 6 - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/46628)
+- Updated [Vtaw Wardrobe 6 - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/46628)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Vtaw Wardrobe 9 - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/78169)
+- Updated [Vtaw Wardrobe 4 - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/42145)
+- Updated [Vtaw Wardrobe 5 - CBBE - BodySlide to v1.2](https://www.nexusmods.com/fallout4/mods/43844)
+- Updated [Far Object LOD Improvement Project to v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Updated [Vtaw Utility Pack - CBBE - BodySlide to v1.0](https://www.nexusmods.com/fallout4/mods/42971)
+- Removed [Difone432's Patches v0.1](https://www.nexusmods.com/fallout4/mods/98915)
+- Removed [Data_ccfsvfo4006-vrwasteland - textures.ba2](about:blank)
+- Removed [Enhanced Robot Settlers v0.0.3](https://www.nexusmods.com/fallout4/mods/96986)
+- Removed [Gunner Outfit Pack (STANDALONE) v4.8.1](https://www.nexusmods.com/fallout4/mods/43686)
+- Removed [Homemaker - Expanded Settlements v1.76](https://www.nexusmods.com/fallout4/mods/1478)
+- Removed [Ketaros Missing Magazines v1.1](https://www.nexusmods.com/fallout4/mods/63541)
+- Removed [Ketaros World v2.61](https://www.nexusmods.com/fallout4/mods/64123)
+- Removed [Moddable Graygarden (Automatron) v1.0](https://www.nexusmods.com/fallout4/mods/11243)
+- Removed [Settlement Menu Manager Patches (SMM) v2.0](https://www.nexusmods.com/fallout4/mods/72254)
+- Removed [Vtaw Wardrobe 4 - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/42145)
+- Removed [Transfer Settlements - Shareable Settlement Blueprints v1.93](https://www.nexusmods.com/fallout4/mods/22442)
+- Removed [PJM's Previs Patching Scripts v3.8](https://www.nexusmods.com/fallout4/mods/69978)
+- Removed [DEFY - CBBE - Body Slide v1.0](https://www.nexusmods.com/fallout4/mods/40314)
+- Removed [Evil Detective. (CBBE. JaneBod. Vanilla) v1.4](https://www.nexusmods.com/fallout4/mods/14135)
+- Removed [Evil Detective. (CBBE. JaneBod. Vanilla) v1.4](https://www.nexusmods.com/fallout4/mods/14135)
+- Removed [MadKea - without settlement v1.0](https://www.nexusmods.com/fallout4/mods/82423)
+- Removed [Mercenary Outfit Pack Unibody CBBE Bodyslide Conversion v1.0](https://www.nexusmods.com/fallout4/mods/66928)
+- Removed [Settlement Supplies Expanded v3.9](https://www.nexusmods.com/fallout4/mods/1145)
+- Removed [Sexy Sports Lingerie - CBBE - BodySlide v1.02](https://www.nexusmods.com/fallout4/mods/53871)
+- Removed [Vtaw Detective - CBBE - BodySlide v1.0](https://www.nexusmods.com/fallout4/mods/70154)
+- Removed [Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2](about:blank)
+- Removed [Data_ccfsvfo4006-vrwasteland.esl](about:blank)
+- Removed [Weapon Wall Racks (WWR) v1.1](https://www.nexusmods.com/fallout4/mods/53394)
+- Removed [The Apocalypse Vault Suit (CBBE-TWB-3BBB - vanilla Male) v1.1.1](https://www.nexusmods.com/fallout4/mods/97918)
+- Removed [Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2](about:blank)
+- Removed [Gunner Outfit Pack - CBBE fixes v1.2](https://www.nexusmods.com/fallout4/mods/61182)
+- Removed [Far Object LOD Improvement Project v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Ketaros Treasures v6.0](https://www.nexusmods.com/fallout4/mods/40964)
+- Removed [Homemaker - Expanded Settlements v1.76](https://www.nexusmods.com/fallout4/mods/1478)
+- Removed [Ketaros New Magazines v1.21](https://www.nexusmods.com/fallout4/mods/64589)
+- Removed [Data_ccbgsfo4040-vrworkshop01 - main.ba2](about:blank)
+- Removed [Kamuro Neon v1.1](https://www.nexusmods.com/fallout4/mods/44757)
+- Removed [Uncapped Settlement Surplus v2.0.1](https://www.nexusmods.com/fallout4/mods/12430)
+- Removed [Data_ccbgsfo4040-vrworkshop01 - textures.ba2](about:blank)
+- Removed [Gunner Outfit Pack - CBBE Patch v1.0](https://www.nexusmods.com/fallout4/mods/54903)
+- Removed [Settlement Objects Expansion Pack vv1.6.8](https://www.nexusmods.com/fallout4/mods/10075)
+- Removed [Data_ccbgsfo4040-vrworkshop01.esl](about:blank)
+- Removed [Mercenary Outfit Pack (STANDALONE) v1.3](https://www.nexusmods.com/fallout4/mods/63576)
+- Removed [Phase 4 An Institute Expansion v1.2](https://www.nexusmods.com/fallout4/mods/42647)
+- Removed [Vtaw Wardrobe 1 - CBBE - BodySlide v1.1](https://www.nexusmods.com/fallout4/mods/39599)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza - main.ba2](about:blank)
+- Removed [Mercenary Outfit Pack (STANDALONE) v1.3](https://www.nexusmods.com/fallout4/mods/63576)
+- Removed [Homemaker - Expanded Settlements CTD Fix v1.72](https://www.nexusmods.com/fallout4/mods/41434)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza - textures.ba2](about:blank)
+- Removed [Functional Display Stands - Model Robots Nuka Cola Etc. v1.1](https://www.nexusmods.com/fallout4/mods/3734)
+- Removed [Companion Perk Mags vFIS](https://www.nexusmods.com/fallout4/mods/27652)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza.esl](about:blank)
+- Removed [Functional Display Stands - Model Robots Nuka Cola Etc. v1.1](https://www.nexusmods.com/fallout4/mods/3734)
+- Removed [Data_ccfsvfo4005-vrdesertisland - main.ba2](about:blank)
+- Removed [Homemaker - Expanded Settlements v1.76](https://www.nexusmods.com/fallout4/mods/1478)
+- Removed [Ketaros Treasures - DLC01 The Terror v1.3](https://www.nexusmods.com/fallout4/mods/64782)
+- Removed [Data_ccfsvfo4005-vrdesertisland - textures.ba2](about:blank)
+- Removed [Xnjguy Filled Mods All-In-One plus New Mod v1.2](https://www.nexusmods.com/fallout4/mods/16813)
+- Removed [Data_ccfsvfo4005-vrdesertisland.esl](about:blank)
+- Removed [Homemaker - Expanded Settlements v1.76](https://www.nexusmods.com/fallout4/mods/1478)
+- Removed [Data_ccfsvfo4006-vrwasteland - main.ba2](about:blank)
+- Removed [Gunner Outfit Pack (STANDALONE) v4.8.1](https://www.nexusmods.com/fallout4/mods/43686)
+
+**Load Order Changes:**
+- Added RedRocketGuide.esl
+- Added HHTR.esl
+- Added RRSG - MagAdjustment.esl
+- Added WTPAM.esl
+- Added CDIndex.esl
+- Added BOSFieldManual.esl
+- Added VDSGMagazine.esl
+- Added ClassicSkillBooks.esl
+- Added Achill_Perk_Magazines.esp
+- Added NV_mags.esp
+- Added Scroungers Weekly.esp
+- Added MAGS.esp
+- Added CATSPAW.esp
+- Removed ccbgsfo4040-vrworkshop01.esl
+- Removed ccfsvfo4005-vrdesertisland.esl
+- Removed ccfsvfo4006-vrwasteland.esl
+- Removed ccfsvfo4004-vrworkshopgnrplaza.esl
+- Removed Ketaros_NewMags.esl
+- Removed Homemaker.esm
+- Removed Phase4DLC.esp
+- Removed MadKea-01.esp
+- Removed Ketaros_Treasures.esp
+- Removed Ketaros_MissingMags.esp
+- Removed Jacq-CompanionPerkMags.esp
+- Removed DT_MercOutfitPack.esp
+- Removed WeaponWallRacks.esp
+- Removed Evil Detective Outfit.esp
+- Removed ModelRobotDisplay.esp
+- Removed Kamuro Neon.esp
+- Removed SettleObjExpandPack.esp
+- Removed Defy.esp
+- Removed DT_GunnerOutfitPack.esp
+- Removed DT_GunnerOutfitPackCBBE.esp
+- Removed DT_GunnerOutfitPack_Patch.esp
+- Removed SSEX.esp
+- Removed Homemaker - Streetlights Use Passive Power.esp
+- Removed Homemaker - Unlocked Institute Objects.esp
+- Removed ModdableGreygarden.esp
+- Removed RobotSettlers_Automatron.esp
+- Removed SSEX SMM.esp
+- Removed HomemakerMenuFixer.esp
+- Removed ccfsvfo4007-halloweenCCSMM.esp
+- Removed MadKea SMM.esp
+- Removed NukaColaDisplayStand.esp
+- Removed NukaLord-ApocalypseBodysuit.esp
+- Removed Sexy Sports Lingerie.esp
+- Removed TransferSettlements.esp
+- Removed UncappedSettlementSurplus.esp
+- Removed FULLOutfits-ArmorRating - patch 2.4.5.esp
+- Removed XnjguyFilledMods_AIO.esp
+- Removed KetarosTreasures SMM.esp
+- Removed Ketaros_Treasures_DLC01.esp
+- Removed Ketaros_World.esp
+
+**Mod Changes:**
+- Added Acadia Interior Cleanup and Additions REDUX
+- Added Far Better Far Harbor - Exploration Expanded
+- Added Fully Functional Wild and Fresh Crops
+- Added New Vegas skill magazines in the commonwealth
+- Added I read it for the articles I swear - Fallout 2 Cat's Paw Magazine's in Fallout 4
+- Added Skill Books ESL
+- Added New Perk Magazines
+- Added Scrounger's Weekly magazine collection
+- Added New Fallout 4 Collectible Magazines
+- Added Classic Skill Books - New Magazines (Fallout 3 - New Vegas)
+- Added Vault Dweller's Survival Guide - New Magazines (Vault-Tec - Handbook - VDSG)
+- Added Brotherhood Field Manual - New Magazines - (BOS - Brotherhood of Steel - Handbook)
+- Added Civil Defense Index - New Magazines - (CD - Handbook)
+- Added West-Tek Power Armor Manual - New Magazines (Handbook - T-45 - T-51 - T-60 - X-01)
+- Added Robot Repair Manual - New Magazines - (HH Tools - RobCo - General Atomics)
+- Added Red Rocket Sightseers Guide - New Magazines (Manual - Handbook)
+- Removed Homemaker - Expanded Settlements CTD Fix
+- Removed Settlement Menu Manager Patches (SMM)
+- Removed Cosmoem Outfit Patches
+- Removed Homemaker - Unlocked Institute Objects Patch
+- Removed Warwick Melon Fix
+- Removed Homemaker Menu Fixer
+- Removed Acadia Interior Cleanup and Additions REDUX AE
+- Removed Far Better Far Harbor - Exploration Expanded AE
+- Removed Sexy Sports Lingerie - CBBE - BodySlide
+- Removed Gunner Outfit Pack - CBBE fixes
+- Removed Gunner Outfit Pack - CBBE Patch
+- Removed Gunner Outfit Pack (STANDALONE)
+- Removed Mercenary Outfit Pack Unibody CBBE Bodyslide Conversion
+- Removed Mercenary Outfit Pack (STANDALONE)
+- Removed The Apocalypse Vault Suit (CBBE-TWB-3BBB - vMale)
+- Removed DEFY - CBBE - Body Slide
+- Removed Evil Detective CBBE
+- Removed Vtaw Detective - CBBE - BodySlide
+- Removed Kamuro Neon
+- Removed Transfer Settlements - Shareable Settlement Blueprints
+- Removed Xnjguy Filled Mods All-In-One plus New Mod
+- Removed Settlement Objects Expansion Pack
+- Removed Homemaker 1.79.6 - 1K - NG Hotfix 6
+- Removed Uncapped Settlement Surplus
+- Removed Settlement Supplies Expanded
+- Removed MadKea - without settlement
+- Removed Weapon Wall Racks (WWR)
+- Removed Moddable Graygarden (Automatron)
+- Removed Functional Display Stands - Model Robots Nuka Cola Etc
+- Removed Enhanced Robot Settlers
+- Removed Homemaker - Streetlights Use Passive Power Patch
+- Removed Phase 4 An Institute Expansion
+- Removed Ketaros New Magazines
+- Removed Ketaros Missing Magazines
+- Removed Companion Perk Mags
+- Removed Ketaros Treasures
+- Removed Perk Magazines and Books
+- Removed Ketaros World
+- Removed Ketaros Treasures - DLC01 The Terror
+
 
 ## 2.7
 **Built at:** `1/15/2026 5:26:59 PM`
@@ -4291,6 +4501,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
