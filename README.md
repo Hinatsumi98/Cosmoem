@@ -57,7 +57,7 @@ These steps are only required for installing the modlist for the first time. Add
 ### Pagefile and Crash Prevention
 
 >[!WARNING]
->Larger Skyrim modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Apostasy's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
+>Larger Fallout 4 modlists require a significant amount of memory, running out of memory **will** result in crashes and other potential issues. Due to Apostasy's size and number of files, this step is **NOT** optional. I do not care how much RAM or VRAM you have, please do this step.
 
 **To set up a Pagefile:**
 
@@ -83,11 +83,11 @@ These steps are only required for installing the modlist for the first time. Add
 <Details>
 <summary>ICYWW: Why do we need a Pagefile?</summary>
 
-Skyrim is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
+Fallout 4 is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
 
-Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Skyrim crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.  
+Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Fallout 4 crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.  
 
-But why is this? Skyrim appears to use system memory in very unexpected ways, for example it will frequently dip into the pagefile memory despite there being available RAM. Skyrim heavily favors high speed, low latency RAM (the best you can get as of writing this is 6000MHz and CL30 for DDR5).  
+But why is this? Fallout 4 appears to use system memory in very unexpected ways, for example it will frequently dip into the pagefile memory despite there being available RAM. Fallout 4 heavily favors high speed, low latency RAM (the best you can get as of writing this is 6000MHz and CL30 for DDR5).  
 
 </Details>
 
@@ -109,13 +109,13 @@ But why is this? Skyrim appears to use system memory in very unexpected ways, fo
 ### Changing the Game Language
 
 >[!WARNING]
->**The English Steam version of Skyrim SE is the only supported version.**
+>**The English Steam version of Fallout 4 SE is the only supported version.**
 
 I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
 
-To change your Skyrim SE's language:
+To change your Fallout 4 SE's language:
 
- 1. Right click on Skyrim SE in Steam
+ 1. Right click on Fallout 4 SE in Steam
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
@@ -128,7 +128,7 @@ To change your Skyrim SE's language:
 Once you have completed the pre-installation section, follow these steps to install Wabbajack:
 
 1. Create an empty folder named `Wabbajack` on the root of your drive, such as `C:\Wabbajack` for example.
-    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Skyrim's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).**
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), in your Fallout 4's Steam folder, or in any folders related to the modlist itself (the downloads or install folder).**
     > - The `Wabbajack` folder does not need to be on an SSD, but it makes installing faster. You can set this location to be on an HDD for the sake of saving space.
 
 2. Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe) and place the `Wabbajack.exe` file inside the Wabbajack folder you created in Step 1.
@@ -151,7 +151,7 @@ To install Cosmoem, complete the following steps.
  2. Pick the **Fallout 4 Anniversary Edition** option from the game filter drop-down box (or use the search bar to find the modlist).
  3. Press the download arrow on the Cosmoem UI card and wait for it to download
  4. Set the `Installation Location` to a folder such as `C:\Cosmoem`.
-    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
+    > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Fallout 4's Steam folder**
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
  5. Download the files from the [Missing Manual Downloads](#missing-manual-downloads) section and place them in your designated `Downloads Location` folder.
  6. Press the `Install` button.
@@ -242,7 +242,7 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 
 ## Game Folder
 
-Apostasy uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+Apostasy uses a Wabbajack feature called Stock Game to keep your Fallout 4 installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ## Antivirus Exceptions
 
@@ -288,7 +288,7 @@ Create a thread in the `#support` channel of the [discord](https://discord.gg/c3
 <Details>
 <summary>Crashes during Gameplay</summary>
 
-Skyrim is a notoriously buggy game and cramming thousands of mods into it is not gauranteed to always produce the most stable experience possible. Especially in heavier lists where you may be pushing the limitations of your hardware as a result of Skyrim's old and unoptimized rendering pipeline.
+Fallout 4 is a notoriously buggy game and cramming thousands of mods into it is not gauranteed to always produce the most stable experience possible. Especially in heavier lists where you may be pushing the limitations of your hardware as a result of Fallout 4's old and unoptimized rendering pipeline.
 
 If you find yourself crashing, then create a detailed (as can) report in the `#support` channel of the [discord](https://discord.gg/c3RFwyAFsG).
 
