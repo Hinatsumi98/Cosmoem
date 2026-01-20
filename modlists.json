@@ -19,8 +19,8 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/HinaHyugaHime/Cosmoem/main/splash.png",
-      "readme": "https://github.com/HinaHyugaHime/Cosmoem/blob/main/changelog.md",
+      "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
+      "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/changelog.md",
       "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_05630efe-39c8-4dda-9778-f7fa596db63a",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/c3RFwyAFsG",
@@ -40,6 +40,7 @@
   }
 
 ]
+
 
 
 
