@@ -109,13 +109,13 @@ But why is this? Fallout 4 appears to use system memory in very unexpected ways,
 ### Changing the Game Language
 
 >[!WARNING]
->**The English Steam version of Fallout 4 SE is the only supported version.**
+>**The English Steam version of Fallout 4 is the only supported version.**
 
 I understand that this may be frustrating for non-English speaking users or users with the GOG/Bethesda.net versions, but due to the core file differences between the different versions, I am only able to support one game version.
 
-To change your Fallout 4 SE's language:
+To change your Fallout 4's language:
 
- 1. Right click on Fallout 4 SE in Steam
+ 1. Right click on Fallout 4 in Steam
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
