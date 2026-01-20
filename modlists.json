@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
-      "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/changelog.md",
+      "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_0a65fc2b-84d4-4713-bc11-a97843f4ea44",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/c3RFwyAFsG",
@@ -40,6 +40,7 @@
   }
 
 ]
+
 
 
 
