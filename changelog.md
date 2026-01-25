@@ -13,6 +13,146 @@
 - [2.6.2](#262)
 - [2.7](#27)
 - [2.9](#29)
+- [2.9.1](#291)
+
+## 2.9.1
+**Built at:** `1/25/2026 4:55:15 PM`
+
+**Info:**
+- Download size change: -20.3GB (Total: 130.7GB)
+- Install size change: -19.8GB (Total: 189.3GB)
+
+**Download Changes:**
+
+- Added [Robot Home Defence v1.50](https://www.nexusmods.com/fallout4/mods/5787)
+- Added [Workshop Rearranged v0.6.13](https://www.nexusmods.com/fallout4/mods/16181)
+- Added [Adobe House Kit v1.2](https://www.nexusmods.com/fallout4/mods/23840)
+- Added [Butcher Meat Rack v1.5](https://www.nexusmods.com/fallout4/mods/17154)
+- Added [Colored Workshop Lights v1.8](https://www.nexusmods.com/fallout4/mods/7075)
+- Added [HUD Plus Plus vv1.1.0](https://www.nexusmods.com/fallout4/mods/27218)
+- Added [Lore Friendly Posters v1.0](https://www.nexusmods.com/fallout4/mods/7145)
+- Added [Rebuild - Modular Sanctuary Pre-War and Post-War Build Set v0.98](https://www.nexusmods.com/fallout4/mods/15773)
+- Added [SR Settlement Signs Pre and Post War v1.21](https://www.nexusmods.com/fallout4/mods/11115)
+- Added [Advanced Bubble Turret Set vv1.1](https://www.nexusmods.com/fallout4/mods/11189)
+- Added [Renovated Furniture v5.1](https://www.nexusmods.com/fallout4/mods/9463)
+- Added [Wasteland Imports - Goodies from all across the Wasteland... v1.52.1](https://www.nexusmods.com/fallout4/mods/3793)
+- Added [Craftable Display Shelves v1.2.1](https://www.nexusmods.com/fallout4/mods/23600)
+- Added [Old World Plaids v3.0](https://www.nexusmods.com/fallout4/mods/10769)
+- Added [Wasteland Imports - Goodies from all across the Wasteland... v1.52.1](https://www.nexusmods.com/fallout4/mods/3793)
+- Added [Compact Crafting - Mini Crafting Benches and Power Armor Station v1.01](https://www.nexusmods.com/fallout4/mods/18264)
+- Added [Farming Resources v2.3b](https://www.nexusmods.com/fallout4/mods/28133)
+- Added [Scientifically Plantable Trees v1.1](https://www.nexusmods.com/fallout4/mods/16052)
+- Added [Workshop Rearranged v0.6.13](https://www.nexusmods.com/fallout4/mods/16181)
+- Added [Glazing - Windows With Glass (WWE) v0.2](https://www.nexusmods.com/fallout4/mods/23060)
+- Added [Craftable Power Armor Frame for Caps v1](https://www.nexusmods.com/fallout4/mods/87196)
+- Added [FaceGen Repository vv1](https://www.nexusmods.com/fallout4/mods/94048)
+- Added [Simple Weapon Icons Fix for FallUI vv1.0](https://www.nexusmods.com/fallout4/mods/99412)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [Community Fixes Merged to v2.1](https://www.nexusmods.com/fallout4/mods/74945)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [FO4 Crash Log Auto Scanner And Setup Integrity Checker (CLASSIC) v7.20](https://www.nexusmods.com/fallout4/mods/56255)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [DynDOLOD 3 Alpha vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Removed [xLODGen.132.7z](https://github.com/sheson/xLODGen/releases/download/v132/xLODGen.132.7z)
+- Removed [Collective Modding Toolkit v0.3.2](https://www.nexusmods.com/fallout4/mods/87907)
+- Removed [xEdit.4.1.5f.7z](https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.1.5f/xEdit.4.1.5f.7z)
+- Removed [M8r98a4f2's Complex Item Sorter v1.12.0](https://www.nexusmods.com/fallout4/mods/48826)
+- Removed [ILD - Improved Legendary Drops v1.4](https://www.nexusmods.com/fallout4/mods/88344)
+- Removed [Community Fixes Merged v2.1](https://www.nexusmods.com/fallout4/mods/74945)
+- Removed [Vish's Patch Hub (UFO4P) v1.0](https://www.nexusmods.com/fallout4/mods/63391)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Far Object LOD Improvement Project v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+
+**Load Order Changes:**
+- Added Robot Home Defence.esm
+- Added MojaveImports.esp
+- Added Adobe House Kit.esp
+- Added Old World Plaids.esp
+- Added AES_Renovated Furniture.esp
+- Added HDRP AIO 4K2.esp
+- Added HDRP AIO 4K0.esp
+- Added HDRP CC AIO 4K0.esp
+- Added HDRP AIO 4K4.esp
+- Added HDRP AIO 4K.esp
+- Added HDRP AIO 4K1.esp
+- Added Syn3r Craftable Power Armor Frame.esp
+- Added HDRP AIO 4K3.esp
+- Added HDRP CC AIO 4K.esp
+- Added CreationClubAIO-FaceGen.esp
+- Added SanctuaryParts.esp
+- Added Farming Resources.esp
+- Added WorkshopRearranged.esp
+- Added Colored Workshop Lights.esp
+- Added WorkshopRearranged_OldWorldPlaids_Patch.esp
+- Added WorkshopRearranged_FarmingResources_Patch.esp
+- Added WorkshopRearranged_NukaCollector_Patch.esp
+- Added WorkshopRearranged_SanctuaryParts_Patch.esp
+- Added WorkshopRearranged_MidCentury_Patch.esp
+- Added WorkshopRearranged_MojaveImports_Patch.esp
+- Added WorkshopRearranged_AdobeHouseKit_Patch.esp
+- Added WorkshopRearranged_ColoredLights_Patch.esp
+- Added WorkshopRearranged_DecorationsPack_Patch.esp
+- Added WorkshopRearranged_RenovatedFurniture_Patch.esp
+- Added WorkshopRearranged_RobotHomeDefence_Patch.esp
+- Added WorkshopRearranged_SlocumsJoe_Patch.esp
+- Added WorkshopRearranged_SnB_Patch.esp
+- Added AdvBubbleTurretSet-RealNP.esp
+- Added WorkshopRearranged_AdvBubbleTurretSetRealNP_Patch.esp
+- Added Glazing.esp
+- Added WorkshopRearranged_Glazing_Patch.esp
+- Added Lore Friendly Posters.esp
+- Added WorkshopRearranged_LoreFriendlyPosters_Patch.esp
+- Added Scientifically Plantable Trees.esp
+- Added WorkshopRearranged_ScientificallyPlantableTrees_Patch.esp
+- Added SR_Settlement_Signs.esp
+- Added WorkshopRearranged_SRSettlementSigns_Patch.esp
+- Added ButcherMeatRack.esp
+- Added WorkshopRearranged_ButcherMeatRack_Patch.esp
+- Added CompactCrafting.esp
+- Added WorkshopRearranged_CompactCrafting_Patch.esp
+- Added Eli_Display Shelves.esp
+- Added WorkshopRearranged_EliDisplayShelves_Patch.esp
+- Removed Improved Legendary Drops.esp
+- Removed HDRP AIO 2K.esp
+- Removed HDRP AIO 2K0.esp
+- Removed HDRP CC AIO 2K.esp
+- Removed CFM - Weapon Mod Fixes Patch.esp
+
+**Mod Changes:**
+- Added Creation Club-FaceGen
+- Added Diverse Wasteland - Workshop Framework - Compat
+- Added Craftable Power Armor Frame for Caps
+- Added Simple Weapon Icons Fix for FallUI
+- Added FIS - Vtaw and DonEb14n Clothing Sorting
+- Added HDRP CC AIO
+- Added HDRP AIO
+- Added Workshop Rearranged Patch Pack
+- Added Colored Workshop Lights
+- Added Craftable Display Shelves
+- Added Renovated Furniture
+- Added Old World Plaids
+- Added Adobe House Kit
+- Added Compact Crafting - Mini Crafting Benches and Power Armor Station
+- Added SR Settlement Signs Pre and Post War
+- Added Scientifically Plantable Trees
+- Added Butcher Meat Rack
+- Added Wasteland Imports - Goodies from all across the Wasteland
+- Added Rebuild - Modular Sanctuary Pre-War and Post-War Build Set
+- Added Robot Home Defence
+- Added Lore Friendly Posters
+- Added Farming Resources
+- Added Glazing - Windows With Glass (WWE)
+- Added Advanced Bubble Turret Set
+- Added Workshop Rearranged
+- Added HUD Plus Plus
+- Removed 1_Diverse Wasteland - Workshop Framework - Compat
+- Removed ILD - Hotfix
+- Removed CFM - Weapon Mod Fixes Patch (CFM 2.6.0)
+- Removed HDRP CC AIO 2K
+- Removed HDRP AIO 2K
+
 
 ## 2.9
 **Built at:** `1/20/2026 12:18:34 AM`
@@ -4501,6 +4641,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
