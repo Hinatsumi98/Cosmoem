@@ -14,6 +14,125 @@
 - [2.7](#27)
 - [2.9](#29)
 - [2.9.1](#291)
+- [2.9.2](#292)
+
+## 2.9.2
+**Built at:** `1/28/2026 8:51:53 PM`
+
+**Info:**
+- Download size change: 293.2MB (Total: 129.3GB)
+- Install size change: 315.3MB (Total: 188.1GB)
+
+**Download Changes:**
+
+- Added [ADD-ON - VaultBoy Posters Series v1.0](https://www.nexusmods.com/fallout4/mods/95212)
+- Added [Ketaros Framework - ESL and Fixed v2.8.5](https://www.nexusmods.com/fallout4/mods/69078)
+- Added [Ketaros Treasures v6.0](https://www.nexusmods.com/fallout4/mods/40964)
+- Added [Ketaros World v2.61](https://www.nexusmods.com/fallout4/mods/64123)
+- Added [Millennium Clutter - Base Object Swapper v1.0.1](https://www.nexusmods.com/fallout4/mods/68073)
+- Added [xLODGen.132.7z](https://github.com/sheson/xLODGen/releases/download/v132/xLODGen.132.7z)
+- Added [DynDOLOD 3 Alpha vAlpha-155](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- Added [FO4Edit v4.0.4](https://www.nexusmods.com/fallout4/mods/2737)
+- Added [Lootable Ketaros Treasures v1.2.6](https://www.nexusmods.com/fallout4/mods/66857)
+- Added [Ketaros Framework Add-On - NukaCola Stickers v1.00](https://www.nexusmods.com/fallout4/mods/75404)
+- Added [Ketaros Treasures - Board Games Shelf v1.1.0](https://www.nexusmods.com/fallout4/mods/66657)
+- Added [M8r98a4f2's Complex Item Sorter v1.12.0](https://www.nexusmods.com/fallout4/mods/48826)
+- Added [Ketaros Framework Add-On - NukaCola Stickers v1.00](https://www.nexusmods.com/fallout4/mods/75404)
+- Added [Ketaros Treasures - Postcard Rack v1.0.0](https://www.nexusmods.com/fallout4/mods/66390)
+- Added [Ketaros World - Unofficial Update v1.2.0](https://www.nexusmods.com/fallout4/mods/68272)
+- Added [Millennium Clutter - More Items for Hoarders and Decorators v1.0](https://www.nexusmods.com/fallout4/mods/67929)
+- Added [Unique - Quest Items Are Not Junk v1.1](https://www.nexusmods.com/fallout4/mods/84054)
+- Added [Icon Expantion Pack for FIS v1.1](https://www.nexusmods.com/fallout4/mods/88022)
+- Added [Ketaros World Cigarette Pack Display v1.0](https://www.nexusmods.com/fallout4/mods/97318)
+- Added [ADD-ON - Board Games Collection Series v1.4](https://www.nexusmods.com/fallout4/mods/68268)
+- Added [ADD-ON - Western Card Series v1.1](https://www.nexusmods.com/fallout4/mods/68241)
+- Added [Ketaros Treasures - DLC01 The Terror v1.3](https://www.nexusmods.com/fallout4/mods/64782)
+- Added [Ketaros Cards Addon Tactical Wifus v1.0.0](https://www.nexusmods.com/fallout4/mods/79075)
+- Added [ADD-ON - Pin-Up Card Series v1.0](https://www.nexusmods.com/fallout4/mods/68239)
+- Added [Ketaros New Magazines v1.21](https://www.nexusmods.com/fallout4/mods/64589)
+- Added [Discover Nearby Collectible Items v1.3](https://www.nexusmods.com/fallout4/mods/71704)
+- Added [Ketaros Framework v1.3](https://www.nexusmods.com/fallout4/mods/68236)
+- Added [Ketaros Treasures Complex Sorter Rules v1.0](https://www.nexusmods.com/fallout4/mods/61189)
+- Added [ADD-ON - Terror Card Series v1.0](https://www.nexusmods.com/fallout4/mods/68244)
+- Added [Ketaros New Magazines - Fixed v1.0.1](https://www.nexusmods.com/fallout4/mods/69725)
+- Updated [Far Object LOD Improvement Project to v4.2.1](https://www.nexusmods.com/fallout4/mods/61884)
+- Removed [Emirals patches for Seddon's quest mods v1.0](https://www.nexusmods.com/fallout4/mods/91214)
+- Removed [Emirals Viva Nuka-World Reborn Previs and UFO4P Patch v1.2](https://www.nexusmods.com/fallout4/mods/80489)
+- Removed [The Secret of Huntress Manor - A Far Harbor Story v1.7](https://www.nexusmods.com/fallout4/mods/27311)
+- Removed [Nuka-World Reborn v2.07](https://www.nexusmods.com/fallout4/mods/32857)
+- Removed [Nuka-World Reborn v2.07](https://www.nexusmods.com/fallout4/mods/32857)
+- Removed [Emirals Viva Nuka-World Reborn Previs and UFO4P Patch v1.2](https://www.nexusmods.com/fallout4/mods/80489)
+- Removed [Nuka-World Reborn v2.07](https://www.nexusmods.com/fallout4/mods/32857)
+- Removed [Viva Nuka-World v2.10](https://www.nexusmods.com/fallout4/mods/37356)
+- Removed [The Secret of Huntress Manor - A Far Harbor Story v1.7](https://www.nexusmods.com/fallout4/mods/27311)
+
+**Load Order Changes:**
+- Added ShowCollectibles.esl
+- Added [A0] KT_Framework.esm
+- Added Ketaros_NewMags.esl
+- Added [A0] KT_Framework_Addon.esl
+- Added [C1] KT_DLC_BoardGames.esp
+- Added [B1] KT_DLC_PinUp.esp
+- Added [B4] KT_DLC_TheTerror.esp
+- Added [E2] KT_DLC_VaultBoy_Posters.esp
+- Added [B2] KT_DLC_Western.esp
+- Added KT_AddON_NukaCola.esp
+- Added Ketaros Cards - TacticalWifus.esp
+- Added [A0] KT_BaseObjectSwapper.esp
+- Added Ketaros_World.esp
+- Added Ketaros_Treasures.esp
+- Added Ketaros_Treasures_DLC01.esp
+- Added eXoKetarosPostCardRack.esp
+- Added eXoKetarosLootableTreasures.esp
+- Added eXoKetarosBoardGamesShelf.esp
+- Added 1niv_Ketaros_World_Cig_Display.esp
+- Added MilleniumClutter.esp
+- Added Unique-Quest Items Are Not Junk.esp
+- Removed FarHarborStory.esp
+- Removed NukaWorldReborn.esp
+- Removed Borderless NukaWorld.esp
+- Removed NWR_KeepRaiderPerks.esp
+- Removed FHSBonus.esp
+- Removed VivaNukaWorldQuests.esp
+- Removed Em_FarHarborStory_Patch.esp
+- Removed Em_FarHarborStory_Previs.esp
+- Removed Em_VivaNWReborn_Previs.esp
+- Removed Em_VivaNWReborn_UFO4P_Patch.esp
+**Mod Changes:**
+- Added Ketaros Treasures Complex Sorter Rules
+- Added Icon Expansion Pack for FIS
+- Added Ketaros Framework (ESL)
+- Added Ketaros Treasures - DLC01 The Terror
+- Added Ketaros Treasures
+- Added Ketaros World Cigarette Pack Display
+- Added Ketaros Cards Addon Tactical Waifus
+- Added Lootable Ketaros Treasures
+- Added Ketaros Treasures - Board Games Shelf
+- Added Ketaros Treasures - Postcard Rack
+- Added Ketaros New Magazines - Fixed
+- Added Ketaros New Magazines
+- Added Ketaros Framework Add-On - NukaCola Stickers
+- Added ADD-ON - Western Card Series
+- Added ADD-ON - VaultBoy Posters Series
+- Added ADD-ON - Terror Card Series
+- Added ADD-ON - Pin-Up Card Series
+- Added ADD-ON - Board Games Collection Series
+- Added Ketaros Framework
+- Added Millennium Clutter - Base Object Swapper
+- Added Millennium Clutter - More Items for Hoarders and Decorators
+- Added Discover Nearby Collectible Items
+- Added Unique - Quest Items Are Not Junk
+- Added Ketaros World - BOS - RobCo Patcher
+- Added Ketaros World
+- Removed Keep Raider Perks
+- Removed Borderless Nuka-World
+- Removed Viva Nuka-World Reborn UFO4P Patch
+- Removed Viva Nuka-World Reborn Previs Patch
+- Removed Viva Nuka-World
+- Removed Nuka-World Reborn
+- Removed Emirals Patches For Seddon's Quest Mods
+- Removed The Secret of Huntress Manor - A Far Harbor Story
+
 
 ## 2.9.1
 **Built at:** `1/25/2026 4:55:15 PM`
@@ -4641,6 +4760,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
