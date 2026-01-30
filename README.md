@@ -23,6 +23,8 @@
     - [Setting Shader Cache Size (NVIDIA Users Only)](#setting-shader-cache-size-nvidia-users-only)
     - [Steam Setup](#steam-setup)
     - [Changing the Game Language](#changing-the-game-language)
+    - [Fallout 4 Creation Club](#Fallout-4-Creation-Club)
+    - [Creation Kit](#Creation-Kit)
   - [Wabbajack Installation](#wabbajack-installation)
     - [Installing Wabbajack](#installing-wabbajack)
     - [Downloading and Installing Cosmoem](#downloading-and-installing-Cosmoem)
