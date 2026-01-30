@@ -338,4 +338,4 @@ Simply delete the Cosmoem folder. Congratulations, you have uninstalled Cosmoem.
 # Credits and Thanks
 
 - *YOU* for reading this.
-- [Cosmoem] (https://github.com/Oghma-Infinium/Cosmoem/blob/main/README.md) for the readme base
+- [Apostasy](https://github.com/Oghma-Infinium/Apostasy/blob/main/README.md) for the readme base
