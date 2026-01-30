@@ -119,7 +119,18 @@ To change your Fallout 4's language:
  2. Click `Properties`
  3. Click `Language`
  4. Set the Language to `English`
- 5. 
+
+## Fallout 4 Creation Club
+To install Fallout 4 Creation Club content please do the following to avoid issues with tescan and remnants:
+  1. Fresh install
+  2. Open Fallout once (do not click download)
+  3. Force close when prompted to download
+  4. Re-open Fallout 4 and navigate to `Creations`
+  5. Open the options menu and click "Download All Creation Club Content"
+  6. Exit.
+
+## Creation Kit
+  1. Install the [Creation Kit](https://store.steampowered.com/app/1946160/Fallout_4_Creation_Kit/).
 
 ## Wabbajack Installation
 
