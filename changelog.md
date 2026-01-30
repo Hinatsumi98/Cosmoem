@@ -15,6 +15,46 @@
 - [2.9](#29)
 - [2.9.1](#291)
 - [2.9.2](#292)
+- [2.9.2.1](#2921)
+
+## 2.9.2.1
+**Built at:** `1/29/2026 8:02:50 PM`
+
+**Info:**
+- Download size change: 21.2MB (Total: 129.3GB)
+- Install size change: 7.7MB (Total: 188.3GB)
+
+**Download Changes:**
+
+- Added [Icon Expansion Pack for FIS - RobCo Patch v1.0.0](https://www.nexusmods.com/fallout4/mods/100270)
+- Added [Handmade Shotgun Unofficial Update (Creation Club) N7kie style v1.0.1](https://www.nexusmods.com/fallout4/mods/100806)
+- Added [Unofficial CC X-02 Patch v1.2](https://www.nexusmods.com/fallout4/mods/94839)
+- Updated [Improved Hostile Factions to v1.3.7](https://www.nexusmods.com/fallout4/mods/77916)
+- Updated [Improved Brotherhood of Steel to v1.0](https://www.nexusmods.com/fallout4/mods/76756)
+- Updated [Improved Railroad to v1.0](https://www.nexusmods.com/fallout4/mods/76749)
+- Updated [Improved Institute to v1.0](https://www.nexusmods.com/fallout4/mods/76757)
+- Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Updated [Workshop Framework to v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Removed [Workshop Framework v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Removed [Improved Hostile Factions v1.3.7](https://www.nexusmods.com/fallout4/mods/77916)
+- Removed [Workshop Framework Missing Heads with X-Cell Facegen Fix v1](https://www.nexusmods.com/fallout4/mods/88162)
+- Removed [Improved Brotherhood of Steel v1.0](https://www.nexusmods.com/fallout4/mods/76756)
+- Removed [Improved Railroad v1.0](https://www.nexusmods.com/fallout4/mods/76749)
+- Removed [Workshop Framework v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+- Removed [Workshop Framework v2.3.15](https://www.nexusmods.com/fallout4/mods/35004)
+
+**Load Order Changes:**
+- Added N7HandmadeShottyOverhaul.esp
+- Added IconExpack.esp
+- Removed ImprovedHostileGunnerINNRFIS.esp
+- Removed WorkshopFramework_ScriptOverride.esp
+**Mod Changes:**
+- Added Handmade Shotgun Unofficial Update (Creation Club) N7kie style
+- Added Unofficial CC X-02 Patch
+- Added Icon Expansion Pack for FIS - RobCo Patch
+- Removed Workshop Framework Script Override
+- Removed Workshop Framework Missing Heads with X-Cell Facegen Fix
+
 
 ## 2.9.2
 **Built at:** `1/28/2026 8:51:53 PM`
@@ -4760,6 +4800,7 @@
 - Removed CC Houses
 - Removed CC New PowerArmor
 - Removed Creation Club
+
 
 
 
