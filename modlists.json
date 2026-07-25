@@ -1,0 +1,31 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Cosmoem",
+    "description": "Visit the Cosmos!",
+    "author": "Hina",
+    "maintainers": [
+      "github/Hinatsumi98"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
+      "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/Readme.md",
+      "download": "",
+      "machineURL": "Cosmoem",
+      "discordURL": "https://discord.gg/PJNUzbE89p"
+    },
+
+    "version": "5.0"
+  }
+]
+
