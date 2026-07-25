@@ -24,8 +24,9 @@
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/PJNUzbE89p"
     },
-    
-    {"Hash":"QA5MT08/AB4=",
+  "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+    "Hash":"QA5MT08/AB4=",
     "Size":11023518,
     "NumberOfArchives":1092,
     "SizeOfArchives":70174342735,
@@ -36,4 +37,3 @@
     "version": "5.0"
   }
 ]
-
