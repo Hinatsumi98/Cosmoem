@@ -20,20 +20,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
       "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_bf278ed4-7313-43d6-bae8-5620d4cc177b",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_2622b68f-08cc-4dd2-b404-2d386a9dc966",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/PJNUzbE89p"
     },
   "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-    "Hash":"QA5MT08/AB4=",
-    "Size":11023518,
-    "NumberOfArchives":1092,
-    "SizeOfArchives":70174342735,
-    "NumberOfInstalledFiles":44256,
-    "SizeOfInstalledFiles":85817091188,
-    "TotalSize":155991433923},
-
+    "Hash":"pyic4AI++ds=",
+    "Size":11032986,
+    "NumberOfArchives":1094,
+    "SizeOfArchives":70183206118,
+    "NumberOfInstalledFiles":44267,
+    "SizeOfInstalledFiles":85850860776,
+    "TotalSize":156034066894},
     "version": "5.0"
   }
 ]
