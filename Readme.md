@@ -10,7 +10,7 @@
 **Modlist Support: [Cosmoem](https://discord.gg/c3RFwyAFsG)**
 
 >[!WARNING]
->You must update Fallout 4 to the latest version (1.11.191) on Steam to install this list.
+>You must update Fallout 4 to the latest version (1.11.221) on Steam to install this list.
 
 <header>
     <h1>Contents</h1>
