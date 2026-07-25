@@ -24,6 +24,14 @@
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/PJNUzbE89p"
     },
+    
+    {"Hash":"QA5MT08/AB4=",
+    "Size":11023518,
+    "NumberOfArchives":1092,
+    "SizeOfArchives":70174342735,
+    "NumberOfInstalledFiles":44256,
+    "SizeOfInstalledFiles":85817091188,
+    "TotalSize":155991433923},
 
     "version": "5.0"
   }
