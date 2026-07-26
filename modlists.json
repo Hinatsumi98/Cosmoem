@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Cosmoem",
     "description": "Visit the Cosmos!",
     "author": "Hina",
@@ -8,31 +7,38 @@
       "github/Hinatsumi98"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
       "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_4d789580-bdb1-4ca2-aecf-11e608b210f8",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_47f534ee-1b9e-4a4a-b61e-72429690affe",
       "machineURL": "Cosmoem",
-      "discordURL": "https://discord.gg/PJNUzbE89p"
+      "discordURL": "https://discord.gg/PJNUzbE89p",
+      "websiteURL": "",
+      "nexusCollection": null
     },
-  "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-"Hash":"r+xYGjaCtHw=",
-    "Size":11517702,
-    "NumberOfArchives":1107,
-    "SizeOfArchives":78706538807,
-    "NumberOfInstalledFiles":66843,
-    "SizeOfInstalledFiles":96259489353,
-    "TotalSize":174966028160},
-    "version": "5.0"
+    "download_metadata": {
+      "Hash": "xXloMFECn4E=",
+      "Size": 23037017,
+      "NumberOfArchives": 1131,
+      "SizeOfArchives": 79951857380,
+      "NumberOfInstalledFiles": 68245,
+      "SizeOfInstalledFiles": 99480038064,
+      "TotalSize": 179431895444
+    },
+    "version": "5.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-07-26T06:31:18.5950954Z",
+    "repositoryName": ""
   }
 ]
