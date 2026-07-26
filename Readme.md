@@ -7,7 +7,7 @@
 
 ---
 
-**Modlist Support: [Cosmoem](https://discord.gg/c3RFwyAFsG)**
+**Modlist Support: [Cosmoem](https://discord.gg/PJNUzbE89p)**
 
 >[!WARNING]
 >You must update Fallout 4 to the latest version (1.11.221) on Steam to install this list.
@@ -168,7 +168,7 @@ To install Cosmoem, complete the following steps.
  5. Download the files from the [Missing Manual Downloads](#missing-manual-downloads) section and place them in your designated `Downloads Location` folder.
  6. Press the `Install` button.
  7. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/c3RFwyAFsG) for support.
+ 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/PJNUzbE89p) for support.
 
 ## Problems with installation
 
@@ -309,7 +309,7 @@ Your installation is corrupt. Rerun Wabbajack and make sure to tick the **Overwr
 <Details>
 <summary>Crashing on Startup</summary>
 
-Create a thread in the `#support` channel of the [discord](https://discord.gg/c3RFwyAFsG), including all relevant crashlogs. There are several reasons why this might happen, and 99.9% of them are a corrupt installation.
+Create a thread in the `#support` channel of the [discord](https://discord.gg/PJNUzbE89p), including all relevant crashlogs. There are several reasons why this might happen, and 99.9% of them are a corrupt installation.
 
 </Details>  
 
@@ -318,7 +318,7 @@ Create a thread in the `#support` channel of the [discord](https://discord.gg/c3
 
 Fallout 4 is a notoriously buggy game and cramming thousands of mods into it is not gauranteed to always produce the most stable experience possible. Especially in heavier lists where you may be pushing the limitations of your hardware as a result of Fallout 4's old and unoptimized rendering pipeline.
 
-If you find yourself crashing, then create a detailed (as can) report in the `#support` channel of the [discord](https://discord.gg/c3RFwyAFsG).
+If you find yourself crashing, then create a detailed (as can) report in the `#support` channel of the [discord](https://discord.gg/PJNUzbE89p).
 
 In order to get the best possible response please ensure that:
 
@@ -349,7 +349,7 @@ Simply delete the Cosmoem folder. Congratulations, you have uninstalled Cosmoem.
 # Issues
 
 >[!TIP]
->If you encounter any bugs or issues while playing the list, the [Cosmoem](https://discord.gg/c3RFwyAFsG) support server is preferred and will have the fastest turn around time for support.
+>If you encounter any bugs or issues while playing the list, the [Cosmoem](https://discord.gg/PJNUzbE89p) support server is preferred and will have the fastest turn around time for support.
 # Credits and Thanks
 
 - *YOU* for reading this.
