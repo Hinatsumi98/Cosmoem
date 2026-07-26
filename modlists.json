@@ -25,7 +25,12 @@
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/PJNUzbE89p",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "483283",
+        "slug": "nv9yvg",
+        "domainName": "fallout4",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "xXloMFECn4E=",
