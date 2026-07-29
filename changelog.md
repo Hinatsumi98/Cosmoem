@@ -1,6 +1,93 @@
 # Changelog
 
 - [5.1.1](#511)
+- [5.2](#52)
+
+## 5.2
+**Built at:** `7/28/2026 8:49:03 PM`
+
+**Info:**
+- Download size change: -519.6MB (Total: 74.9GB)
+- Install size change: -51.1GB (Total: 143.7GB)
+
+**Download Changes:**
+
+- Added [Show No Mercy - Fort Strong Expansion v1.2](https://www.nexusmods.com/fallout4/mods/59643)
+- Added [We Can Live In - Vault 111 v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Added [Show No Mercy - Fort Strong Expansion v1.2](https://www.nexusmods.com/fallout4/mods/59643)
+- Added [Cambridge Police Station Settlement - Revisited v2.6](https://www.nexusmods.com/fallout4/mods/54598)
+- Added [Cambridge Police Station Settlement - Revisited v2.6](https://www.nexusmods.com/fallout4/mods/54598)
+- Added [We Can Live In - Vault 111 v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Updated [Papyrus Common Library Anniversary Edition to v1.1](https://www.nexusmods.com/fallout4/mods/106621)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Precombine And Previs Guardian - F4SE to v1.0.0](https://www.nexusmods.com/fallout4/mods/107272)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Papyrus Common Library Anniversary Edition to v1.1](https://www.nexusmods.com/fallout4/mods/106621)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Papyrus Common Library Anniversary Edition v1.1](https://www.nexusmods.com/fallout4/mods/106621)
+- Removed [Settlement Salvage Bot v5.0](https://www.nexusmods.com/fallout4/mods/32212)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Settlement Gardener Bot v3.0](https://www.nexusmods.com/fallout4/mods/38281)
+- Removed [Papyrus Common Library Anniversary Edition v1.1](https://www.nexusmods.com/fallout4/mods/106621)
+- Removed [Settlement Tidy Bot v3.3](https://www.nexusmods.com/fallout4/mods/33217)
+- Removed [The Rebuild Collection - AIO v1.1](https://www.nexusmods.com/fallout4/mods/79618)
+- Removed [Settlement Medic Bot v2.3](https://www.nexusmods.com/fallout4/mods/37655)
+- Removed [Settlement Police Bot v2.2](https://www.nexusmods.com/fallout4/mods/37730)
+- Removed [Precombine And Previs Guardian - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107272)
+- Removed [Carry-Your-Stuff Robots v3.3](https://www.nexusmods.com/fallout4/mods/47892)
+- Removed [Settlement Repair Bot v2.7](https://www.nexusmods.com/fallout4/mods/37933)
+- Removed [Settlement Delivery Bots v1.4](https://www.nexusmods.com/fallout4/mods/41657)
+- Removed [Settlement Gardener Bot v3.0](https://www.nexusmods.com/fallout4/mods/38281)
+
+**Load Order Changes:**
+- Added FortStronger.esm
+- Added WCLI_Vault111.esp
+- Added WCLI_Vault111_YouAndWhatArmy2_BlacklistPatrols_Patch.esp
+- Added WCLI_Vault111_Previs.esp
+- Added FortStronger[Previsibines].esp
+- Added CambridgePoliceStationSettlement.esp
+- Added FortStronger[Previsibines-PRP81].esp
+- Added CambridgePoliceStationSettlement[Patch-PRP81].esp
+- Removed SettlementDeliveryBots.esl
+- Removed SettlementGardenBot.esl
+- Removed SettlementMedicBot.esl
+- Removed SettlementCopBot.esl
+- Removed SettlementTidyBot.esl
+- Removed SettlementSalvageBot.esl
+- Removed SettlementFixerBot.esl
+- Removed StorageBot.esl
+- Removed FO4LODGen-FullModelLOD.esp
+- Removed FO4LODGen-DLCWorkshop03.esp
+- Removed FO4LODGen-DLCNukaWorld.esp
+- Removed FO4LODGen-DLCCoast.esp
+- Removed FO4LODGen-HighTrees.esp
+- Removed FO4LODGen-DLCCoast-WindTurbines.esp
+- Removed GardenBotWaterPatch.esp
+- Removed Rebuild_Settlements_Sanctuary_PreWarTextures.esp
+- Removed SettlementBots SMM.esp
+- Removed SettlementSalvageBotESL SMM.esp
+
+**Mod Changes:**
+- Added Cosmoem - LodGen
+- Added Patch for PRP81 - Cambridge
+- Added PRP 81 Patch Fort Strong
+- Added You And What Army 2 - No Minutemen Patrols Patch
+- Added Cambridge Police Station Settlement - Revisited
+- Added Show No Mercy - Fort Strong Expansion
+- Added We Can Live In - Vault 111
+- Removed Cosmoem - LODgen
+- Removed Gardener Bot Water Patch - For ESL Version
+- Removed Carry-Your-Stuff Robots
+- Removed Rebuild AIO - Sanctuary - Prewar Textures
+- Removed Settlement Repair Bot
+- Removed Settlement Salvage Bot
+- Removed Settlement Tidy Bot
+- Removed Settlement Police Bot
+- Removed Settlement Medic Bot
+- Removed Settlement Gardener Bot
+- Removed Settlement Delivery Bots
 
 ## 5.1.1
 **Built at:** `7/26/2026 5:09:15 PM`
