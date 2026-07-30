@@ -264,7 +264,7 @@ Cosmoem uses a Wabbajack feature called Stock Game to keep your Fallout 4 instal
 ## Bodyslides
 
 1. There is a Bodyslides folder in Tools section, take note of it
-2. Select bodyslide studio in the boot menu <img width="542" height="220" alt="image" src="https://github.com/user-attachments/assets/5f2f9578-c402-4c5d-b298-e35acb333a4f" />
+2. Select bodyslide studio in the boot menu <img width="542" height="220" alt="image" src="https://github.com/Hinatsumi98/Cosmoem/blob/main/Screenshot%202026-07-30%20023023.png" />
 3. Hit "Run" when asked to select game click the 3 dots and direct it to your fallout4 data folder like so. <img width="686" height="413" alt="image" src="https://github.com/user-attachments/assets/19513e5c-1eff-4669-94ca-b18029e0c15b" />
 4. select choose game after, then you want to look towards the top and select "CBBE Body" for outfit/body, then select your choice of preset, the default is curvy. then check the two boxes at the bottom it will look like this. <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/e5a7e379-df78-4647-b36e-1aab57d9ee8c" />
 5. hit the batch build button on the new popup menu right click any outfit and select "Select all" then after that is done do "build"
