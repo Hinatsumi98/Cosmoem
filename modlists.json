@@ -21,7 +21,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash.png",
       "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_f848f153-63b5-4b7d-bd62-b53a2eeee132",
+      "download": "https://authored-files.wabbajack.org/Cosmoem.wabbajack_b2868f8c-5725-4e41-bfa9-bb6949d5eb4a",
       "machineURL": "Cosmoem",
       "discordURL": "https://discord.gg/PJNUzbE89p",
       "websiteURL": "",
@@ -33,17 +33,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "VqV37ID/dB8=",
-      "Size": 189155254,
-      "NumberOfArchives": 1125,
-      "SizeOfArchives": 81280155016,
-      "NumberOfInstalledFiles": 65389,
-      "SizeOfInstalledFiles": 152858128657,
-      "TotalSize": 234138283673
+      "Hash": "sBK5og+3Ekg=",
+      "Size": 12307505,
+      "NumberOfArchives": 1119,
+      "SizeOfArchives": 110949111933,
+      "NumberOfInstalledFiles": 83483,
+      "SizeOfInstalledFiles": 157080709708,
+      "TotalSize": 268029821641
     },
-    "version": "5.3",
+    "version": "5.3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-29T08:51:50.9401321Z",
+    "dateUpdated": "2026-07-30T11:28:11.296983Z",
     "repositoryName": ""
   }
 ]
