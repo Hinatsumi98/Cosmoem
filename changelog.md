@@ -2,6 +2,138 @@
 
 - [5.1.1](#511)
 - [5.2](#52)
+- [5.3.1](#531)
+
+## 5.3.1
+**Built at:** `7/30/2026 6:28:00 AM`
+
+**Info:**
+- Download size change: -27.6GB (Total: 103.3GB)
+- Install size change: -3.9GB (Total: 146.3GB)
+
+**Download Changes:**
+
+- Added [Light Gobo Fix - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107256)
+- Added [crashfixes for Fallout 4 v1](https://www.nexusmods.com/fallout4/mods/106544)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [The Rebuild Collection - AIO to v1.1](https://www.nexusmods.com/fallout4/mods/79618)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Casdin Caravan Armor Mashup v1.2.1](https://www.nexusmods.com/fallout4/mods/106568)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Freyna Outfit v1.0](https://www.nexusmods.com/fallout4/mods/102023)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Lord Kugenheim's Armor Pack 1 v2.0.1](https://www.nexusmods.com/fallout4/mods/104259)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Cowgirl Outfit (CBBE BodySlide) v1](https://www.nexusmods.com/fallout4/mods/101416)
+- Removed [Eve Outfit MGS Snake Eater v1.0](https://www.nexusmods.com/fallout4/mods/96719)
+- Removed [MM69 RE-R Panzer Outfit - CBBE FG v2.0.0](https://www.nexusmods.com/fallout4/mods/96116)
+- Removed [MM69's Ghoul Hunter v1.0.0](https://www.nexusmods.com/fallout4/mods/97220)
+- Removed [The Forsaken Institute Assassin (EVB-CBBE) (AWKCR-AE) v1.4](https://www.nexusmods.com/fallout4/mods/19906)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [DEFY - CBBE - Body Slide v1.0](https://www.nexusmods.com/fallout4/mods/40314)
+- Removed [TERA Rogue (CBBE - CBBE Physics - BodySlide) v1.1](https://www.nexusmods.com/fallout4/mods/31316)
+- Removed [Vault 111 Outfit CBBE v1.0](https://www.nexusmods.com/fallout4/mods/52932)
+- Removed [BZW Tactical Goth v1.1](https://www.nexusmods.com/fallout4/mods/95670)
+- Removed [Courser X-92 Power Suit CBBE and PipBoy (Pip-Boy) v1.55](https://www.nexusmods.com/fallout4/mods/9278)
+- Removed [Guzzoline Gear v1.01](https://www.nexusmods.com/fallout4/mods/95436)
+- Removed [Guzzoline Gear CBBE v1.0](https://www.nexusmods.com/fallout4/mods/97078)
+- Removed [Lord Kugenheim's Armor Pack 2 v1.0.1](https://www.nexusmods.com/fallout4/mods/105118)
+- Removed [Fixed Gobo Effects v2.1.2](https://www.nexusmods.com/fallout4/mods/27445)
+- Removed [Ghosts - Cross Explorer Outfit v1.0](https://www.nexusmods.com/fallout4/mods/47302)
+
+**Load Order Changes:**
+- Added Rebuild_Settlements_Sanctuary_PreWarTextures.esp
+- Added HDRP_AIO_HQ.esp
+- Added HDRP_AIO_HQ0.esp
+- Added HDRP_AIO_HQ1.esp
+- Added HDRP_AIO_HQ2.esp
+- Added HDRP_AIO_HQ3.esp
+- Added HDRP_AIO_HQ4.esp
+- Added HDRP_CCAIO_HQ.esp
+- Added HDRP_CCAIO_HQ0.esp
+- Added HDRP_CCAIO_HQ1.esp
+- Removed HDRP_AIO_HP.esp
+- Removed HDRP_AIO_HP0.esp
+- Removed HDRP_CCAIO_HP.esp
+- Removed TERARogue.esp
+- Removed Casdin Caravan Armor Mashup.esp
+- Removed LK-ArmorPack-02.esp
+- Removed LK-ArmorPack-02-Distro.esp
+- Removed LK-ArmorPack-02-Vendors.esp
+- Removed LK-ArmorPack-01.esp
+- Removed LK-ArmorPack-01-NPC-MMRanger-Both.esp
+- Removed LK-ArmorPack-01-NPC-BoSScout-Both.esp
+- Removed LK-ArmorPack-01-Replace-Maxon-Combat.esp
+- Removed LK-ArmorPack-01-Replace-Preston-Riot.esp
+- Removed Freyna Outfit.esp
+- Removed RR Eve MGS.esp
+- Removed Modern - Cross Explorer.esp
+- Removed Jane_Equipment.esp
+- Removed MM69 RE-R Panzer Outfit.esp
+- Removed BZW_Tactical_Goth.esp
+- Removed DX Courser X-92 Power Suit.esp
+- Removed GuzzolineGear.esp
+- Removed MM69's Ghoul Hunter.esp
+- Removed Fixed Gobo Effects.esp
+- Removed DX_Vault_111_Outfit.esp
+**Mod Changes:**
+- Added Cosmoem - LodGen Quality
+- Added Cosmoem - TexGen Quality
+- Added Cosmoem - FOLIP Quality
+- Added Rebuild AIO - Sanctuary - Prewar Textures
+- Added HD Retexture Project - All in One (WIP) HQ CC P3
+- Added HD Retexture Project - All in One (WIP) HQ CC P2
+- Added HD Retexture Project - All in One (WIP) HQ CC P1
+- Added HD Retexture Project - All in One (WIP) HQ P6
+- Added HD Retexture Project - All in One (WIP) HQ P5
+- Added HD Retexture Project - All in One (WIP) HQ P4
+- Added HD Retexture Project - All in One (WIP) HQ P3
+- Added HD Retexture Project - All in One (WIP) HQ P2
+- Added HD Retexture Project - All in One (WIP) HQ P1
+- Added Light Gobo Fix - F4SE
+- Added Creation Engine Tweaks for Fallout 4
+- Removed Cosmoem - LodGen
+- Removed Cosmoem - TexGen
+- Removed Cosmoem - FOLIP
+- Removed HD Retexture Project - All in One (WIP) CC
+- Removed HD Retexture Project - All in One (WIP) P2
+- Removed HD Retexture Project - All in One (WIP) P1
+- Removed Fixed Gobo Effects
+- Removed MM69's Ghoul Hunter
+- Removed Guzzoline Gear CBBE
+- Removed Guzzoline Gear
+- Removed Courser X-92 Power Suit CBBE and PipBoy (Pip-Boy)
+- Removed BZW Tactical Goth
+- Removed MM69 RER Panzer Outfit CBBE Loose
+- Removed The Forsaken Institute Assassin (EVB-CBBE) (AWKCR-AE)
+- Removed Cowgirl Outfit (CBBE BodySlide)
+- Removed Ghosts - Cross Explorer Outfit
+- Removed Eve Outfit MGS Snake Eater
+- Removed Freyna Outfit
+- Removed LordKugenheim's Armor Pack 2
+- Removed Lord Kugenheim's Armor Pack 1
+- Removed Casdin Caravan Armor Mashup
+- Removed DEFY 2k
+- Removed TERA Rogue - Core Files (Version 1.1)
+- Removed Vault 111 Outfit CBBE
+
 
 ## 5.2
 **Built at:** `7/28/2026 8:49:03 PM`
