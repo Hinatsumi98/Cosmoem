@@ -203,17 +203,33 @@ we have 🍲 soup 🗣️ screaming 🧀 cheese 🐀 rats 👁️ eyes 🫀 hear
 </div>
 
 
-![SkyrimSE 2024-06-14 12-21-30](https://github.com/The-Animonculory/Curseadelica/assets/85711747/6d3c5b70-a33a-4f38-88f6-bd9dd2abdeee)
-![SkyrimSE 2024-06-14 12-16-44](https://github.com/The-Animonculory/Curseadelica/assets/85711747/aaa84814-9980-4773-9ae1-88b2ba026b4e)
-![SkyrimSE 2024-06-14 12-15-50](https://github.com/The-Animonculory/Curseadelica/assets/85711747/c3239553-3ab4-4921-b26b-99f06c157f85)
-![SkyrimSE 2024-06-14 12-15-11](https://github.com/The-Animonculory/Curseadelica/assets/85711747/c044e3f9-762e-4a78-b0f0-1087123593a9)
-![SkyrimSE 2024-06-14 12-14-34](https://github.com/The-Animonculory/Curseadelica/assets/85711747/b3c6c56b-6bb5-4496-899c-4ad2d937556c)
-![SkyrimSE 2024-06-14 12-14-27](https://github.com/The-Animonculory/Curseadelica/assets/85711747/2b99fc03-97d2-41ec-a1f4-a28211a2e46c)
-![SkyrimSE 2024-06-14 12-13-28](https://github.com/The-Animonculory/Curseadelica/assets/85711747/8708b9b8-89b9-4b54-92e3-6252d38bc534)
-![SkyrimSE 2024-06-14 12-13-07](https://github.com/The-Animonculory/Curseadelica/assets/85711747/c3676d4f-6491-4aa7-bfbf-1b75d5204062)
-![SkyrimSE 2024-06-14 12-13-01](https://github.com/The-Animonculory/Curseadelica/assets/85711747/a778aa13-9e64-4379-9439-d6abdf66dd60)
-![SkyrimSE 2024-06-14 12-12-21](https://github.com/The-Animonculory/Curseadelica/assets/85711747/5930ed41-af84-4e8c-a4da-67d6dac8b01c)
-![SkyrimSE 2024-06-14 12-11-44](https://github.com/The-Animonculory/Curseadelica/assets/85711747/816d379d-611f-4467-b7ed-4c39a4131913)
-![SkyrimSE 2024-06-14 12-11-27](https://github.com/The-Animonculory/Curseadelica/assets/85711747/bf854d59-741c-467d-b751-6d8d99481a8a)
+<img width="2560" height="1440" alt="339749004-6d3c5b70-a33a-4f38-88f6-bd9dd2abdeee" src="https://github.com/user-attachments/assets/1291af1a-eeb2-4bf8-921a-db01ce57daf6" />
+<img width="2560" height="1440" alt="339749012-aaa84814-9980-4773-9ae1-88b2ba026b4e" src="https://github.com/user-attachments/assets/0a8d593e-b7db-4c7b-abe2-ddc7f35c44d1" />
+<img width="2560" height="1440" alt="339749039-c3239553-3ab4-4921-b26b-99f06c157f85" src="https://github.com/user-attachments/assets/be6ca799-e323-4110-9677-54e030a5a0f7" />
+<img width="2560" height="1440" alt="339749061-c044e3f9-762e-4a78-b0f0-1087123593a9" src="https://github.com/user-attachments/assets/114d49e8-232d-4c6b-a757-3cbbd4cedf33" />
+<img width="2560" height="1440" alt="339749071-b3c6c56b-6bb5-4496-899c-4ad2d937556c" src="https://github.com/user-attachments/assets/96c959f8-91ec-43a1-9091-bd72f163a124" />
+<img width="2560" height="1440" alt="339749080-2b99fc03-97d2-41ec-a1f4-a28211a2e46c" src="https://github.com/user-attachments/assets/67123407-54cf-4d2d-911f-d8700f9bc9fe" />
+<img width="2560" height="1440" alt="339749103-8708b9b8-89b9-4b54-92e3-6252d38bc534" src="https://github.com/user-attachments/assets/ab56a97e-f356-4595-955e-fc0b23614be0" />
+<img width="2560" height="1440" alt="339749131-c3676d4f-6491-4aa7-bfbf-1b75d5204062" src="https://github.com/user-attachments/assets/cf7d6ee3-2850-4673-a80a-b09d772e6bd8" />
+<img width="2560" height="1440" alt="339749141-a778aa13-9e64-4379-9439-d6abdf66dd60" src="https://github.com/user-attachments/assets/f8e3a612-6081-4202-be3c-284b1a6d0085" />
+<img width="2560" height="1440" alt="339749154-5930ed41-af84-4e8c-a4da-67d6dac8b01c" src="https://github.com/user-attachments/assets/df0e78bc-53b7-4b9a-94e5-bdf722375dd4" />
+<img width="2560" height="1440" alt="339749191-816d379d-611f-4467-b7ed-4c39a4131913" src="https://github.com/user-attachments/assets/54faca04-fd5f-44e2-8cb0-e320597f3de9" />
+<img width="2560" height="1440" alt="339749212-bf854d59-741c-467d-b751-6d8d99481a8a" src="https://github.com/user-attachments/assets/a27027d5-4ba3-45ba-a8b3-fca1ecc67db7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
