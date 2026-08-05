@@ -150,7 +150,7 @@ to  E̶̱͗X̷̺͌P̶̲̽L̶̩͝O̷͈͋R̵̺̃Ë̷͙́     to  S̸̜̀Ú̷͔M̴�
 
 we have 🍲 soup 🗣️ screaming 🧀 cheese 🐀 rats 👁️ eyes 🫀 hearts 🕯️ candles 📋 load orders 😇 mandatory enjoyment and a guy named Todd 🧍 not THAT Todd 🧍 a different Todd 🧍 he does tech support 🔧 he is also soup somehow 🍲🧍 we are looking into the Todd situation 🧍🔍
 
-### 👉👉👉 **https://discord.gg/xRrHRsb5e9** 👈👈👈
+### 👉👉👉 **[https://discord.gg/PJNUzbE89p](https://discord.gg/PJNUzbE89p)** 👈👈👈
 
 🐀 join 🐀 the rat is already there 🐀 the rat has been there since the server was created 🐀 the rat has 4000 hours in the modlist 🐀 the rat gets 40 fps 🐀 the rat is okay with this 🐀 the rat has the eyes 🐀
 
