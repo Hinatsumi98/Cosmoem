@@ -3,6 +3,158 @@
 - [5.1.1](#511)
 - [5.2](#52)
 - [5.3.1](#531)
+- [5.4](#54)
+
+## 5.4
+**Built at:** `8/5/2026 6:01:35 PM`
+
+**Info:**
+- Download size change: 24.8GB (Total: 78.5GB)
+- Install size change: 5.9GB (Total: 140.4GB)
+
+**Download Changes:**
+
+- Added [Breakheart Banks Reclaimed v1.0.0](https://www.nexusmods.com/fallout4/mods/104549)
+- Added [Automatically Lowered Weapons - F4SE v1.3](https://www.nexusmods.com/fallout4/mods/107445)
+- Added [1980s vintage style Chinese sports outfit mashups - CBBE UniBoob - Bodyslide v1.02](https://www.nexusmods.com/fallout4/mods/107694)
+- Added [SUP F4SE AE 1.11.221 v1170](https://www.nexusmods.com/fallout4/mods/107607)
+- Added [The Castle Tunnels Restored And Full Settlement - Install Anytime v2.0](https://www.nexusmods.com/fallout4/mods/74092)
+- Added [Intentional Stealing - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107532)
+- Added [WitCH - What in the Craftable Hell v1.0.1](https://www.nexusmods.com/fallout4/mods/101810)
+- Added [Breakheart Banks Reclaimed v1.0.0](https://www.nexusmods.com/fallout4/mods/104549)
+- Added [FRIENDS - Gotta Have Em v1.0.1](https://www.nexusmods.com/fallout4/mods/101767)
+- Added [The Castle Tunnels Restored and Full Settlement - Bug Fix ESP Replacer v1](https://www.nexusmods.com/fallout4/mods/106013)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [RobCo Patcher to v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Boon Island - Isles Of New England to v1.0.1](https://www.nexusmods.com/fallout4/mods/84449)
+- Updated [We Can Live In - Vault 111 to v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Updated [I. A.M. B.O.O.M. - It's A Modlist But Only One Mod to v1.1.6](https://www.nexusmods.com/fallout4/mods/97677)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [We Can Live In - Vault 111 to v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Updated [AffinityHUD to v1](https://www.nexusmods.com/fallout4/mods/107291)
+- Updated [Commonwealth Encounter Pack to v1.00](https://www.nexusmods.com/fallout4/mods/77948)
+- Updated [I. A.M. B.O.O.M. - It's A Modlist But Only One Mod to v1.1.6](https://www.nexusmods.com/fallout4/mods/97677)
+- Updated [ENB Helper AE to v1](https://www.nexusmods.com/fallout4/mods/107221)
+- Updated [HD Retexture Project - All in One (Work in progress) to v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Updated [crashfixes for Fallout 4 to v1](https://www.nexusmods.com/fallout4/mods/106544)
+- Updated [Misery Island - Isles Of New England to v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Updated [I. A.M. B.O.O.M. - It's A Modlist But Only One Mod to v1.1.6](https://www.nexusmods.com/fallout4/mods/97677)
+- Removed [Boon Island - Isles Of New England v1.0.1](https://www.nexusmods.com/fallout4/mods/84449)
+- Removed [Community Tweaks Merged v1.0.7](https://www.nexusmods.com/fallout4/mods/83532)
+- Removed [NewerMind43 Outfits - ESLified with Fixes v1.0.0](https://www.nexusmods.com/fallout4/mods/91865)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [I. A.M. B.O.O.M. - It's A Modlist But Only One Mod v1.1.6](https://www.nexusmods.com/fallout4/mods/97677)
+- Removed [Ownership Fixes v1.3.3](https://www.nexusmods.com/fallout4/mods/56885)
+- Removed [We Can Live In - Vault 111 v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Removed [We Can Live In - Vault 111 v1.00](https://www.nexusmods.com/fallout4/mods/106357)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Misery Island - Isles Of New England v1.0](https://www.nexusmods.com/fallout4/mods/87983)
+- Removed [Commonwealth Encounter Pack v1.00](https://www.nexusmods.com/fallout4/mods/77948)
+- Removed [Community Tweaks Merged v1.0.7](https://www.nexusmods.com/fallout4/mods/83532)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [TERA Rogue (CBBE - CBBE Physics - BodySlide) v1.1](https://www.nexusmods.com/fallout4/mods/31316)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Guzzoline Gear CBBE v1.0](https://www.nexusmods.com/fallout4/mods/97078)
+- Removed [Cutting Room Floor - Nuka World Hair Dyes v1.01](https://www.nexusmods.com/fallout4/mods/73584)
+- Removed [The Midnight Ride - Glitchfinder All-In-One v1.01](https://www.nexusmods.com/fallout4/mods/74949)
+- Removed [RobCo Patcher v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Removed [Sprint Stuttering Fix v1.2](https://www.nexusmods.com/fallout4/mods/47760)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [I. A.M. B.O.O.M. - It's A Modlist But Only One Mod v1.1.6](https://www.nexusmods.com/fallout4/mods/97677)
+- Removed [Light Gobo Fix - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107256)
+- Removed [ENB Helper AE v1](https://www.nexusmods.com/fallout4/mods/107221)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [crashfixes for Fallout 4 v1](https://www.nexusmods.com/fallout4/mods/106544)
+- Removed [Vault 111 Outfit CBBE Bodyslide v1.0](https://www.nexusmods.com/fallout4/mods/52952)
+- Removed [Cowgirl Outfit (CBBE BodySlide) v1](https://www.nexusmods.com/fallout4/mods/101416)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [AffinityHUD v1](https://www.nexusmods.com/fallout4/mods/107291)
+- Removed [Guzzoline Gear v1.01](https://www.nexusmods.com/fallout4/mods/95436)
+- Removed [No AWKCR and AE For Mods File Dump v2.7](https://www.nexusmods.com/fallout4/mods/40752)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+
+**Load Order Changes:**
+- Added ChinaThemedOutfits.esl
+- Added HDRP_CCAIO_HP.esp
+- Added HDRP_AIO_HP0.esp
+- Added HDRP_AIO_HP.esp
+- Added AutoLoweredWeapons.esp
+- Added BreakheartBanksReclaimed.esp
+- Added witch.esp
+- Added friends.esp
+- Added TheCastleTunnelsRestoredAndFullSettlement.esp
+- Added BreakheartBanksReclaimed_PRPPatch.esp
+- Removed Ownership Fixes.esp
+- Removed TMR_GlitchfinderAIO.esm
+- Removed Defy.esp
+- Removed Crimsomrider's Institute Assassin.esp
+- Removed Mercenary.esp
+- Removed communitytweaksmerged.esp
+- Removed HDRP_AIO_HQ.esp
+- Removed HDRP_AIO_HQ0.esp
+- Removed HDRP_AIO_HQ1.esp
+- Removed HDRP_AIO_HQ2.esp
+- Removed HDRP_AIO_HQ3.esp
+- Removed HDRP_AIO_HQ4.esp
+- Removed HDRP_CCAIO_HQ.esp
+- Removed HDRP_CCAIO_HQ0.esp
+- Removed HDRP_CCAIO_HQ1.esp
+**Mod Changes:**
+- Added Patches
+- Added Cosmoem - LodGen
+- Added Cosmoem - TexGen
+- Added Cosmoem - FOLIP
+- Added BBR - PRP Patch
+- Added HDRP CC AIO HP
+- Added HD Retexture Project - All in One (WIP) HP P2
+- Added HD Retexture Project - All in One (WIP) HP P1
+- Added RobCo Patcher Addon - Necessity
+- Added Automatically Lowered Weapons - F4SE
+- Added FRIENDS - Gotta Have Em
+- Added WitCH - What in the Craftable Hell
+- Added Intentional Stealing - F4SE
+- Added The Castle Tunnels Restored and Full Settlement - Bug Fix ESP Replacer
+- Added The Castle Tunnels Restored And Full Settlement - Install Anytime
+- Added Breakheart Banks Reclaimed
+- Added 1980s vintage style Chinese sports outfit mashups - CBBE UniBoob - Bodyslide
+- Added SUP F4SE AE 1.11.221
+- Removed Cosmoem - LodGen Quality
+- Removed Cosmoem - TexGen Quality
+- Removed Cosmoem - FOLIP Quality
+- Removed Guzzoline Gear CBBE BodySlide Files
+- Removed CBBE BodySlide (Cowgirl)
+- Removed TERA Rogue - CBBE BodySlide (Version 1.1)
+- Removed Vault 111 Outfit CBBE Bodyslide
+- Removed HD Retexture Project - All in One (WIP) HQ CC P3
+- Removed HD Retexture Project - All in One (WIP) HQ CC P2
+- Removed HD Retexture Project - All in One (WIP) HQ CC P1
+- Removed HD Retexture Project - All in One (WIP) HQ P6
+- Removed HD Retexture Project - All in One (WIP) HQ P5
+- Removed HD Retexture Project - All in One (WIP) HQ P4
+- Removed HD Retexture Project - All in One (WIP) HQ P3
+- Removed HD Retexture Project - All in One (WIP) HQ P2
+- Removed HD Retexture Project - All in One (WIP) HQ P1
+- Removed Light Gobo Fix - F4SE
+- Removed No AWKCR and AE For Mods File Dump - FOMOD Edition
+- Removed Rolling Thunder tanktop CTD hotfix
+- Removed DEFY Fixified
+- Removed The Midnight Ride - Glitchfinder All-In-One
+- Removed Hair Texture Fix
+- Removed Sprint Stuttering Fix
+- Removed Ownership Fixes
+- Removed Community Tweaks Merged
 
 ## 5.3.1
 **Built at:** `7/30/2026 6:28:00 AM`
