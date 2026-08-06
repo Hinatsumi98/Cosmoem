@@ -4,6 +4,39 @@
 - [5.2](#52)
 - [5.3.1](#531)
 - [5.4](#54)
+- [5.4.1](#541)
+
+## 5.4.1
+**Built at:** `8/5/2026 10:27:31 PM`
+
+**Info:**
+- Download size change: 5.1GB (Total: 73.4GB)
+- Install size change: 268.3MB (Total: 140.2GB)
+
+**Download Changes:**
+
+- Removed [Immersive Animation Framework v1.3.2](https://www.nexusmods.com/fallout4/mods/50555)
+- Removed [Warehouse Shelves for components and ammo vv0.4](https://www.nexusmods.com/fallout4/mods/15289)
+- Removed [Clothing Scrapping Redone v1.3.1](https://www.nexusmods.com/fallout4/mods/69715)
+- Removed [Weapon Mod Fixes - WMF v1.6](https://www.nexusmods.com/fallout4/mods/11130)
+- Removed [Weapon Mod Fixes - WMF v1.6](https://www.nexusmods.com/fallout4/mods/11130)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Weapon Scrapping Redone v1.4.3](https://www.nexusmods.com/fallout4/mods/56895)
+- Removed [Nuclear Flare Progressive Power Armors (CC Included) v1.0.0](https://www.nexusmods.com/fallout4/mods/103947)
+- Removed [Far Better Faction Workshop Items v1.8.0](https://www.nexusmods.com/fallout4/mods/98672)
+- Removed [HD Retexture Project - All in One (Work in progress) v004](https://www.nexusmods.com/fallout4/mods/97138)
+- Removed [Intimidation Perk Extend - Lore Friendly Improvements v1.4](https://www.nexusmods.com/fallout4/mods/49212)
+
+
+**Mod Changes:**
+- Removed Nuclear Flare Progressive Power Armors (CC Included)
+- Removed Immersive Animation Framework
+- Removed Intimidation Perk Extend - Lore Friendly Improvements
+- Removed Clothing Scrapping Redone
+- Removed Weapon Scrapping Redone
+- Removed Far Better Faction Workshop Items
+- Removed Warehouse Shelves for components and ammo
+- Removed Weapon Mod Fixes
 
 ## 5.4
 **Built at:** `8/5/2026 6:01:35 PM`
