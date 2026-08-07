@@ -6,6 +6,930 @@
 - [5.4](#54)
 - [5.4.1](#541)
 - [6.0](#60) Return to Roots Update.
+- [6.1](#61)
+
+## 6.1
+**Built at:** `8/7/2026 4:35:50 AM`
+
+**Info:**
+- Download size change: 8.5GB (Total: 57.3GB)
+- Install size change: 8.6GB (Total: 95GB)
+
+**Download Changes:**
+
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [ABC NG Edition to v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Updated [Intentional Stealing - F4SE to v1.0.0](https://www.nexusmods.com/fallout4/mods/107532)
+- Removed [Data_ccBGSFO4001-PipBoy(Black) - Main.ba2](about:blank)
+- Removed [Data_ccBGSFO4006-PipBoy(Chrome) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red).esl](about:blank)
+- Removed [Data_ccBGSFO4019-ChineseStealthArmor - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4024-pacamo03 - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4030-powerarmorskinpurple.esl](about:blank)
+- Removed [Data_ccbgsfo4036-trnsdg - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4049-brahminarmor.esl](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4071-piparc.esl](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida.esl](about:blank)
+- Removed [Data_ccbgsfo4094-as_camotan - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4099-as_reillysrangers - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4106-ws_camogreen.esl](about:blank)
+- Removed [Data_ccbgsfo4113-ws_reillysrangers - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4118-ws_tunnelsnakes - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4123-poweramorskin(inferno).esl](about:blank)
+- Removed [Data_ccfrsfo4002-antimaterielrifle - main.ba2](about:blank)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4002-factionws02acat.esl](about:blank)
+- Removed [Data_ccgcafo4008-factionws08inst - main.ba2](about:blank)
+- Removed [Data_ccgcafo4013-factionas02bos - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4018-factionas07mm.esl](about:blank)
+- Removed [Data_ccgcafo4024-instituteplasmaweapons - main.ba2](about:blank)
+- Removed [Data_cckgjfo4001-bastion - textures.ba2](about:blank)
+- Removed [Data_ccrzrfo4002-disintegrate.esl](about:blank)
+- Removed [Data_ccsbjfo4004-ion - main.ba2](about:blank)
+- Removed [Data_cctosfo4002_neonflats - textures.ba2](about:blank)
+- Removed [Integrated Addons v1.03](https://www.nexusmods.com/fallout4/mods/92016)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Leveled Item Fixes (LIF) v2.4.0](https://www.nexusmods.com/fallout4/mods/63914)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [Handmade Shotgun Unofficial Update (Creation Club) N7kie style v1.0.1](https://www.nexusmods.com/fallout4/mods/100806)
+- Removed [Baka Wait Anywhere v1.4](https://www.nexusmods.com/fallout4/mods/52723)
+- Removed [Creation Club Content Complements Combined (CCCCC) v1.0.1](https://www.nexusmods.com/fallout4/mods/104245)
+- Removed [Data_ccBGSFO4001-PipBoy(Black) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4006-pipboy(chrome).esl](about:blank)
+- Removed [Data_ccbgsfo4013-piptan - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4019-ChineseStealthArmor - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4024-pacamo03.esl](about:blank)
+- Removed [Data_ccbgsfo4031-powerarmorskinred - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4036-trnsdg - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot.esl](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc.esl](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4094-as_camotan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4099-as_reillysrangers.esl](about:blank)
+- Removed [Data_ccbgsfo4107-ws_camotan - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4113-ws_reillysrangers - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4118-ws_tunnelsnakes.esl](about:blank)
+- Removed [Data_ccbgsfo4124-poweramorskin(tribalhelmets) - main.ba2](about:blank)
+- Removed [Data_ccfrsfo4002-antimaterielrifle - textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza.esl](about:blank)
+- Removed [Data_ccgcafo4003-factionws03bos - main.ba2](about:blank)
+- Removed [Data_ccgcafo4008-factionws08inst - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4013-factionas02bos.esl](about:blank)
+- Removed [Data_ccgcafo4019-factionas08nuk - main.ba2](about:blank)
+- Removed [Data_ccgcafo4024-instituteplasmaweapons - textures.ba2](about:blank)
+- Removed [Data_cckgjfo4001-bastion.esl](about:blank)
+- Removed [Data_ccrzrfo4003-pipover - main.ba2](about:blank)
+- Removed [Data_ccsbjfo4004-ion - textures.ba2](about:blank)
+- Removed [Data_cctosfo4002_neonflats.esm](about:blank)
+- Removed [Unofficial Fallout 4 Patch - UFO4P v2.1.5](https://www.nexusmods.com/fallout4/mods/4598)
+- Removed [Data_ccbgsfo4001-pipboy(black).esl](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4013-piptan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4019-chinesestealtharmor.esl](about:blank)
+- Removed [Data_ccbgsfo4025-powerarmorskin(chrome) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4031-powerarmorskinred - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4036-trnsdg.esl](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4055-dghusk.esl](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4077-piprocket.esl](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4094-as_camotan.esl](about:blank)
+- Removed [Data_ccbgsfo4101-as_shi - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4107-ws_camotan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4113-ws_reillysrangers.esl](about:blank)
+- Removed [Data_ccbgsfo4119-cyberdog - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4124-poweramorskin(tribalhelmets) - textures.ba2](about:blank)
+- Removed [Data_ccfrsfo4002-antimaterielrifle.esl](about:blank)
+- Removed [Data_ccfsvfo4005-vrdesertisland - main.ba2](about:blank)
+- Removed [Data_ccgcafo4003-factionws03bos - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4008-factionws08inst.esl](about:blank)
+- Removed [Data_ccgcafo4014-factionas03gun - main.ba2](about:blank)
+- Removed [Data_ccgcafo4019-factionas08nuk - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4024-instituteplasmaweapons.esl](about:blank)
+- Removed [Data_ccrzrfo4003-pipover - textures.ba2](about:blank)
+- Removed [Data_ccsbjfo4004-ion.esl](about:blank)
+- Removed [Data_ccvltfo4001-homes - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4002-pipboy(blue) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4013-piptan.esl](about:blank)
+- Removed [Data_ccBGSFO4020-PowerArmorSkin(Black) - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4025-powerarmorskin(chrome) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4031-powerarmorskinred.esl](about:blank)
+- Removed [Data_ccBGSFO4038-HorseArmor - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4050-dgbcoll.esl](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4072-pipgrog.esl](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4089-pipsynthwave.esl](about:blank)
+- Removed [Data_ccbgsfo4095-as_childrenofatom - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4101-as_shi - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4107-ws_camotan.esl](about:blank)
+- Removed [Data_ccbgsfo4114-ws_shi - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4119-cyberdog - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4124-poweramorskin(tribalhelmets).esl](about:blank)
+- Removed [Data_ccfrsfo4003-cr75l - main.ba2](about:blank)
+- Removed [Data_ccfsvfo4005-vrdesertisland - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4003-factionws03bos.esl](about:blank)
+- Removed [Data_ccgcafo4009-factionws09mm - main.ba2](about:blank)
+- Removed [Data_ccgcafo4014-factionas03gun - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4019-factionas08nuk.esl](about:blank)
+- Removed [Data_ccgcafo4025-pagunmm - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4003-pipover.esl](about:blank)
+- Removed [Data_ccswkfo4001-astronautpowerarmor - main.ba2](about:blank)
+- Removed [Data_ccvltfo4001-homes - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4002-pipboy(blue) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4008-pipgrn.esl](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white) - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4020-PowerArmorSkin(Black) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4025-powerarmorskin(chrome).esl](about:blank)
+- Removed [Data_ccbgsfo4032-powerarmorskintan - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4038-HorseArmor - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4045-advarccab.esl](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4061-dgshiinu.esl](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4083-pipartdeco.esl](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4095-as_childrenofatom - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4101-as_shi.esl](about:blank)
+- Removed [Data_ccbgsfo4108-ws_childrenofatom - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4114-ws_shi - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4119-cyberdog.esl](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa - main.ba2](about:blank)
+- Removed [Data_ccfrsfo4003-cr75l - textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4005-vrdesertisland.esl](about:blank)
+- Removed [Data_ccgcafo4004-factionws04gun - main.ba2](about:blank)
+- Removed [Data_ccgcafo4009-factionws09mm - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4014-factionas03gun.esl](about:blank)
+- Removed [Data_ccgcafo4020-factionas09rr - main.ba2](about:blank)
+- Removed [Data_ccgcafo4025-pagunmm - textures.ba2](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst - main.ba2](about:blank)
+- Removed [Data_ccswkfo4001-astronautpowerarmor - textures.ba2](about:blank)
+- Removed [Data_ccvltfo4001-homes.esm](about:blank)
+- Removed [Jamaica Plain Pathfinding Fix v2.00](https://www.nexusmods.com/fallout4/mods/21344)
+- Removed [Mechanist's Lair Pathfinding Fix v1.00](https://www.nexusmods.com/fallout4/mods/68417)
+- Removed [Data_ccbgsfo4002-pipboy(blue).esl](about:blank)
+- Removed [Data_ccbgsfo4009-piporan - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4020-powerarmorskin(black).esl](about:blank)
+- Removed [Data_ccbgsfo4027-powerarmorskingreen - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4032-powerarmorskintan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4038-horsearmor.esl](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4056-dglabb.esl](about:blank)
+- Removed [Data_ccbgsfo4062-pippat - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4078-pipreily.esl](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4095-as_childrenofatom.esl](about:blank)
+- Removed [Data_ccbgsfo4103-as_tunnelsnakes - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4108-ws_childrenofatom - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4114-ws_shi.esl](about:blank)
+- Removed [Data_ccbgsfo4120-poweramorskin(pittraider) - main.ba2](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa - textures.ba2](about:blank)
+- Removed [Data_ccfrsfo4003-cr75l.esl](about:blank)
+- Removed [Data_ccfsvfo4006-vrwasteland - main.ba2](about:blank)
+- Removed [Data_ccgcafo4004-factionws04gun - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4009-factionws09mm.esl](about:blank)
+- Removed [Data_ccgcafo4015-factionas04hrpink - main.ba2](about:blank)
+- Removed [Data_ccgcafo4020-factionas09rr - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4025-pagunmm.esl](about:blank)
+- Removed [Data_ccqdrfo4001_powerarmorai - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst - textures.ba2](about:blank)
+- Removed [Data_ccswkfo4001-astronautpowerarmor.esm](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser - main.ba2](about:blank)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [Face Light - Fallout 4 Edition v1.1a](https://www.nexusmods.com/fallout4/mods/30035)
+- Removed [Data_ccbgsfo4003-pipboy(camo01) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4009-piporan - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4014-pipboy(white).esl](about:blank)
+- Removed [Data_ccbgsfo4021-powerarmorskinblue - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4027-powerarmorskingreen - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4032-powerarmorskintan.esl](about:blank)
+- Removed [Data_ccbgsfo4040-vrworkshop01 - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4051-dgbox.esl](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4062-pippat - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4073-pipmman.esl](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4090-piptribal.esl](about:blank)
+- Removed [Data_ccbgsfo4103-as_tunnelsnakes - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4108-ws_childrenofatom.esl](about:blank)
+- Removed [Data_ccbgsfo4120-poweramorskin(pittraider) - textures.ba2](about:blank)
+- Removed [Data_cccrsfo4001-pipcoa.esl](about:blank)
+- Removed [Data_ccFSVFO4001-ModularMilitaryBackpack - Main.ba2](about:blank)
+- Removed [Data_ccfsvfo4006-vrwasteland - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4004-factionws04gun.esl](about:blank)
+- Removed [Data_ccgcafo4010-factionws10rr - main.ba2](about:blank)
+- Removed [Data_ccgcafo4015-factionas04hrpink - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4020-factionas09rr.esl](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort - main.ba2](about:blank)
+- Removed [Data_ccqdrfo4001_powerarmorai - textures.ba2](about:blank)
+- Removed [Data_ccrzrfo4004-pipinst.esl](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka - main.ba2](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser - textures.ba2](about:blank)
+- Removed [Previsibines Repair Pack (PRP) Stable Branch v69.5.1](https://www.nexusmods.com/fallout4/mods/46403)
+- Removed [Data_ccacxfo4001-vsuit - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4003-pipboy(camo01) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4009-piporan.esl](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4021-powerarmorskinblue - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4027-powerarmorskingreen.esl](about:blank)
+- Removed [Data_ccbgsfo4033-powerarmorskinwhite - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4040-vrworkshop01 - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4062-pippat.esl](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4084-pipretro.esl](about:blank)
+- Removed [Data_ccbgsfo4091-as_bats - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4103-as_tunnelsnakes.esl](about:blank)
+- Removed [Data_ccbgsfo4120-poweramorskin(pittraider).esl](about:blank)
+- Removed [Data_cceejfo4001-decorationpack - main.ba2](about:blank)
+- Removed [Data_ccFSVFO4001-ModularMilitaryBackpack - Textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4006-vrwasteland.esl](about:blank)
+- Removed [Data_ccgcafo4005-factionws05hrpink - main.ba2](about:blank)
+- Removed [Data_ccgcafo4010-factionws10rr - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4015-factionas04hrpink.esl](about:blank)
+- Removed [Data_ccgcafo4021-factionas10hrflames - main.ba2](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort - textures.ba2](about:blank)
+- Removed [Data_ccqdrfo4001_powerarmorai.esl](about:blank)
+- Removed [Data_ccsbjfo4001-solarflare - main.ba2](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka - textures.ba2](about:blank)
+- Removed [Data_ccygpfo4001-pipcruiser.esl](about:blank)
+- Removed [Data_ccacxfo4001-vsuit - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4003-pipboy(camo01).esl](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4021-powerarmorskinblue.esl](about:blank)
+- Removed [Data_ccbgsfo4028-powerarmorskinorange - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4033-powerarmorskinwhite - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4040-vrworkshop01.esl](about:blank)
+- Removed [Data_ccbgsfo4047-qthund - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4057-dglaby.esl](about:blank)
+- Removed [Data_ccbgsfo4063-papat - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4079-pipvim.esl](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4091-as_bats - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4104-ws_bats - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4121-poweramorskin(airforce) - main.ba2](about:blank)
+- Removed [Data_cceejfo4001-decorationpack - textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4001-modularmilitarybackpack.esl](about:blank)
+- Removed [Data_ccgcafo4005-factionws05hrpink - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4010-factionws10rr.esl](about:blank)
+- Removed [Data_ccgcafo4016-factionas05hrshark - main.ba2](about:blank)
+- Removed [Data_ccgcafo4021-factionas10hrflames - textures.ba2](about:blank)
+- Removed [Data_ccgrcfo4001-pipgreytort.esl](about:blank)
+- Removed [Data_ccrpsfo4001-scavenger - main.ba2](about:blank)
+- Removed [Data_ccsbjfo4001-solarflare - textures.ba2](about:blank)
+- Removed [Data_ccswkfo4002-pipnuka.esl](about:blank)
+- Removed [Data_cczsef04001-bhouse - main.ba2](about:blank)
+- Removed [Intentional Stealing - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107532)
+- Removed [Data_ccacxfo4001-vsuit.esl](about:blank)
+- Removed [Data_ccBGSFO4004-PipBoy(Camo02) - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4015-pipyell.esl](about:blank)
+- Removed [Data_ccbgsfo4022-powerarmorskin(camo01) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4028-powerarmorskinorange - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4033-powerarmorskinwhite.esl](about:blank)
+- Removed [Data_ccbgsfo4041-doommarinearmor - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4047-qthund - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4052-dgdal.esl](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4063-papat - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4074-pipinspect.esl](about:blank)
+- Removed [Data_ccbgsfo4080-pippop - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4091-as_bats.esl](about:blank)
+- Removed [Data_ccbgsfo4097-as_jack-olantern - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4104-ws_bats - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4121-poweramorskin(airforce) - textures.ba2](about:blank)
+- Removed [Data_cceejfo4001-decorationpack.esl](about:blank)
+- Removed [Data_ccFSVFO4002-MidCenturyModern - Main.ba2](about:blank)
+- Removed [Data_ccgcafo4005-factionws05hrpink.esl](about:blank)
+- Removed [Data_ccgcafo4011-factionws11vt - main.ba2](about:blank)
+- Removed [Data_ccgcafo4016-factionas05hrshark - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4021-factionas10hrflames.esl](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim - main.ba2](about:blank)
+- Removed [Data_ccrpsfo4001-scavenger - textures.ba2](about:blank)
+- Removed [Data_ccsbjfo4001-solarflare.esl](about:blank)
+- Removed [Data_ccswkfo4003-pipquan - main.ba2](about:blank)
+- Removed [Data_cczsef04001-bhouse - textures.ba2](about:blank)
+- Removed [Data_ccawnfo4001-brandedattire - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4004-PipBoy(Camo02) - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4010-pippnk.esl](about:blank)
+- Removed [Data_ccBGSFO4016-Prey - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4022-powerarmorskin(camo01) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4028-powerarmorskinorange.esl](about:blank)
+- Removed [Data_ccbgsfo4034-powerarmorskinyellow - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4041-doommarinearmor - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4047-qthund.esl](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4063-papat.esl](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4080-pippop - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4085-piphawaii.esl](about:blank)
+- Removed [Data_ccbgsfo4092-as_camoblue - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4097-as_jack-olantern - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4104-ws_bats.esl](about:blank)
+- Removed [Data_ccbgsfo4111-ws_jack-olantern - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4121-poweramorskin(airforce).esl](about:blank)
+- Removed [Data_cceejfo4002-nuka - main.ba2](about:blank)
+- Removed [Data_ccFSVFO4002-MidCenturyModern - Textures.ba2](about:blank)
+- Removed [Data_ccgcafo4006-factionws06hrshark - main.ba2](about:blank)
+- Removed [Data_ccgcafo4011-factionws11vt - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4016-factionas05hrshark.esl](about:blank)
+- Removed [Data_ccgcafo4022-factionas11vt - main.ba2](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim - textures.ba2](about:blank)
+- Removed [Data_ccrpsfo4001-scavenger.esl](about:blank)
+- Removed [Data_ccsbjfo4002_manwellrifle - main.ba2](about:blank)
+- Removed [Data_ccswkfo4003-pipquan - textures.ba2](about:blank)
+- Removed [Data_cczsef04001-bhouse.esm](about:blank)
+- Removed [Data_ccawnfo4001-brandedattire - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4004-pipboy(camo02).esl](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4016-Prey - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4022-powerarmorskin(camo01).esl](about:blank)
+- Removed [Data_ccbgsfo4029-powerarmorskinpink - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4034-powerarmorskinyellow - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4041-doommarinearmor.esl](about:blank)
+- Removed [Data_ccbgsfo4048-dovah - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4058-dglabc.esl](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4080-pippop.esl](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4092-as_camoblue - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4097-as_jack-olantern.esl](about:blank)
+- Removed [Data_ccbgsfo4105-ws_camoblue - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4111-ws_jack-olantern - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4122-poweramorskin(scorchedsierra) - main.ba2](about:blank)
+- Removed [Data_cceejfo4002-nuka - textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4002-midcenturymodern.esl](about:blank)
+- Removed [Data_ccgcafo4001-factionws01army - main.ba2](about:blank)
+- Removed [Data_ccgcafo4006-factionws06hrshark - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4011-factionws11vt.esl](about:blank)
+- Removed [Data_ccgcafo4017-factionas06inst - main.ba2](about:blank)
+- Removed [Data_ccgcafo4022-factionas11vt - textures.ba2](about:blank)
+- Removed [Data_ccgrcfo4002-pipgreenvim.esl](about:blank)
+- Removed [Data_ccrzrfo4001-tunnelsnakes - main.ba2](about:blank)
+- Removed [Data_ccsbjfo4002_manwellrifle - textures.ba2](about:blank)
+- Removed [Data_ccswkfo4003-pipquan.esl](about:blank)
+- Removed [Data_cczsefo4002-smanor - main.ba2](about:blank)
+- Removed [Data_ccawnfo4001-brandedattire.esl](about:blank)
+- Removed [Data_ccbgsfo4005-bluecamo - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4016-prey.esl](about:blank)
+- Removed [Data_ccbgsfo4023-powerarmorskin(camo02) - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4029-powerarmorskinpink - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4034-powerarmorskinyellow.esl](about:blank)
+- Removed [Data_ccbgsfo4042-bfg - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4048-dovah - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4053-dggoldr.esl](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4075-pipshroud.esl](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4092-as_camoblue.esl](about:blank)
+- Removed [Data_ccbgsfo4098-as_pickman - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4105-ws_camoblue - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4111-ws_jack-olantern.esl](about:blank)
+- Removed [Data_ccbgsfo4117-capmerc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4122-poweramorskin(scorchedsierra) - textures.ba2](about:blank)
+- Removed [Data_cceejfo4002-nuka.esl](about:blank)
+- Removed [Data_ccfsvfo4003-slocum - main.ba2](about:blank)
+- Removed [Data_ccgcafo4001-factionws01army - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4006-factionws06hrshark.esl](about:blank)
+- Removed [Data_ccgcafo4012-factionas01acat - main.ba2](about:blank)
+- Removed [Data_ccgcafo4017-factionas06inst - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4022-factionas11vt.esl](about:blank)
+- Removed [Data_ccjvdfo4001-holiday - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4001-tunnelsnakes - textures.ba2](about:blank)
+- Removed [Data_ccsbjfo4002_manwellrifle.esl](about:blank)
+- Removed [Data_cctosfo4001-neosky - main.ba2](about:blank)
+- Removed [Data_cczsefo4002-smanor - textures.ba2](about:blank)
+- Removed [Data_ccawnfo4002-factionclothing - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4005-bluecamo - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4011-pippurp.esl](about:blank)
+- Removed [Data_ccBGSFO4018-GaussRiflePrototype - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4023-powerarmorskin(camo02) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4029-powerarmorskinpink.esl](about:blank)
+- Removed [Data_ccbgsfo4035-pint - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4042-bfg - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4048-dovah.esl](about:blank)
+- Removed [Data_ccbgsfo4054-dggreatd - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4070-pipabra.esl](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4086-pipadventure.esl](about:blank)
+- Removed [Data_ccbgsfo4093-as_camogreen - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4098-as_pickman - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4105-ws_camoblue.esl](about:blank)
+- Removed [Data_ccbgsfo4112-ws_pickman - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4117-capmerc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4122-poweramorskin(scorchedsierra).esl](about:blank)
+- Removed [Data_ccFRSFO4001-HandmadeShotgun - Main.ba2](about:blank)
+- Removed [Data_ccfsvfo4003-slocum - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4001-factionws01army.esl](about:blank)
+- Removed [Data_ccgcafo4007-factionws07hrflames - main.ba2](about:blank)
+- Removed [Data_ccgcafo4012-factionas01acat - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4017-factionas06inst.esl](about:blank)
+- Removed [Data_ccgcafo4023-factionas12army - main.ba2](about:blank)
+- Removed [Data_ccjvdfo4001-holiday - textures.ba2](about:blank)
+- Removed [Data_ccrzrfo4001-tunnelsnakes.esm](about:blank)
+- Removed [Data_cctosfo4001-neosky - textures.ba2](about:blank)
+- Removed [Data_cczsefo4002-smanor.esm](about:blank)
+- Removed [Data_ccawnfo4002-factionclothing - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4005-bluecamo.esl](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red) - main.ba2](about:blank)
+- Removed [Data_ccBGSFO4018-GaussRiflePrototype - Textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4023-powerarmorskin(camo02).esl](about:blank)
+- Removed [Data_ccbgsfo4030-powerarmorskinpurple - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4035-pint - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4042-bfg.esl](about:blank)
+- Removed [Data_ccbgsfo4049-brahminarmor - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4054-dggreatd - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4059-dgpit.esl](about:blank)
+- Removed [Data_ccbgsfo4071-piparc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4081-pipphenolresin.esl](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4093-as_camogreen - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4098-as_pickman.esl](about:blank)
+- Removed [Data_ccbgsfo4106-ws_camogreen - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4112-ws_pickman - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4117-capmerc.esl](about:blank)
+- Removed [Data_ccbgsfo4123-poweramorskin(inferno) - main.ba2](about:blank)
+- Removed [Data_ccFRSFO4001-HandmadeShotgun - Textures.ba2](about:blank)
+- Removed [Data_ccfsvfo4003-slocum.esl](about:blank)
+- Removed [Data_ccgcafo4002-factionws02acat - main.ba2](about:blank)
+- Removed [Data_ccgcafo4007-factionws07hrflames - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4012-factionas01acat.esl](about:blank)
+- Removed [Data_ccgcafo4018-factionas07mm - main.ba2](about:blank)
+- Removed [Data_ccgcafo4023-factionas12army - textures.ba2](about:blank)
+- Removed [Data_ccjvdfo4001-holiday.esl](about:blank)
+- Removed [Data_ccrzrfo4002-disintegrate - main.ba2](about:blank)
+- Removed [Data_cctosfo4001-neosky.esm](about:blank)
+- Removed [Data_ccawnfo4002-factionclothing.esl](about:blank)
+- Removed [Data_ccBGSFO4006-PipBoy(Chrome) - Main.ba2](about:blank)
+- Removed [Data_ccbgsfo4012-pipboy(red) - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4018-gaussrifleprototype.esl](about:blank)
+- Removed [Data_ccbgsfo4024-pacamo03 - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4030-powerarmorskinpurple - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4035-pint.esl](about:blank)
+- Removed [Data_ccbgsfo4049-brahminarmor - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4054-dggreatd.esl](about:blank)
+- Removed [Data_ccbgsfo4060-dgrot - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4071-piparc - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4076-pipmystery.esl](about:blank)
+- Removed [Data_ccbgsfo4082-pipprc - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4087-piphaida - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4093-as_camogreen.esl](about:blank)
+- Removed [Data_ccbgsfo4099-as_reillysrangers - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4106-ws_camogreen - textures.ba2](about:blank)
+- Removed [Data_ccbgsfo4112-ws_pickman.esl](about:blank)
+- Removed [Data_ccbgsfo4118-ws_tunnelsnakes - main.ba2](about:blank)
+- Removed [Data_ccbgsfo4123-poweramorskin(inferno) - textures.ba2](about:blank)
+- Removed [Data_ccfrsfo4001-handmadeshotgun.esl](about:blank)
+- Removed [Data_ccfsvfo4004-vrworkshopgnrplaza - main.ba2](about:blank)
+- Removed [Data_ccgcafo4002-factionws02acat - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4007-factionws07hrflames.esl](about:blank)
+- Removed [Data_ccgcafo4013-factionas02bos - main.ba2](about:blank)
+- Removed [Data_ccgcafo4018-factionas07mm - textures.ba2](about:blank)
+- Removed [Data_ccgcafo4023-factionas12army.esl](about:blank)
+- Removed [Data_cckgjfo4001-bastion - main.ba2](about:blank)
+- Removed [Data_ccrzrfo4002-disintegrate - textures.ba2](about:blank)
+- Removed [Data_cctosfo4002_neonflats - main.ba2](about:blank)
+
+**Load Order Changes:**
+- Added ccBGSFO4044-HellfirePowerArmor.esl
+- Added ccBGSFO4115-X02.esl
+- Added ccBGSFO4116-HeavyFlamer.esl
+- Added ccBGSFO4110-WS_Enclave.esl
+- Added ccBGSFO4096-AS_Enclave.esl
+- Added ccFSVFO4007-Halloween.esl
+- Added ccSBJFO4003-Grenade.esl
+- Added wepeoplecanlivein.esp
+- Added Rebuild_BostonAirport_PRP.esp
+- Added wpcliprp81.esp
+- Added wpcli_youandwhatarmy2_blacklistpatrols_patch.esp
+- Added Rebuild_Settlements_Previs.esp
+- Removed ccbgsfo4001-pipboy(black).esl
+- Removed ccbgsfo4002-pipboy(blue).esl
+- Removed ccbgsfo4003-pipboy(camo01).esl
+- Removed ccbgsfo4004-pipboy(camo02).esl
+- Removed ccbgsfo4006-pipboy(chrome).esl
+- Removed ccbgsfo4012-pipboy(red).esl
+- Removed ccbgsfo4014-pipboy(white).esl
+- Removed ccbgsfo4005-bluecamo.esl
+- Removed ccbgsfo4016-prey.esl
+- Removed ccbgsfo4018-gaussrifleprototype.esl
+- Removed ccbgsfo4019-chinesestealtharmor.esl
+- Removed ccbgsfo4020-powerarmorskin(black).esl
+- Removed ccbgsfo4022-powerarmorskin(camo01).esl
+- Removed ccbgsfo4023-powerarmorskin(camo02).esl
+- Removed ccbgsfo4025-powerarmorskin(chrome).esl
+- Removed ccbgsfo4033-powerarmorskinwhite.esl
+- Removed ccbgsfo4024-pacamo03.esl
+- Removed ccbgsfo4038-horsearmor.esl
+- Removed ccbgsfo4041-doommarinearmor.esl
+- Removed ccbgsfo4042-bfg.esl
+- Removed ccbgsfo4044-hellfirepowerarmor.esl
+- Removed ccfsvfo4001-modularmilitarybackpack.esl
+- Removed ccfsvfo4002-midcenturymodern.esl
+- Removed ccfrsfo4001-handmadeshotgun.esl
+- Removed cceejfo4001-decorationpack.esl
+- Removed ccrzrfo4001-tunnelsnakes.esm
+- Removed ccbgsfo4045-advarccab.esl
+- Removed ccfsvfo4003-slocum.esl
+- Removed ccgcafo4001-factionws01army.esl
+- Removed ccgcafo4002-factionws02acat.esl
+- Removed ccgcafo4003-factionws03bos.esl
+- Removed ccgcafo4004-factionws04gun.esl
+- Removed ccgcafo4005-factionws05hrpink.esl
+- Removed ccgcafo4006-factionws06hrshark.esl
+- Removed ccgcafo4007-factionws07hrflames.esl
+- Removed ccgcafo4008-factionws08inst.esl
+- Removed ccgcafo4009-factionws09mm.esl
+- Removed ccgcafo4010-factionws10rr.esl
+- Removed ccgcafo4011-factionws11vt.esl
+- Removed ccgcafo4012-factionas01acat.esl
+- Removed ccgcafo4013-factionas02bos.esl
+- Removed ccgcafo4014-factionas03gun.esl
+- Removed ccgcafo4015-factionas04hrpink.esl
+- Removed ccgcafo4016-factionas05hrshark.esl
+- Removed ccgcafo4017-factionas06inst.esl
+- Removed ccgcafo4018-factionas07mm.esl
+- Removed ccgcafo4019-factionas08nuk.esl
+- Removed ccgcafo4020-factionas09rr.esl
+- Removed ccgcafo4021-factionas10hrflames.esl
+- Removed ccgcafo4022-factionas11vt.esl
+- Removed ccgcafo4023-factionas12army.esl
+- Removed ccawnfo4001-brandedattire.esl
+- Removed ccawnfo4002-factionclothing.esl
+- Removed ccswkfo4001-astronautpowerarmor.esm
+- Removed ccswkfo4002-pipnuka.esl
+- Removed ccswkfo4003-pipquan.esl
+- Removed ccbgsfo4050-dgbcoll.esl
+- Removed ccbgsfo4051-dgbox.esl
+- Removed ccbgsfo4052-dgdal.esl
+- Removed ccbgsfo4053-dggoldr.esl
+- Removed ccbgsfo4054-dggreatd.esl
+- Removed ccbgsfo4055-dghusk.esl
+- Removed ccbgsfo4056-dglabb.esl
+- Removed ccbgsfo4057-dglaby.esl
+- Removed ccbgsfo4058-dglabc.esl
+- Removed ccbgsfo4059-dgpit.esl
+- Removed ccbgsfo4060-dgrot.esl
+- Removed ccbgsfo4061-dgshiinu.esl
+- Removed ccbgsfo4036-trnsdg.esl
+- Removed ccrzrfo4004-pipinst.esl
+- Removed ccbgsfo4062-pippat.esl
+- Removed ccrzrfo4003-pipover.esl
+- Removed ccfrsfo4002-antimaterielrifle.esl
+- Removed cceejfo4002-nuka.esl
+- Removed ccygpfo4001-pipcruiser.esl
+- Removed ccbgsfo4072-pipgrog.esl
+- Removed ccbgsfo4073-pipmman.esl
+- Removed ccbgsfo4074-pipinspect.esl
+- Removed ccbgsfo4075-pipshroud.esl
+- Removed ccbgsfo4076-pipmystery.esl
+- Removed ccbgsfo4071-piparc.esl
+- Removed ccbgsfo4079-pipvim.esl
+- Removed ccbgsfo4078-pipreily.esl
+- Removed ccbgsfo4077-piprocket.esl
+- Removed ccbgsfo4070-pipabra.esl
+- Removed ccbgsfo4008-pipgrn.esl
+- Removed ccbgsfo4015-pipyell.esl
+- Removed ccbgsfo4009-piporan.esl
+- Removed ccbgsfo4011-pippurp.esl
+- Removed ccbgsfo4021-powerarmorskinblue.esl
+- Removed ccbgsfo4027-powerarmorskingreen.esl
+- Removed ccbgsfo4034-powerarmorskinyellow.esl
+- Removed ccbgsfo4028-powerarmorskinorange.esl
+- Removed ccbgsfo4031-powerarmorskinred.esl
+- Removed ccbgsfo4030-powerarmorskinpurple.esl
+- Removed ccbgsfo4032-powerarmorskintan.esl
+- Removed ccbgsfo4029-powerarmorskinpink.esl
+- Removed ccgrcfo4001-pipgreytort.esl
+- Removed ccgrcfo4002-pipgreenvim.esl
+- Removed ccbgsfo4013-piptan.esl
+- Removed ccbgsfo4010-pippnk.esl
+- Removed ccsbjfo4001-solarflare.esl
+- Removed cczsef04001-bhouse.esm
+- Removed cctosfo4001-neosky.esm
+- Removed cckgjfo4001-bastion.esl
+- Removed ccbgsfo4063-papat.esl
+- Removed ccqdrfo4001_powerarmorai.esl
+- Removed ccbgsfo4048-dovah.esl
+- Removed ccbgsfo4101-as_shi.esl
+- Removed ccbgsfo4114-ws_shi.esl
+- Removed ccbgsfo4115-x02.esl
+- Removed ccrzrfo4002-disintegrate.esl
+- Removed ccbgsfo4116-heavyflamer.esl
+- Removed ccbgsfo4091-as_bats.esl
+- Removed ccbgsfo4092-as_camoblue.esl
+- Removed ccbgsfo4093-as_camogreen.esl
+- Removed ccbgsfo4094-as_camotan.esl
+- Removed ccbgsfo4097-as_jack-olantern.esl
+- Removed ccbgsfo4104-ws_bats.esl
+- Removed ccbgsfo4105-ws_camoblue.esl
+- Removed ccbgsfo4106-ws_camogreen.esl
+- Removed ccbgsfo4107-ws_camotan.esl
+- Removed ccbgsfo4111-ws_jack-olantern.esl
+- Removed ccbgsfo4118-ws_tunnelsnakes.esl
+- Removed ccbgsfo4113-ws_reillysrangers.esl
+- Removed ccbgsfo4112-ws_pickman.esl
+- Removed ccbgsfo4110-ws_enclave.esl
+- Removed ccbgsfo4108-ws_childrenofatom.esl
+- Removed ccbgsfo4103-as_tunnelsnakes.esl
+- Removed ccbgsfo4099-as_reillysrangers.esl
+- Removed ccbgsfo4098-as_pickman.esl
+- Removed ccbgsfo4096-as_enclave.esl
+- Removed ccbgsfo4095-as_childrenofatom.esl
+- Removed ccbgsfo4090-piptribal.esl
+- Removed ccbgsfo4089-pipsynthwave.esl
+- Removed ccbgsfo4087-piphaida.esl
+- Removed ccbgsfo4085-piphawaii.esl
+- Removed ccbgsfo4084-pipretro.esl
+- Removed ccbgsfo4083-pipartdeco.esl
+- Removed ccbgsfo4082-pipprc.esl
+- Removed ccbgsfo4081-pipphenolresin.esl
+- Removed ccbgsfo4080-pippop.esl
+- Removed ccbgsfo4035-pint.esl
+- Removed ccbgsfo4086-pipadventure.esl
+- Removed ccjvdfo4001-holiday.esl
+- Removed ccbgsfo4047-qthund.esl
+- Removed ccfrsfo4003-cr75l.esl
+- Removed cczsefo4002-smanor.esm
+- Removed ccacxfo4001-vsuit.esl
+- Removed ccbgsfo4040-vrworkshop01.esl
+- Removed ccfsvfo4005-vrdesertisland.esl
+- Removed ccfsvfo4006-vrwasteland.esl
+- Removed ccfsvfo4007-halloween.esl
+- Removed ccsbjfo4002_manwellrifle.esl
+- Removed cctosfo4002_neonflats.esm
+- Removed ccbgsfo4117-capmerc.esl
+- Removed ccfsvfo4004-vrworkshopgnrplaza.esl
+- Removed ccgcafo4024-instituteplasmaweapons.esl
+- Removed ccgcafo4025-pagunmm.esl
+- Removed cccrsfo4001-pipcoa.esl
+- Removed ccbgsfo4119-cyberdog.esl
+- Removed ccbgsfo4120-poweramorskin(pittraider).esl
+- Removed ccbgsfo4121-poweramorskin(airforce).esl
+- Removed ccbgsfo4122-poweramorskin(scorchedsierra).esl
+- Removed ccbgsfo4123-poweramorskin(inferno).esl
+- Removed ccbgsfo4124-poweramorskin(tribalhelmets).esl
+- Removed ccbgsfo4049-brahminarmor.esl
+- Removed ccrpsfo4001-scavenger.esl
+- Removed ccsbjfo4003-grenade.esl
+- Removed ccsbjfo4004-ion.esl
+- Removed ccvltfo4001-homes.esm
+- Removed AshlandStationSettlement.esp
+- Removed BakaWaitAnywhere.esm
+- Removed holiday workshop pack + ufo4p.esl
+- Removed gunners vs minutemen + ufo4p.esl
+- Removed CWWorkshopMaster.esm
+- Removed CWWorkshopPackPart2.esl
+- Removed FaceLight.esl
+- Removed INE_MiseryIsland.esp
+- Removed INE_BoonIsland.esp
+- Removed CavesOfTheCommonwealth.esp
+- Removed ccccc.esp
+- Removed ion gun + ufo4p.esl
+- Removed neon flats + ufo4p.esl
+- Removed pint-sized slasher + ufo4p.esl
+- Removed sea scavengers + ufo4p.esl
+- Removed StandaloneWorkbenches.esl
+- Removed SSTMinutemanWatchtowers.esl
+- Removed Minuteman Watchtowers - Survey Addon.esm
+- Removed pacify03.esl
+- Removed LIF.esl
+- Removed LarannKiarRecruitModsAIOArchivePackESL.esl
+- Removed Robot Home Defence.esm
+- Removed RoboticsExpertExtend.esl
+- Removed OWM-Master.esl
+- Removed PAMAP.esp
+- Removed SouthOfTheSea.esm
+- Removed SubwayRunnnerDynamicLighting.esp
+- Removed ppf-ae.esm
+- Removed ppf-modt.esm
+- Removed FortStronger.esm
+- Removed AEWS_NukaWorldPatch.esp
+- Removed N7HandmadeShottyOverhaul.esp
+- Removed Addiction Overhaul.esp
+- Removed cartman1975_warehouse.esp
+- Removed Cho1-CR71-SW-Patch.esp
+- Removed BetterOpenSeason.esp
+- Removed Flashy_CrimeAndPunishment_GunForHire_Addon.esp
+- Removed AkaWaterWorld.esp
+- Removed BobbleGirl.esp
+- Removed INE_BoonIsland_ReducedRain.esp
+- Removed DD_Perk_Reset_WIZURD_HAIRRYY.esp
+- Removed DelayTacticalThinking.esp
+- Removed DiverseWasteland.esp
+- Removed DiverseWastelandImmersionPack.esp
+- Removed DiverseWasteland-WSFW-Compat.esp
+- Removed DogmeatElementalArmors.esp
+- Removed Dank_ECO.esp
+- Removed Dank_ECO_DisablePlacedItems.esp
+- Removed illbodyECOAmmoCraftingBench.esp
+- Removed FIS-Naming-Weap-Armo-EN.esp
+- Removed FarHarborStory.esp
+- Removed Better_BOS_WorkshopItems.esp
+- Removed Crafting Mastery 2.esp
+- Removed Crafting Mastery 2 - CC Chinese Stealth Armor.esp
+- Removed Crafting Mastery 2 - CC Repurposed Power Helmets.esp
+- Removed Crafting Mastery 2 - CC Ion Gun.esp
+- Removed Crafting Mastery 2 - CC Doom BFG.esp
+- Removed Crafting Mastery 2 - CC Heavy Incinerator.esp
+- Removed Crafting Mastery 2 - CC Horse Power Armor.esp
+- Removed Crafting Mastery 2 - CC Pint Sized Slasher.esp
+- Removed Crafting Mastery 2 - CC Nuka-Cola Collector Workshop.esp
+- Removed Crafting Mastery 2 - CC Hellfire Power Armor.esp
+- Removed Crafting Mastery 2 - CC Anti Materiel Rifle.esp
+- Removed Crafting Mastery 2 - CC Modular Military Backpack.esp
+- Removed Crafting Mastery 2 - CC X-02 Power Armor.esp
+- Removed Crafting Mastery 2 - CC Capital Wasteland Mercenaries.esp
+- Removed Crafting Mastery 2 - CC Neon Flats.esp
+- Removed Crafting Mastery 2 - CC Sea Scavengers.esp
+- Removed Crafting Mastery 2 - CC Makeshift Weapon Pack.esp
+- Removed Crafting Mastery 2 - Syringer Upgrades.esp
+- Removed Crafting Mastery 2 - CC Captain Cosmos.esp
+- Removed Crafting Mastery 2 - CC Coffee and Donuts Workshop Pack.esp
+- Removed Crafting Mastery 2 - CC CR-74L Combat Rifle.esp
+- Removed Crafting Mastery 2 - CC Doom Classic Marine Armor.esp
+- Removed Crafting Mastery 2 - CC Enclave Remnants.esp
+- Removed Crafting Mastery 2 - CC Fantasy Hero Set.esp
+- Removed Crafting Mastery 2 - CC Graphic T-Shirt Pack.esp
+- Removed Crafting Mastery 2 - CC Halloween Workshop Pack.esp
+- Removed Crafting Mastery 2 - CC Handmade Shotgun.esp
+- Removed Crafting Mastery 2 - CC Holiday Workshop Pack.esp
+- Removed Crafting Mastery 2 - CC Institute Plasma Weapons.esp
+- Removed Crafting Mastery 2 - CC Manwell Rifle Set.esp
+- Removed Crafting Mastery 2 - CC Morgan's Space Suit.esp
+- Removed Crafting Mastery 2 - CC Noir Penthouse.esp
+- Removed Crafting Mastery 2 - CC Prototype Gauss Rifle.esp
+- Removed Crafting Mastery 2 - CC Quake Thunderbolt.esp
+- Removed Crafting Mastery 2 - CC Railroad Clandestine Couture.esp
+- Removed Crafting Mastery 2 - CC Shroud Manor.esp
+- Removed Crafting Mastery 2 - CC Solar Cannon.esp
+- Removed Crafting Mastery 2 - CC Tesla Cannon.esp
+- Removed Crafting Mastery 2 - CC Tunnel Snakes Rule.esp
+- Removed Crafting Mastery 2 - CC Zetan Arsenal.esp
+- Removed Crafting Mastery 2 - Fair Nuka Mixes.esp
+- Removed Crafting Mastery 2 - Patch ECO.esp
+- Removed Crafting Mastery 2 - Throwables in the Explosives Bench.esp
+- Removed InstitutePowerArmor.esp
+- Removed Dank_LEO.esp
+- Removed IntegratedAddons_ArmorPaintJob_VaultTec.esp
+- Removed IntegratedAddons_PipBoyPaintJob_SilverShroud.esp
+- Removed IntegratedAddons_PipBoyPaintJob_Grognak.esp
+- Removed IntegratedAddons_PipBoyPaintJob_ReillysRangers.esp
+- Removed IntegratedAddons_ArmorPaintJob_Bats.esp
+- Removed IntegratedAddons_ArmorPaintJob_Gunners.esp
+- Removed IntegratedAddons_WeaponPaintJob_Bats.esp
+- Removed IntegratedAddons_ArmorPaintJob_BrotherhoodOfSteel.esp
+- Removed IntegratedAddons_ArmorPaintJob_Minutemen.esp
+- Removed IntegratedAddons_ArmorPaintJob_HotRodPink.esp
+- Removed IntegratedAddons_PipBoyPaintJob_OverseerVeneer.esp
+- Removed IntegratedAddons_ArcadeWorkshopPack.esp
+- Removed IntegratedAddons.esp
+- Removed IntegratedAddons_ArmorPaintJob_Institute.esp
+- Removed IntegratedAddons_ArmorPaintJob_JackOLantern.esp
+- Removed IntegratedAddons_ArmorPaintJob_NukaCherry.esp
+- Removed IntegratedAddons_ArmorPaintJob_ReillysRangers.esp
+- Removed IntegratedAddons_PipBoyPaintJob_NukaCola.esp
+- Removed IntegratedAddons_PipBoyPaintJob_RedRocket.esp
+- Removed IntegratedAddons_VaultSuitCustomization.esp
+- Removed IntegratedAddons_WeaponPaintJob_Gunners.esp
+- Removed FHSBonus.esp
+- Removed ImprovedHostileGunnerINNRFIS.esp
+- Removed ImprovedInstituteM150InstPAPatch.esp
+- Removed CombatZoneRestored.esp
+- Removed F4llout76 - Mutations.esp
+- Removed ImprovedMinutemenINNRFIS.esp
+- Removed 4estGimp - SotS AS MMWatchtower.esp
+- Removed ImprovedBoSNWTakeOverPatch.esp
+- Removed BetterFarHarbor_Open.esp
+- Removed FBFH_EE_Acadia_Cleanup.esp
+- Removed AshlandStationSubwayRunnerCompatDL.esp
+- Removed A Sensible Prydwen Overhaul.esp
+- Removed ImmersiveAnimationFramework.esp
+- Removed IAF - Far Harbor & Nuka World.esp
+- Removed CraftablePowerArmorFrame_Q.esp
+- Removed WeaponModFixes-GOTY.esp
+- Removed IntGrievingRaider.esp
+- Removed JamaicaPlainPathing.esp
+- Removed MechLairPathfindingFix.esp
+- Removed UndergroundReduxWhisperBenches.esp
+- Removed SettlementProduce.esp
+- Removed OWM-StandaloneWorkbenches.esp
+- Removed LegendaryLootExpansion.esp
+- Removed Weapon Scrapping Redone.esp
+- Removed Clothing Scrapping Redone.esp
+- Removed Vanguard OWM Patch - Settlement Objects Expanded.esp
+- Removed SwitchBoard_Reborn.esp
+- Removed Snappable Clutter and Display.esp
+- Removed StuckinFarHarbor.esp
+- Removed StrengthInSteel.esp
+- Removed ImprovedBoSStrengthInSteelPatch.esp
+- Removed RadiantAbernathy.esp
+- Removed ufo4p - better open season.esp
+- Removed MaxsonPA.esp
+- Removed Leah's Snappy AIO.esp
+- Removed Leah's Snappy AIO SMM Patch.esp
+- Removed StartInNukaWorld.esp
+- Removed whisperCraftingRearranged.esp
+- Removed IntegratedAddons_WeaponPaintJob_ReillysRangers.esp
+- Removed IntegratedAddons_WeaponPaintJob_BrotherhoodOfSteel.esp
+- Removed IntegratedAddons_WeaponPaintJob_Institute.esp
+- Removed IntegratedAddons_WeaponPaintJob_HotRodPink.esp
+- Removed IntegratedAddons_WeaponPaintJob_JackOLantern.esp
+- Removed IntegratedAddons_WeaponPaintJob_Minutemen.esp
+- Removed IntegratedAddons_WeaponPaintJob_VaultTec.esp
+- Removed kc's cfmp - leo.esp
+- Removed Light Radius Redux AIO.esp
+- Removed LegendaryFramework.esp
+- Removed TerrainUndersides.esp
+- Removed MilleniumClutter.esp
+- Removed whisperCraftPowerArmor.esp
+- Removed Nuclear Flare Better Power Armors Complete.esp
+- Removed Phase4DLC.esp
+- Removed P4Previs.esp
+- Removed zz_Automatron_Robots.esp
+- Removed OWM-DLCNukaWorld.esp
+- Removed OWM-ECO.esp
+- Removed OWM-DLCRobot.esp
+- Removed NukaWorldOpenSeasonExtend.esp
+- Removed BreakheartBanksReclaimed.esp
+- Removed friends.esp
+- Removed Nuka World Bot Fixes.esp
+- Removed YAWA2_MW_Patch.esp
+- Removed New Weaves and Misc Mods.esp
+- Removed NoTutorialAutoFavorites.esp
+- Removed RobotHomeDefence SMM.esp
+- Removed SettleObjExpandPackSMM.esp
+- Removed mmwt - yawa2 - sots as.esp
+- Removed Mechanist Lair Overhaul.esp
+- Removed SSTFungalForest.esp
+- Removed FungalForest-SotSPatch.esp
+- Removed REPatch_CrimeAndPunishmentGunForHire.esp
+- Removed Wasteland Illumination.esp
+- Removed UltraExteriorLighting.esp
+- Removed SouthOfTheSea[Previs].esp
+- Removed SensiblePrydwenOverhaul_Previs.esp
+- Removed SensiblePrydwenOverhaul_Extras.esp
+- Removed Root Cellar shelter.esp
+- Removed wecanlivein.esp
+- Removed Rebuild_Settlements_Hotfix1.4.1.esp
+- Removed Rebuild_Settlements_PRP.esp
+- Removed CombatPrevis.esp
+- Removed HuntressPrevis.esp
+- Removed RootCellarShelter_PRP_Patch.esp
+- Removed MinutemanWatchT_YAWA2_4Gimp_PRP_Patch.esp
+- Removed SensiblePrydwenOverhaul_PRP_Patch.esp
+- Removed MechanistLairOverhaul_PRP_Patch.esp
+- Removed TheFungalAshlandSOTSmerge_PRP_Patch.esp
+- Removed BetterFarHarborAcadiaCU_PRP_Patch.esp
+- Removed CavesOfTheCommonwealth_PRP_Patch.esp
+- Removed WCLI_Vault111.esp
+- Removed WCLI_Vault111_YouAndWhatArmy2_BlacklistPatrols_Patch.esp
+- Removed WCLI_Vault111_Previs.esp
+- Removed FortStronger[Previsibines].esp
+- Removed CambridgePoliceStationSettlement.esp
+- Removed FortStronger[Previsibines-PRP81].esp
+- Removed CambridgePoliceStationSettlement[Patch-PRP81].esp
+- Removed TheCastleTunnelsRestoredAndFullSettlement.esp
+- Removed necessity - fbfh patch.esp
+- Removed BreakheartBanksReclaimed_PRPPatch.esp
 
 ## 6.0
 **Built at:** `8/7/2026 12:18:28 AM`
