@@ -86,7 +86,7 @@ These steps are only required for installing the modlist for the first time. Add
 <Details>
 <summary>ICYWW: Why do we need a Pagefile?</summary>
 
-Fallout 4 is a very old game (originally released in 2011) that is built on the [ Engine](https://en.wikipedia.org/wiki/_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
+Fallout 4 is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
 
 Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Fallout 4 crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.  
 
@@ -143,7 +143,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 ### Downloading and Installing Cosmoem
 
 >[!CAUTION]
->**A legal copy of Fallout 4 Anniversary Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, F4SE does not work with the cracked exes.  
+>**A legal copy of Fallout 4 Game of the Year is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, F4SE does not work with the cracked exes.  
 
 Downloading and installing Cosmoem can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
 
@@ -246,7 +246,7 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 
 Cosmoem uses a Wabbajack feature called Stock Game to keep your Fallout 4 installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
-## Data Folder/s
+## Data Folder/Creations
 1. AFTER fully installed, right click base game fallout 4's Data folder(the folder including it's contents)(typically located at "C:\Program Files (x86)\Steam\steamapps\common\Fallout 4") -> Copy
 2. now paste it in Cosmoem/mods/
 3. make sure to enable the new "Data" "mod" IT WILL NOT FUNCTION IF YOU DON'T!
