@@ -50,7 +50,7 @@ These steps are only required for installing the modlist for the first time. Add
 
 ### Installing Microsoft Visual C++ and .NET
 
- 1. Install [Visual C++ x64](https://github.com/abbodi1406/vcredist/releases/).
+ 1. Install [Visual C++ x64]([https://github.com/abbodi1406/vcredist/releases/](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)).
  2. Install [.NET Runtime 9.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/9.0).
  3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 
