@@ -7,6 +7,434 @@
 - [5.4.1](#541)
 - [6.0](#60) Return to Roots Update.
 - [6.1](#61)
+- [6.1.2](#612) (Includes changes from 6.0.1 to 6.1 aswell as 6.1.2 and 6.1.1)
+
+## 6.1.2
+**Built at:** `8/10/2026 6:16:06 PM`
+
+**Info:**
+- Download size change: -47.8MB (Total: 57.3GB)
+- Install size change: -98.7MB (Total: 95.1GB)
+
+**Download Changes:**
+
+- Added [Better Locational Damage and Optional Gameplay Overhauls v7.6.6](https://www.nexusmods.com/fallout4/mods/3815)
+- Added [Albion Tactic Skirt v3.0](https://www.nexusmods.com/fallout4/mods/107606)
+- Added [Armor Penetration Bug Fix - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/73849)
+- Added [Enhanced Robot Settlers v0.0.3](https://www.nexusmods.com/fallout4/mods/96986)
+- Added [Smooth Cell Loading - F4SE v1.0.0](https://www.nexusmods.com/fallout4/mods/107810)
+- Updated [RobCo Patcher to v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Updated [Improved Brotherhood of Steel to v1.0](https://www.nexusmods.com/fallout4/mods/76756)
+- Updated [High FPS Physics Fix to v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Removed [Improved Brotherhood of Steel v1.0](https://www.nexusmods.com/fallout4/mods/76756)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+- Removed [AffinityHUD v1](https://www.nexusmods.com/fallout4/mods/107291)
+- Removed [RobCo Patcher v3.5.4](https://www.nexusmods.com/fallout4/mods/69798)
+- Removed [High FPS Physics Fix v0.8.6](https://www.nexusmods.com/fallout4/mods/44798)
+- Removed [ABC NG Edition v0.1](https://www.nexusmods.com/fallout4/mods/97648)
+
+**Load Order Changes:**
+- Added ccbgsfo4001-pipboy(black).esl
+- Added ccbgsfo4002-pipboy(blue).esl
+- Added ccbgsfo4003-pipboy(camo01).esl
+- Added ccbgsfo4004-pipboy(camo02).esl
+- Added ccbgsfo4006-pipboy(chrome).esl
+- Added ccbgsfo4012-pipboy(red).esl
+- Added ccbgsfo4014-pipboy(white).esl
+- Added ccbgsfo4005-bluecamo.esl
+- Added ccbgsfo4016-prey.esl
+- Added ccbgsfo4018-gaussrifleprototype.esl
+- Added ccbgsfo4019-chinesestealtharmor.esl
+- Added ccbgsfo4020-powerarmorskin(black).esl
+- Added ccbgsfo4022-powerarmorskin(camo01).esl
+- Added ccbgsfo4023-powerarmorskin(camo02).esl
+- Added ccbgsfo4025-powerarmorskin(chrome).esl
+- Added ccbgsfo4033-powerarmorskinwhite.esl
+- Added ccbgsfo4024-pacamo03.esl
+- Added ccbgsfo4038-horsearmor.esl
+- Added ccbgsfo4041-doommarinearmor.esl
+- Added ccbgsfo4042-bfg.esl
+- Added ccbgsfo4044-hellfirepowerarmor.esl
+- Added ccfsvfo4001-modularmilitarybackpack.esl
+- Added ccfsvfo4002-midcenturymodern.esl
+- Added ccfrsfo4001-handmadeshotgun.esl
+- Added cceejfo4001-decorationpack.esl
+- Added ccrzrfo4001-tunnelsnakes.esm
+- Added ccbgsfo4045-advarccab.esl
+- Added ccfsvfo4003-slocum.esl
+- Added ccgcafo4001-factionws01army.esl
+- Added ccgcafo4002-factionws02acat.esl
+- Added ccgcafo4003-factionws03bos.esl
+- Added ccgcafo4004-factionws04gun.esl
+- Added ccgcafo4005-factionws05hrpink.esl
+- Added ccgcafo4006-factionws06hrshark.esl
+- Added ccgcafo4007-factionws07hrflames.esl
+- Added ccgcafo4008-factionws08inst.esl
+- Added ccgcafo4009-factionws09mm.esl
+- Added ccgcafo4010-factionws10rr.esl
+- Added ccgcafo4011-factionws11vt.esl
+- Added ccgcafo4012-factionas01acat.esl
+- Added ccgcafo4013-factionas02bos.esl
+- Added ccgcafo4014-factionas03gun.esl
+- Added ccgcafo4015-factionas04hrpink.esl
+- Added ccgcafo4016-factionas05hrshark.esl
+- Added ccgcafo4017-factionas06inst.esl
+- Added ccgcafo4018-factionas07mm.esl
+- Added ccgcafo4019-factionas08nuk.esl
+- Added ccgcafo4020-factionas09rr.esl
+- Added ccgcafo4021-factionas10hrflames.esl
+- Added ccgcafo4022-factionas11vt.esl
+- Added ccgcafo4023-factionas12army.esl
+- Added ccawnfo4001-brandedattire.esl
+- Added ccawnfo4002-factionclothing.esl
+- Added ccswkfo4001-astronautpowerarmor.esm
+- Added ccswkfo4002-pipnuka.esl
+- Added ccswkfo4003-pipquan.esl
+- Added ccbgsfo4050-dgbcoll.esl
+- Added ccbgsfo4051-dgbox.esl
+- Added ccbgsfo4052-dgdal.esl
+- Added ccbgsfo4053-dggoldr.esl
+- Added ccbgsfo4054-dggreatd.esl
+- Added ccbgsfo4055-dghusk.esl
+- Added ccbgsfo4056-dglabb.esl
+- Added ccbgsfo4057-dglaby.esl
+- Added ccbgsfo4058-dglabc.esl
+- Added ccbgsfo4059-dgpit.esl
+- Added ccbgsfo4060-dgrot.esl
+- Added ccbgsfo4061-dgshiinu.esl
+- Added ccbgsfo4036-trnsdg.esl
+- Added ccrzrfo4004-pipinst.esl
+- Added ccbgsfo4062-pippat.esl
+- Added ccrzrfo4003-pipover.esl
+- Added ccfrsfo4002-antimaterielrifle.esl
+- Added cceejfo4002-nuka.esl
+- Added ccygpfo4001-pipcruiser.esl
+- Added ccbgsfo4072-pipgrog.esl
+- Added ccbgsfo4073-pipmman.esl
+- Added ccbgsfo4074-pipinspect.esl
+- Added ccbgsfo4075-pipshroud.esl
+- Added ccbgsfo4076-pipmystery.esl
+- Added ccbgsfo4071-piparc.esl
+- Added ccbgsfo4079-pipvim.esl
+- Added ccbgsfo4078-pipreily.esl
+- Added ccbgsfo4077-piprocket.esl
+- Added ccbgsfo4070-pipabra.esl
+- Added ccbgsfo4008-pipgrn.esl
+- Added ccbgsfo4015-pipyell.esl
+- Added ccbgsfo4009-piporan.esl
+- Added ccbgsfo4011-pippurp.esl
+- Added ccbgsfo4021-powerarmorskinblue.esl
+- Added ccbgsfo4027-powerarmorskingreen.esl
+- Added ccbgsfo4034-powerarmorskinyellow.esl
+- Added ccbgsfo4028-powerarmorskinorange.esl
+- Added ccbgsfo4031-powerarmorskinred.esl
+- Added ccbgsfo4030-powerarmorskinpurple.esl
+- Added ccbgsfo4032-powerarmorskintan.esl
+- Added ccbgsfo4029-powerarmorskinpink.esl
+- Added ccgrcfo4001-pipgreytort.esl
+- Added ccgrcfo4002-pipgreenvim.esl
+- Added ccbgsfo4013-piptan.esl
+- Added ccbgsfo4010-pippnk.esl
+- Added ccsbjfo4001-solarflare.esl
+- Added cczsef04001-bhouse.esm
+- Added cctosfo4001-neosky.esm
+- Added cckgjfo4001-bastion.esl
+- Added ccbgsfo4063-papat.esl
+- Added ccqdrfo4001_powerarmorai.esl
+- Added ccbgsfo4048-dovah.esl
+- Added ccbgsfo4101-as_shi.esl
+- Added ccbgsfo4114-ws_shi.esl
+- Added ccbgsfo4115-x02.esl
+- Added ccrzrfo4002-disintegrate.esl
+- Added ccbgsfo4116-heavyflamer.esl
+- Added ccbgsfo4091-as_bats.esl
+- Added ccbgsfo4092-as_camoblue.esl
+- Added ccbgsfo4093-as_camogreen.esl
+- Added ccbgsfo4094-as_camotan.esl
+- Added ccbgsfo4097-as_jack-olantern.esl
+- Added ccbgsfo4104-ws_bats.esl
+- Added ccbgsfo4105-ws_camoblue.esl
+- Added ccbgsfo4106-ws_camogreen.esl
+- Added ccbgsfo4107-ws_camotan.esl
+- Added ccbgsfo4111-ws_jack-olantern.esl
+- Added ccbgsfo4118-ws_tunnelsnakes.esl
+- Added ccbgsfo4113-ws_reillysrangers.esl
+- Added ccbgsfo4112-ws_pickman.esl
+- Added ccbgsfo4110-ws_enclave.esl
+- Added ccbgsfo4108-ws_childrenofatom.esl
+- Added ccbgsfo4103-as_tunnelsnakes.esl
+- Added ccbgsfo4099-as_reillysrangers.esl
+- Added ccbgsfo4098-as_pickman.esl
+- Added ccbgsfo4096-as_enclave.esl
+- Added ccbgsfo4095-as_childrenofatom.esl
+- Added ccbgsfo4090-piptribal.esl
+- Added ccbgsfo4089-pipsynthwave.esl
+- Added ccbgsfo4087-piphaida.esl
+- Added ccbgsfo4085-piphawaii.esl
+- Added ccbgsfo4084-pipretro.esl
+- Added ccbgsfo4083-pipartdeco.esl
+- Added ccbgsfo4082-pipprc.esl
+- Added ccbgsfo4081-pipphenolresin.esl
+- Added ccbgsfo4080-pippop.esl
+- Added ccbgsfo4035-pint.esl
+- Added ccbgsfo4086-pipadventure.esl
+- Added ccjvdfo4001-holiday.esl
+- Added ccbgsfo4047-qthund.esl
+- Added ccfrsfo4003-cr75l.esl
+- Added cczsefo4002-smanor.esm
+- Added ccacxfo4001-vsuit.esl
+- Added ccbgsfo4040-vrworkshop01.esl
+- Added ccfsvfo4005-vrdesertisland.esl
+- Added ccfsvfo4006-vrwasteland.esl
+- Added ccfsvfo4007-halloween.esl
+- Added ccsbjfo4002_manwellrifle.esl
+- Added cctosfo4002_neonflats.esm
+- Added ccbgsfo4117-capmerc.esl
+- Added ccfsvfo4004-vrworkshopgnrplaza.esl
+- Added ccgcafo4024-instituteplasmaweapons.esl
+- Added ccgcafo4025-pagunmm.esl
+- Added cccrsfo4001-pipcoa.esl
+- Added ccbgsfo4119-cyberdog.esl
+- Added ccbgsfo4120-poweramorskin(pittraider).esl
+- Added ccbgsfo4121-poweramorskin(airforce).esl
+- Added ccbgsfo4122-poweramorskin(scorchedsierra).esl
+- Added ccbgsfo4123-poweramorskin(inferno).esl
+- Added ccbgsfo4124-poweramorskin(tribalhelmets).esl
+- Added ccbgsfo4049-brahminarmor.esl
+- Added ccrpsfo4001-scavenger.esl
+- Added ccsbjfo4003-grenade.esl
+- Added ccsbjfo4004-ion.esl
+- Added ccvltfo4001-homes.esm
+- Added AshlandStationSettlement.esp
+- Added BakaWaitAnywhere.esm
+- Added holiday workshop pack + ufo4p.esl
+- Added gunners vs minutemen + ufo4p.esl
+- Added CWWorkshopMaster.esm
+- Added CWWorkshopPackPart2.esl
+- Added FaceLight.esl
+- Added INE_MiseryIsland.esp
+- Added INE_BoonIsland.esp
+- Added CavesOfTheCommonwealth.esp
+- Added ccccc.esp
+- Added ion gun + ufo4p.esl
+- Added neon flats + ufo4p.esl
+- Added pint-sized slasher + ufo4p.esl
+- Added sea scavengers + ufo4p.esl
+- Added StandaloneWorkbenches.esl
+- Added SSTMinutemanWatchtowers.esl
+- Added Minuteman Watchtowers - Survey Addon.esm
+- Added pacify03.esl
+- Added LIF.esl
+- Added LarannKiarRecruitModsAIOArchivePackESL.esl
+- Added Robot Home Defence.esm
+- Added RoboticsExpertExtend.esl
+- Added OWM-Master.esl
+- Added PAMAP.esp
+- Added SouthOfTheSea.esm
+- Added SubwayRunnnerDynamicLighting.esp
+- Added ppf-ae.esm
+- Added ppf-modt.esm
+- Added FortStronger.esm
+- Added AEWS_NukaWorldPatch.esp
+- Added N7HandmadeShottyOverhaul.esp
+- Added Addiction Overhaul.esp
+- Added cartman1975_warehouse.esp
+- Added Cho1-CR71-SW-Patch.esp
+- Added BetterOpenSeason.esp
+- Added Flashy_CrimeAndPunishment_GunForHire_Addon.esp
+- Added AkaWaterWorld.esp
+- Added BobbleGirl.esp
+- Added INE_BoonIsland_ReducedRain.esp
+- Added DD_Perk_Reset_WIZURD_HAIRRYY.esp
+- Added DelayTacticalThinking.esp
+- Added DiverseWasteland.esp
+- Added DiverseWastelandImmersionPack.esp
+- Added DiverseWasteland-WSFW-Compat.esp
+- Added DogmeatElementalArmors.esp
+- Added Dank_ECO.esp
+- Added Dank_ECO_DisablePlacedItems.esp
+- Added illbodyECOAmmoCraftingBench.esp
+- Added FIS-Naming-Weap-Armo-EN.esp
+- Added FarHarborStory.esp
+- Added Better_BOS_WorkshopItems.esp
+- Added Crafting Mastery 2.esp
+- Added Crafting Mastery 2 - CC Chinese Stealth Armor.esp
+- Added Crafting Mastery 2 - CC Repurposed Power Helmets.esp
+- Added Crafting Mastery 2 - CC Ion Gun.esp
+- Added Crafting Mastery 2 - CC Doom BFG.esp
+- Added Crafting Mastery 2 - CC Heavy Incinerator.esp
+- Added Crafting Mastery 2 - CC Horse Power Armor.esp
+- Added Crafting Mastery 2 - CC Pint Sized Slasher.esp
+- Added Crafting Mastery 2 - CC Nuka-Cola Collector Workshop.esp
+- Added Crafting Mastery 2 - CC Hellfire Power Armor.esp
+- Added Crafting Mastery 2 - CC Anti Materiel Rifle.esp
+- Added Crafting Mastery 2 - CC Modular Military Backpack.esp
+- Added Crafting Mastery 2 - CC X-02 Power Armor.esp
+- Added Crafting Mastery 2 - CC Capital Wasteland Mercenaries.esp
+- Added Crafting Mastery 2 - CC Neon Flats.esp
+- Added Crafting Mastery 2 - CC Sea Scavengers.esp
+- Added Crafting Mastery 2 - CC Makeshift Weapon Pack.esp
+- Added Crafting Mastery 2 - Syringer Upgrades.esp
+- Added Crafting Mastery 2 - CC Captain Cosmos.esp
+- Added Crafting Mastery 2 - CC Coffee and Donuts Workshop Pack.esp
+- Added Crafting Mastery 2 - CC CR-74L Combat Rifle.esp
+- Added Crafting Mastery 2 - CC Doom Classic Marine Armor.esp
+- Added Crafting Mastery 2 - CC Enclave Remnants.esp
+- Added Crafting Mastery 2 - CC Fantasy Hero Set.esp
+- Added Crafting Mastery 2 - CC Graphic T-Shirt Pack.esp
+- Added Crafting Mastery 2 - CC Halloween Workshop Pack.esp
+- Added Crafting Mastery 2 - CC Handmade Shotgun.esp
+- Added Crafting Mastery 2 - CC Holiday Workshop Pack.esp
+- Added Crafting Mastery 2 - CC Institute Plasma Weapons.esp
+- Added Crafting Mastery 2 - CC Manwell Rifle Set.esp
+- Added Crafting Mastery 2 - CC Morgan's Space Suit.esp
+- Added Crafting Mastery 2 - CC Noir Penthouse.esp
+- Added Crafting Mastery 2 - CC Prototype Gauss Rifle.esp
+- Added Crafting Mastery 2 - CC Quake Thunderbolt.esp
+- Added Crafting Mastery 2 - CC Railroad Clandestine Couture.esp
+- Added Crafting Mastery 2 - CC Shroud Manor.esp
+- Added Crafting Mastery 2 - CC Solar Cannon.esp
+- Added Crafting Mastery 2 - CC Tesla Cannon.esp
+- Added Crafting Mastery 2 - CC Tunnel Snakes Rule.esp
+- Added Crafting Mastery 2 - CC Zetan Arsenal.esp
+- Added Crafting Mastery 2 - Fair Nuka Mixes.esp
+- Added Crafting Mastery 2 - Patch ECO.esp
+- Added Crafting Mastery 2 - Throwables in the Explosives Bench.esp
+- Added InstitutePowerArmor.esp
+- Added Dank_LEO.esp
+- Added IntegratedAddons_ArmorPaintJob_VaultTec.esp
+- Added IntegratedAddons_PipBoyPaintJob_SilverShroud.esp
+- Added IntegratedAddons_PipBoyPaintJob_Grognak.esp
+- Added IntegratedAddons_PipBoyPaintJob_ReillysRangers.esp
+- Added IntegratedAddons_ArmorPaintJob_Bats.esp
+- Added IntegratedAddons_ArmorPaintJob_Gunners.esp
+- Added IntegratedAddons_WeaponPaintJob_Bats.esp
+- Added IntegratedAddons_ArmorPaintJob_BrotherhoodOfSteel.esp
+- Added IntegratedAddons_ArmorPaintJob_Minutemen.esp
+- Added IntegratedAddons_ArmorPaintJob_HotRodPink.esp
+- Added IntegratedAddons_PipBoyPaintJob_OverseerVeneer.esp
+- Added IntegratedAddons_ArcadeWorkshopPack.esp
+- Added IntegratedAddons.esp
+- Added IntegratedAddons_ArmorPaintJob_Institute.esp
+- Added IntegratedAddons_ArmorPaintJob_JackOLantern.esp
+- Added IntegratedAddons_ArmorPaintJob_NukaCherry.esp
+- Added IntegratedAddons_ArmorPaintJob_ReillysRangers.esp
+- Added IntegratedAddons_PipBoyPaintJob_NukaCola.esp
+- Added IntegratedAddons_PipBoyPaintJob_RedRocket.esp
+- Added IntegratedAddons_VaultSuitCustomization.esp
+- Added IntegratedAddons_WeaponPaintJob_Gunners.esp
+- Added FHSBonus.esp
+- Added ImprovedHostileGunnerINNRFIS.esp
+- Added ImprovedInstituteM150InstPAPatch.esp
+- Added CombatZoneRestored.esp
+- Added F4llout76 - Mutations.esp
+- Added ImprovedMinutemenINNRFIS.esp
+- Added 4estGimp - SotS AS MMWatchtower.esp
+- Added ImprovedBoSNWTakeOverPatch.esp
+- Added BetterFarHarbor_Open.esp
+- Added FBFH_EE_Acadia_Cleanup.esp
+- Added AshlandStationSubwayRunnerCompatDL.esp
+- Added A Sensible Prydwen Overhaul.esp
+- Added ImmersiveAnimationFramework.esp
+- Added IAF - Far Harbor & Nuka World.esp
+- Added CraftablePowerArmorFrame_Q.esp
+- Added WeaponModFixes-GOTY.esp
+- Added IntGrievingRaider.esp
+- Added JamaicaPlainPathing.esp
+- Added MechLairPathfindingFix.esp
+- Added UndergroundReduxWhisperBenches.esp
+- Added SettlementProduce.esp
+- Added OWM-StandaloneWorkbenches.esp
+- Added LegendaryLootExpansion.esp
+- Added Weapon Scrapping Redone.esp
+- Added Clothing Scrapping Redone.esp
+- Added Vanguard OWM Patch - Settlement Objects Expanded.esp
+- Added SwitchBoard_Reborn.esp
+- Added Snappable Clutter and Display.esp
+- Added StuckinFarHarbor.esp
+- Added StrengthInSteel.esp
+- Added ImprovedBoSStrengthInSteelPatch.esp
+- Added RadiantAbernathy.esp
+- Added ufo4p - better open season.esp
+- Added MaxsonPA.esp
+- Added Leah's Snappy AIO.esp
+- Added Leah's Snappy AIO SMM Patch.esp
+- Added StartInNukaWorld.esp
+- Added whisperCraftingRearranged.esp
+- Added IntegratedAddons_WeaponPaintJob_ReillysRangers.esp
+- Added IntegratedAddons_WeaponPaintJob_BrotherhoodOfSteel.esp
+- Added IntegratedAddons_WeaponPaintJob_Institute.esp
+- Added IntegratedAddons_WeaponPaintJob_HotRodPink.esp
+- Added IntegratedAddons_WeaponPaintJob_JackOLantern.esp
+- Added IntegratedAddons_WeaponPaintJob_Minutemen.esp
+- Added IntegratedAddons_WeaponPaintJob_VaultTec.esp
+- Added kc's cfmp - leo.esp
+- Added Light Radius Redux AIO.esp
+- Added LegendaryFramework.esp
+- Added TerrainUndersides.esp
+- Added MilleniumClutter.esp
+- Added whisperCraftPowerArmor.esp
+- Added Nuclear Flare Better Power Armors Complete.esp
+- Added Phase4DLC.esp
+- Added P4Previs.esp
+- Added zz_Automatron_Robots.esp
+- Added OWM-DLCNukaWorld.esp
+- Added OWM-ECO.esp
+- Added OWM-DLCRobot.esp
+- Added NukaWorldOpenSeasonExtend.esp
+- Added BreakheartBanksReclaimed.esp
+- Added friends.esp
+- Added Nuka World Bot Fixes.esp
+- Added YAWA2_MW_Patch.esp
+- Added New Weaves and Misc Mods.esp
+- Added NoTutorialAutoFavorites.esp
+- Added RobotHomeDefence SMM.esp
+- Added SettleObjExpandPackSMM.esp
+- Added mmwt - yawa2 - sots as.esp
+- Added Mechanist Lair Overhaul.esp
+- Added SSTFungalForest.esp
+- Added FungalForest-SotSPatch.esp
+- Added REPatch_CrimeAndPunishmentGunForHire.esp
+- Added Wasteland Illumination.esp
+- Added UltraExteriorLighting.esp
+- Added SouthOfTheSea[Previs].esp
+- Added SensiblePrydwenOverhaul_Previs.esp
+- Added SensiblePrydwenOverhaul_Extras.esp
+- Added Root Cellar shelter.esp
+- Added wecanlivein.esp
+- Added Rebuild_Settlements_Hotfix1.4.1.esp
+- Added Rebuild_Settlements_PRP.esp
+- Added CombatPrevis.esp
+- Added HuntressPrevis.esp
+- Added RootCellarShelter_PRP_Patch.esp
+- Added MinutemanWatchT_YAWA2_4Gimp_PRP_Patch.esp
+- Added SensiblePrydwenOverhaul_PRP_Patch.esp
+- Added MechanistLairOverhaul_PRP_Patch.esp
+- Added TheFungalAshlandSOTSmerge_PRP_Patch.esp
+- Added BetterFarHarborAcadiaCU_PRP_Patch.esp
+- Added CavesOfTheCommonwealth_PRP_Patch.esp
+- Added WCLI_Vault111.esp
+- Added WCLI_Vault111_YouAndWhatArmy2_BlacklistPatrols_Patch.esp
+- Added WCLI_Vault111_Previs.esp
+- Added FortStronger[Previsibines].esp
+- Added CambridgePoliceStationSettlement.esp
+- Added FortStronger[Previsibines-PRP81].esp
+- Added CambridgePoliceStationSettlement[Patch-PRP81].esp
+- Added TheCastleTunnelsRestoredAndFullSettlement.esp
+- Added necessity - fbfh patch.esp
+- Added BreakheartBanksReclaimed_PRPPatch.esp
+- Removed ccBGSFO4044-HellfirePowerArmor.esl
+- Removed ccBGSFO4115-X02.esl
+- Removed ccBGSFO4116-HeavyFlamer.esl
+- Removed ccBGSFO4110-WS_Enclave.esl
+- Removed ccBGSFO4096-AS_Enclave.esl
+- Removed ccFSVFO4007-Halloween.esl
+- Removed ccSBJFO4003-Grenade.esl
+- Removed wepeoplecanlivein.esp
+- Removed Rebuild_BostonAirport_PRP.esp
+- Removed wpcliprp81.esp
+- Removed wpcli_youandwhatarmy2_blacklistpatrols_patch.esp
+- Removed Rebuild_Settlements_Previs.esp
 
 ## 6.1
 **Built at:** `8/7/2026 4:35:50 AM`
