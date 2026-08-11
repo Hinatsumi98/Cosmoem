@@ -86,7 +86,7 @@ These steps are only required for installing the modlist for the first time. Add
 <Details>
 <summary>ICYWW: Why do we need a Pagefile?</summary>
 
-Fallout 4 is a very old game (originally released in 2011) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
+Fallout 4 is a very old game (originally released in 2015) that is built on the [Creation Engine](https://en.wikipedia.org/wiki/Creation_Engine), a engine based off of the [Gamebryo](https://en.wikipedia.org/wiki/Gamebryo) engine that was originally used for Morrowind (released in 2002, *before I was born*).  
 
 Through lots of experience and trial-and-error, we have discovered that increasing the window's pagefile can fix certain types of Fallout 4 crashes, the two most common examples being `Unhandled native exception occurred at 0x7FF6ADC8DDDA` and `Unhandled native exception occurred at 0x0`.  
 
