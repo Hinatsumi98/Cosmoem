@@ -8,7 +8,26 @@
 - [6.0](#60) Return to Roots Update.
 - [6.1](#61)
 - [6.1.2](#612) (Includes changes from 6.0.1 to 6.1 aswell as 6.1.2 and 6.1.1)
+- [6.1.3](#613)
+## 6.1.3 
+— Profile: Cosmoem
 
+### Changelog:
+- Added DLCAmmoFixed 107922 1.00 2026-08-11T22-10Z DzMlEffZp.zip
+- Added DirectHit - AE 75098 1.6.0 2026-08-11T17-33Z gXceq11NQ.zip
+- Added Energy Weapon Calculation Fix - AE 75565 1.3.0 2026-08-11T17-31Z bnEVTOO2s.zip
+- Added FomodShaderEngine-102022-0-2-2-1780211292.zip
+- Added Outfit Redress Fix AE (F4SE) 106521 1.1.0 2026-08-12T15-37Z LKSG8HHSl.zip
+- Added RobCo Patcher - AE 69798 5.3.0 2026-08-11T20-58Z Pcnih99Mf.zip
+- Added SKKQuickPlayerRespec_006-38621-006-1616923345.zip
+- Added Smooth Cell Loading - AE 107810 1.2.0 2026-08-11T12-05Z YB1uFkk0k.zip
+- Added pbt 1.11.221.1-29568-1-11-221-1-1781026524.zip
+- Added pixelPostProcess-102022-0-0-7-1776027415.zip
+- Added prkf 1.11.221-28822-1-11-221-1780909799.zip
+- Removed DirectHit - AE 75098 1.5.0 2026-07-15T14-19Z z23PjGFTo.zip
+- Removed Energy Weapon Calculation Fix - AE 75565 1.2.0 2026-07-15T14-45Z UkCFsg6vF.zip
+- Removed RobCo Patcher - AE 69798 5.2.1 2026-08-07T21-30Z FLyfQee05.zip
+- Removed Smooth Cell Loading - AE 107810 1.0.0 2026-08-10T18-54Z OtKdIllG0.zip
 ## 6.1.2
 **Built at:** `8/10/2026 6:16:06 PM`
 
