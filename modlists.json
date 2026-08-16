@@ -95,52 +95,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-05-08T17:48:43.851536Z",
     "repositoryName": ""
-  },
-  {
-    "title": "CosmoemAE",
-    "description": "Visit the Cosmos! Creations Bundle Variant!",
-    "author": "Hina",
-    "maintainers": [
-      "github/Hinatsumi98"
-    ],
-    "game": "fallout4",
-    "official": false,
-    "tags": [
-      "SFW",
-      "Steam",
-      "Vanilla\u002B"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/main/splash-2.png",
-      "readme": "hhttps://github.com/Hinatsumi98/Cosmoem/blob/main/Cosmoem-Readme.md",
-      "download": "https://authored-files.wabbajack.org/CosmoemAE.wabbajack_fc98392c-50e1-449a-8fe2-4a4c6378f4d5",
-      "machineURL": "CosmoemAE",
-      "discordURL": "https://discord.gg/PJNUzbE89p",
-      "websiteURL": "",
-      "nexusCollection": {
-        "collectionId": "483283",
-        "slug": "nv9yvg",
-        "domainName": "fallout4",
-        "lastRevisionNumber": 12
-      }
-    },
-    "download_metadata": {
-      "Hash": "vQvK+BigSJQ=",
-      "Size": 10285219,
-      "NumberOfArchives": 977,
-      "SizeOfArchives": 68819198666,
-      "NumberOfInstalledFiles": 36678,
-      "SizeOfInstalledFiles": 136937684025,
-      "TotalSize": 205756882691
-    },
-    "version": "6.1.3",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-13T06:39:41.0184143Z",
-    "repositoryName": ""
   }
 ]
