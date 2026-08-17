@@ -32,7 +32,6 @@
     - [Missing Manual Downloads](#missing-manual-downloads)
 - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
   - [Game Folder](#game-folder)
-  - [Data Folder/Creations](#data-folder/creations)
   - [Antivirus Exceptions](#antivirus-exceptions)
   - [Post-Installation Issues and Troubleshooting](#post-installation-issues-and-troubleshooting)
 - [Updating the modlist](#updating-the-modlist)
@@ -245,11 +244,6 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
 ## Game Folder
 
 Cosmoem uses a Wabbajack feature called Stock Game to keep your Fallout 4 installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
-
-## Data Folder/Creations
-1. AFTER fully installed, right click base game fallout 4's Data folder(the folder including it's contents)(typically located at "C:\Program Files (x86)\Steam\steamapps\common\Fallout 4") -> Copy
-2. now paste it in Cosmoem/mods/
-3. make sure to enable the new "Data" "mod" IT WILL NOT FUNCTION IF YOU DON'T!
 
 ## Bodyslides
 
