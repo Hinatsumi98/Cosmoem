@@ -45,55 +45,5 @@
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2026-08-17T02:41:49.2156221Z",
     "repositoryName": ""
-  },
-  {
-    "title": "Cursedelica",
-    "description": "Biblically accurate Skyrim",
-    "author": "Hina",
-    "maintainers": [
-      "github/Hinatsumi98",
-      "Hinatsumi98"
-    ],
-    "game": "skyrimspecialedition",
-    "official": true,
-    "tags": [
-      "Overhaul",
-      "LOTD",
-      "Legacy of the Dragonborn",
-      "Simonrim",
-      "official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Hinatsumi98/Cosmoem/refs/heads/main/banner.webp",
-      "readme": "https://github.com/Hinatsumi98/Cosmoem/blob/main/curseadelica-README.md",
-      "download": "https://authored-files.wabbajack.org/Curseadelica.wabbajack_ca7208eb-c990-4082-9e48-9988f24834bc",
-      "machineURL": "Curseadelica",
-      "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": "",
-      "nexusCollection": {
-        "collectionId": "446413",
-        "slug": "nfbquh",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 2
-      }
-    },
-    "download_metadata": {
-      "Hash": "kk1HMmxo4ag=",
-      "Size": 96994566,
-      "NumberOfArchives": 978,
-      "SizeOfArchives": 102610704077,
-      "NumberOfInstalledFiles": 346197,
-      "SizeOfInstalledFiles": 171823535904,
-      "TotalSize": 274434239981
-    },
-    "version": "3.25",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-05-08T17:48:43.851536Z",
-    "repositoryName": ""
   }
 ]
