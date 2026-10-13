@@ -10,7 +10,7 @@
 **Modlist Support: [Cosmoem](https://discord.gg/PJNUzbE89p)**
 
 >[!WARNING]
->You must update Fallout 4 to the latest version (1.11.221) on Steam to install this list.
+>You must update Fallout 4 to the latest version (1.11.240) on Steam to install this list.
 
 <header>
     <h1>Contents</h1>
@@ -154,10 +154,9 @@ To install Cosmoem, complete the following steps.
  4. Set the `Installation Location` to a folder such as `C:\Cosmoem`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Fallout 4's Steam folder**
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
- 5. Download the files from the [Missing Manual Downloads](#missing-manual-downloads) section and place them in your designated `Downloads Location` folder.
- 6. Press the `Install` button.
- 7. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/PJNUzbE89p) for support.
+ 5. Press the `Install` button.
+ 6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/PJNUzbE89p) for support.
 
 ## Problems with installation
 
